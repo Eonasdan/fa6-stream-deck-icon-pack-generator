@@ -1,0 +1,9718 @@
+[
+  {
+    "name": "0",
+    "path": "0.png",
+    "tags": [
+      "0"
+    ]
+  },
+  {
+    "name": "1",
+    "path": "1.png",
+    "tags": [
+      "1"
+    ]
+  },
+  {
+    "name": "2",
+    "path": "2.png",
+    "tags": [
+      "2"
+    ]
+  },
+  {
+    "name": "3",
+    "path": "3.png",
+    "tags": [
+      "3"
+    ]
+  },
+  {
+    "name": "4",
+    "path": "4.png",
+    "tags": [
+      "4"
+    ]
+  },
+  {
+    "name": "5",
+    "path": "5.png",
+    "tags": [
+      "5"
+    ]
+  },
+  {
+    "name": "6",
+    "path": "6.png",
+    "tags": [
+      "6"
+    ]
+  },
+  {
+    "name": "7",
+    "path": "7.png",
+    "tags": [
+      "7"
+    ]
+  },
+  {
+    "name": "8",
+    "path": "8.png",
+    "tags": [
+      "8"
+    ]
+  },
+  {
+    "name": "9",
+    "path": "9.png",
+    "tags": [
+      "9"
+    ]
+  },
+  {
+    "name": "A",
+    "path": "a.png",
+    "tags": [
+      "A"
+    ]
+  },
+  {
+    "name": "Address Book",
+    "path": "address-book.png",
+    "tags": [
+      "Address Book"
+    ]
+  },
+  {
+    "name": "Address Card",
+    "path": "address-card.png",
+    "tags": [
+      "Address Card"
+    ]
+  },
+  {
+    "name": "align-center",
+    "path": "align-center.png",
+    "tags": [
+      "align-center"
+    ]
+  },
+  {
+    "name": "align-justify",
+    "path": "align-justify.png",
+    "tags": [
+      "align-justify"
+    ]
+  },
+  {
+    "name": "align-left",
+    "path": "align-left.png",
+    "tags": [
+      "align-left"
+    ]
+  },
+  {
+    "name": "align-right",
+    "path": "align-right.png",
+    "tags": [
+      "align-right"
+    ]
+  },
+  {
+    "name": "Anchor",
+    "path": "anchor.png",
+    "tags": [
+      "Anchor"
+    ]
+  },
+  {
+    "name": "Anchor Circle-check",
+    "path": "anchor-circle-check.png",
+    "tags": [
+      "Anchor Circle-check"
+    ]
+  },
+  {
+    "name": "Anchor Circle-exclamation",
+    "path": "anchor-circle-exclamation.png",
+    "tags": [
+      "Anchor Circle-exclamation"
+    ]
+  },
+  {
+    "name": "Anchor Circle-xmark",
+    "path": "anchor-circle-xmark.png",
+    "tags": [
+      "Anchor Circle-xmark"
+    ]
+  },
+  {
+    "name": "Anchor Lock",
+    "path": "anchor-lock.png",
+    "tags": [
+      "Anchor Lock"
+    ]
+  },
+  {
+    "name": "angle-down",
+    "path": "angle-down.png",
+    "tags": [
+      "angle-down"
+    ]
+  },
+  {
+    "name": "angle-left",
+    "path": "angle-left.png",
+    "tags": [
+      "angle-left"
+    ]
+  },
+  {
+    "name": "angle-right",
+    "path": "angle-right.png",
+    "tags": [
+      "angle-right"
+    ]
+  },
+  {
+    "name": "angle-up",
+    "path": "angle-up.png",
+    "tags": [
+      "angle-up"
+    ]
+  },
+  {
+    "name": "Angles down",
+    "path": "angles-down.png",
+    "tags": [
+      "Angles down"
+    ]
+  },
+  {
+    "name": "Angles left",
+    "path": "angles-left.png",
+    "tags": [
+      "Angles left"
+    ]
+  },
+  {
+    "name": "Angles right",
+    "path": "angles-right.png",
+    "tags": [
+      "Angles right"
+    ]
+  },
+  {
+    "name": "Angles up",
+    "path": "angles-up.png",
+    "tags": [
+      "Angles up"
+    ]
+  },
+  {
+    "name": "Ankh",
+    "path": "ankh.png",
+    "tags": [
+      "Ankh"
+    ]
+  },
+  {
+    "name": "Apple whole",
+    "path": "apple-whole.png",
+    "tags": [
+      "Apple whole"
+    ]
+  },
+  {
+    "name": "Archway",
+    "path": "archway.png",
+    "tags": [
+      "Archway"
+    ]
+  },
+  {
+    "name": "Arrow down",
+    "path": "arrow-down.png",
+    "tags": [
+      "Arrow down"
+    ]
+  },
+  {
+    "name": "Arrow down 1 9",
+    "path": "arrow-down-1-9.png",
+    "tags": [
+      "Arrow down 1 9"
+    ]
+  },
+  {
+    "name": "Arrow down 9 1",
+    "path": "arrow-down-9-1.png",
+    "tags": [
+      "Arrow down 9 1"
+    ]
+  },
+  {
+    "name": "Arrow down a z",
+    "path": "arrow-down-a-z.png",
+    "tags": [
+      "Arrow down a z"
+    ]
+  },
+  {
+    "name": "Arrow down long",
+    "path": "arrow-down-long.png",
+    "tags": [
+      "Arrow down long"
+    ]
+  },
+  {
+    "name": "Arrow down short wide",
+    "path": "arrow-down-short-wide.png",
+    "tags": [
+      "Arrow down short wide"
+    ]
+  },
+  {
+    "name": "Arrow Down-up-across-line",
+    "path": "arrow-down-up-across-line.png",
+    "tags": [
+      "Arrow Down-up-across-line"
+    ]
+  },
+  {
+    "name": "Arrow Down-up-lock",
+    "path": "arrow-down-up-lock.png",
+    "tags": [
+      "Arrow Down-up-lock"
+    ]
+  },
+  {
+    "name": "Arrow down wide short",
+    "path": "arrow-down-wide-short.png",
+    "tags": [
+      "Arrow down wide short"
+    ]
+  },
+  {
+    "name": "Arrow down z a",
+    "path": "arrow-down-z-a.png",
+    "tags": [
+      "Arrow down z a"
+    ]
+  },
+  {
+    "name": "arrow-left",
+    "path": "arrow-left.png",
+    "tags": [
+      "arrow-left"
+    ]
+  },
+  {
+    "name": "Arrow left long",
+    "path": "arrow-left-long.png",
+    "tags": [
+      "Arrow left long"
+    ]
+  },
+  {
+    "name": "Arrow pointer",
+    "path": "arrow-pointer.png",
+    "tags": [
+      "Arrow pointer"
+    ]
+  },
+  {
+    "name": "arrow right",
+    "path": "arrow-right.png",
+    "tags": [
+      "arrow right"
+    ]
+  },
+  {
+    "name": "Arrow right arrow left",
+    "path": "arrow-right-arrow-left.png",
+    "tags": [
+      "Arrow right arrow left"
+    ]
+  },
+  {
+    "name": "Arrow right from bracket",
+    "path": "arrow-right-from-bracket.png",
+    "tags": [
+      "Arrow right from bracket"
+    ]
+  },
+  {
+    "name": "Arrow right long",
+    "path": "arrow-right-long.png",
+    "tags": [
+      "Arrow right long"
+    ]
+  },
+  {
+    "name": "Arrow right to bracket",
+    "path": "arrow-right-to-bracket.png",
+    "tags": [
+      "Arrow right to bracket"
+    ]
+  },
+  {
+    "name": "Arrow Right-to-city",
+    "path": "arrow-right-to-city.png",
+    "tags": [
+      "Arrow Right-to-city"
+    ]
+  },
+  {
+    "name": "Arrow Rotate Left",
+    "path": "arrow-rotate-left.png",
+    "tags": [
+      "Arrow Rotate Left"
+    ]
+  },
+  {
+    "name": "Arrow Rotate Right",
+    "path": "arrow-rotate-right.png",
+    "tags": [
+      "Arrow Rotate Right"
+    ]
+  },
+  {
+    "name": "Arrow trend down",
+    "path": "arrow-trend-down.png",
+    "tags": [
+      "Arrow trend down"
+    ]
+  },
+  {
+    "name": "Arrow trend up",
+    "path": "arrow-trend-up.png",
+    "tags": [
+      "Arrow trend up"
+    ]
+  },
+  {
+    "name": "Arrow turn down",
+    "path": "arrow-turn-down.png",
+    "tags": [
+      "Arrow turn down"
+    ]
+  },
+  {
+    "name": "Arrow turn up",
+    "path": "arrow-turn-up.png",
+    "tags": [
+      "Arrow turn up"
+    ]
+  },
+  {
+    "name": "Arrow up",
+    "path": "arrow-up.png",
+    "tags": [
+      "Arrow up"
+    ]
+  },
+  {
+    "name": "Arrow up 1 9",
+    "path": "arrow-up-1-9.png",
+    "tags": [
+      "Arrow up 1 9"
+    ]
+  },
+  {
+    "name": "Arrow up 9 1",
+    "path": "arrow-up-9-1.png",
+    "tags": [
+      "Arrow up 9 1"
+    ]
+  },
+  {
+    "name": "Arrow up a z",
+    "path": "arrow-up-a-z.png",
+    "tags": [
+      "Arrow up a z"
+    ]
+  },
+  {
+    "name": "Arrow up from bracket",
+    "path": "arrow-up-from-bracket.png",
+    "tags": [
+      "Arrow up from bracket"
+    ]
+  },
+  {
+    "name": "Arrow Up-from-ground-water",
+    "path": "arrow-up-from-ground-water.png",
+    "tags": [
+      "Arrow Up-from-ground-water"
+    ]
+  },
+  {
+    "name": "Arrow Up-from-water-pump",
+    "path": "arrow-up-from-water-pump.png",
+    "tags": [
+      "Arrow Up-from-water-pump"
+    ]
+  },
+  {
+    "name": "Arrow up long",
+    "path": "arrow-up-long.png",
+    "tags": [
+      "Arrow up long"
+    ]
+  },
+  {
+    "name": "Arrow Up-right-dots",
+    "path": "arrow-up-right-dots.png",
+    "tags": [
+      "Arrow Up-right-dots"
+    ]
+  },
+  {
+    "name": "Arrow up right from square",
+    "path": "arrow-up-right-from-square.png",
+    "tags": [
+      "Arrow up right from square"
+    ]
+  },
+  {
+    "name": "Arrow up short wide",
+    "path": "arrow-up-short-wide.png",
+    "tags": [
+      "Arrow up short wide"
+    ]
+  },
+  {
+    "name": "Arrow up wide short",
+    "path": "arrow-up-wide-short.png",
+    "tags": [
+      "Arrow up wide short"
+    ]
+  },
+  {
+    "name": "Arrow up z a",
+    "path": "arrow-up-z-a.png",
+    "tags": [
+      "Arrow up z a"
+    ]
+  },
+  {
+    "name": "Arrows Down-to-line",
+    "path": "arrows-down-to-line.png",
+    "tags": [
+      "Arrows Down-to-line"
+    ]
+  },
+  {
+    "name": "Arrows Down-to-people",
+    "path": "arrows-down-to-people.png",
+    "tags": [
+      "Arrows Down-to-people"
+    ]
+  },
+  {
+    "name": "Arrows left right",
+    "path": "arrows-left-right.png",
+    "tags": [
+      "Arrows left right"
+    ]
+  },
+  {
+    "name": "Arrows Left-right-to-line",
+    "path": "arrows-left-right-to-line.png",
+    "tags": [
+      "Arrows Left-right-to-line"
+    ]
+  },
+  {
+    "name": "Arrows rotate",
+    "path": "arrows-rotate.png",
+    "tags": [
+      "Arrows rotate"
+    ]
+  },
+  {
+    "name": "Arrows Spin",
+    "path": "arrows-spin.png",
+    "tags": [
+      "Arrows Spin"
+    ]
+  },
+  {
+    "name": "Arrows Split-up-and-left",
+    "path": "arrows-split-up-and-left.png",
+    "tags": [
+      "Arrows Split-up-and-left"
+    ]
+  },
+  {
+    "name": "Arrows To-circle",
+    "path": "arrows-to-circle.png",
+    "tags": [
+      "Arrows To-circle"
+    ]
+  },
+  {
+    "name": "Arrows To-dot",
+    "path": "arrows-to-dot.png",
+    "tags": [
+      "Arrows To-dot"
+    ]
+  },
+  {
+    "name": "Arrows To-eye",
+    "path": "arrows-to-eye.png",
+    "tags": [
+      "Arrows To-eye"
+    ]
+  },
+  {
+    "name": "Arrows Turn-right",
+    "path": "arrows-turn-right.png",
+    "tags": [
+      "Arrows Turn-right"
+    ]
+  },
+  {
+    "name": "Arrows Turn-to-dots",
+    "path": "arrows-turn-to-dots.png",
+    "tags": [
+      "Arrows Turn-to-dots"
+    ]
+  },
+  {
+    "name": "Arrows up down",
+    "path": "arrows-up-down.png",
+    "tags": [
+      "Arrows up down"
+    ]
+  },
+  {
+    "name": "Arrows up down left right",
+    "path": "arrows-up-down-left-right.png",
+    "tags": [
+      "Arrows up down left right"
+    ]
+  },
+  {
+    "name": "Arrows Up-to-line",
+    "path": "arrows-up-to-line.png",
+    "tags": [
+      "Arrows Up-to-line"
+    ]
+  },
+  {
+    "name": "asterisk",
+    "path": "asterisk.png",
+    "tags": [
+      "asterisk"
+    ]
+  },
+  {
+    "name": "At",
+    "path": "at.png",
+    "tags": [
+      "At"
+    ]
+  },
+  {
+    "name": "Atom",
+    "path": "atom.png",
+    "tags": [
+      "Atom"
+    ]
+  },
+  {
+    "name": "Rectangle audio description",
+    "path": "rectangle-audio-description.png",
+    "tags": [
+      "Rectangle audio description"
+    ]
+  },
+  {
+    "name": "Austral Sign",
+    "path": "austral-sign.png",
+    "tags": [
+      "Austral Sign"
+    ]
+  },
+  {
+    "name": "Award",
+    "path": "award.png",
+    "tags": [
+      "Award"
+    ]
+  },
+  {
+    "name": "B",
+    "path": "b.png",
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "name": "Baby",
+    "path": "baby.png",
+    "tags": [
+      "Baby"
+    ]
+  },
+  {
+    "name": "Baby Carriage",
+    "path": "baby-carriage.png",
+    "tags": [
+      "Baby Carriage"
+    ]
+  },
+  {
+    "name": "backward",
+    "path": "backward.png",
+    "tags": [
+      "backward"
+    ]
+  },
+  {
+    "name": "Backward fast",
+    "path": "backward-fast.png",
+    "tags": [
+      "Backward fast"
+    ]
+  },
+  {
+    "name": "Backward step",
+    "path": "backward-step.png",
+    "tags": [
+      "Backward step"
+    ]
+  },
+  {
+    "name": "Bacon",
+    "path": "bacon.png",
+    "tags": [
+      "Bacon"
+    ]
+  },
+  {
+    "name": "Bacteria",
+    "path": "bacteria.png",
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "name": "Bacterium",
+    "path": "bacterium.png",
+    "tags": [
+      "Bacterium"
+    ]
+  },
+  {
+    "name": "Bag shopping",
+    "path": "bag-shopping.png",
+    "tags": [
+      "Bag shopping"
+    ]
+  },
+  {
+    "name": "Bahá'í",
+    "path": "bahai.png",
+    "tags": [
+      "Bahá\\'í"
+    ]
+  },
+  {
+    "name": "Baht Sign",
+    "path": "baht-sign.png",
+    "tags": [
+      "Baht Sign"
+    ]
+  },
+  {
+    "name": "ban",
+    "path": "ban.png",
+    "tags": [
+      "ban"
+    ]
+  },
+  {
+    "name": "Ban smoking",
+    "path": "ban-smoking.png",
+    "tags": [
+      "Ban smoking"
+    ]
+  },
+  {
+    "name": "Bandage",
+    "path": "bandage.png",
+    "tags": [
+      "Bandage"
+    ]
+  },
+  {
+    "name": "barcode",
+    "path": "barcode.png",
+    "tags": [
+      "barcode"
+    ]
+  },
+  {
+    "name": "Bars",
+    "path": "bars.png",
+    "tags": [
+      "Bars"
+    ]
+  },
+  {
+    "name": "Bars progress",
+    "path": "bars-progress.png",
+    "tags": [
+      "Bars progress"
+    ]
+  },
+  {
+    "name": "Bars staggered",
+    "path": "bars-staggered.png",
+    "tags": [
+      "Bars staggered"
+    ]
+  },
+  {
+    "name": "Baseball Ball",
+    "path": "baseball-ball.png",
+    "tags": [
+      "Baseball Ball"
+    ]
+  },
+  {
+    "name": "Baseball bat ball",
+    "path": "baseball-bat-ball.png",
+    "tags": [
+      "Baseball bat ball"
+    ]
+  },
+  {
+    "name": "Basket shopping",
+    "path": "basket-shopping.png",
+    "tags": [
+      "Basket shopping"
+    ]
+  },
+  {
+    "name": "Basketball Ball",
+    "path": "basketball-ball.png",
+    "tags": [
+      "Basketball Ball"
+    ]
+  },
+  {
+    "name": "Bath",
+    "path": "bath.png",
+    "tags": [
+      "Bath"
+    ]
+  },
+  {
+    "name": "Battery Empty",
+    "path": "battery-empty.png",
+    "tags": [
+      "Battery Empty"
+    ]
+  },
+  {
+    "name": "Battery Full",
+    "path": "battery-full.png",
+    "tags": [
+      "Battery Full"
+    ]
+  },
+  {
+    "name": "Battery 1/2 Full",
+    "path": "battery-12-full.png",
+    "tags": [
+      "Battery 1/2 Full"
+    ]
+  },
+  {
+    "name": "Battery 1/4 Full",
+    "path": "battery-14-full.png",
+    "tags": [
+      "Battery 1/4 Full"
+    ]
+  },
+  {
+    "name": "Battery 3/4 Full",
+    "path": "battery-34-full.png",
+    "tags": [
+      "Battery 3/4 Full"
+    ]
+  },
+  {
+    "name": "Bed",
+    "path": "bed.png",
+    "tags": [
+      "Bed"
+    ]
+  },
+  {
+    "name": "Bed pulse",
+    "path": "bed-pulse.png",
+    "tags": [
+      "Bed pulse"
+    ]
+  },
+  {
+    "name": "Beer mug empty",
+    "path": "beer-mug-empty.png",
+    "tags": [
+      "Beer mug empty"
+    ]
+  },
+  {
+    "name": "bell",
+    "path": "bell.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "Bell concierge",
+    "path": "bell-concierge.png",
+    "tags": [
+      "Bell concierge"
+    ]
+  },
+  {
+    "name": "Bell Slash",
+    "path": "bell-slash.png",
+    "tags": [
+      "Bell Slash"
+    ]
+  },
+  {
+    "name": "Bezier Curve",
+    "path": "bezier-curve.png",
+    "tags": [
+      "Bezier Curve"
+    ]
+  },
+  {
+    "name": "Bicycle",
+    "path": "bicycle.png",
+    "tags": [
+      "Bicycle"
+    ]
+  },
+  {
+    "name": "Binoculars",
+    "path": "binoculars.png",
+    "tags": [
+      "Binoculars"
+    ]
+  },
+  {
+    "name": "Biohazard",
+    "path": "biohazard.png",
+    "tags": [
+      "Biohazard"
+    ]
+  },
+  {
+    "name": "Bitcoin Sign",
+    "path": "bitcoin-sign.png",
+    "tags": [
+      "Bitcoin Sign"
+    ]
+  },
+  {
+    "name": "Blender",
+    "path": "blender.png",
+    "tags": [
+      "Blender"
+    ]
+  },
+  {
+    "name": "Blender Phone",
+    "path": "blender-phone.png",
+    "tags": [
+      "Blender Phone"
+    ]
+  },
+  {
+    "name": "Blog",
+    "path": "blog.png",
+    "tags": [
+      "Blog"
+    ]
+  },
+  {
+    "name": "bold",
+    "path": "bold.png",
+    "tags": [
+      "bold"
+    ]
+  },
+  {
+    "name": "Bolt",
+    "path": "bolt.png",
+    "tags": [
+      "Bolt"
+    ]
+  },
+  {
+    "name": "Lightning Bolt",
+    "path": "lightning-bolt.png",
+    "tags": [
+      "Lightning Bolt"
+    ]
+  },
+  {
+    "name": "Bomb",
+    "path": "bomb.png",
+    "tags": [
+      "Bomb"
+    ]
+  },
+  {
+    "name": "Bone",
+    "path": "bone.png",
+    "tags": [
+      "Bone"
+    ]
+  },
+  {
+    "name": "Bong",
+    "path": "bong.png",
+    "tags": [
+      "Bong"
+    ]
+  },
+  {
+    "name": "book",
+    "path": "book.png",
+    "tags": [
+      "book"
+    ]
+  },
+  {
+    "name": "Book atlas",
+    "path": "book-atlas.png",
+    "tags": [
+      "Book atlas"
+    ]
+  },
+  {
+    "name": "Book bible",
+    "path": "book-bible.png",
+    "tags": [
+      "Book bible"
+    ]
+  },
+  {
+    "name": "Book Bookmark",
+    "path": "book-bookmark.png",
+    "tags": [
+      "Book Bookmark"
+    ]
+  },
+  {
+    "name": "Book journal whills",
+    "path": "book-journal-whills.png",
+    "tags": [
+      "Book journal whills"
+    ]
+  },
+  {
+    "name": "Medical Book",
+    "path": "medical-book.png",
+    "tags": [
+      "Medical Book"
+    ]
+  },
+  {
+    "name": "Book Open",
+    "path": "book-open.png",
+    "tags": [
+      "Book Open"
+    ]
+  },
+  {
+    "name": "Book open reader",
+    "path": "book-open-reader.png",
+    "tags": [
+      "Book open reader"
+    ]
+  },
+  {
+    "name": "Book quran",
+    "path": "book-quran.png",
+    "tags": [
+      "Book quran"
+    ]
+  },
+  {
+    "name": "Book skull",
+    "path": "book-skull.png",
+    "tags": [
+      "Book skull"
+    ]
+  },
+  {
+    "name": "Book tanakh",
+    "path": "book-tanakh.png",
+    "tags": [
+      "Book tanakh"
+    ]
+  },
+  {
+    "name": "bookmark",
+    "path": "bookmark.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "Border All",
+    "path": "border-all.png",
+    "tags": [
+      "Border All"
+    ]
+  },
+  {
+    "name": "Border None",
+    "path": "border-none.png",
+    "tags": [
+      "Border None"
+    ]
+  },
+  {
+    "name": "Border top left",
+    "path": "border-top-left.png",
+    "tags": [
+      "Border top left"
+    ]
+  },
+  {
+    "name": "Bore Hole",
+    "path": "bore-hole.png",
+    "tags": [
+      "Bore Hole"
+    ]
+  },
+  {
+    "name": "Bottle Droplet",
+    "path": "bottle-droplet.png",
+    "tags": [
+      "Bottle Droplet"
+    ]
+  },
+  {
+    "name": "Bottle Water",
+    "path": "bottle-water.png",
+    "tags": [
+      "Bottle Water"
+    ]
+  },
+  {
+    "name": "Bowl Food",
+    "path": "bowl-food.png",
+    "tags": [
+      "Bowl Food"
+    ]
+  },
+  {
+    "name": "Bowl Rice",
+    "path": "bowl-rice.png",
+    "tags": [
+      "Bowl Rice"
+    ]
+  },
+  {
+    "name": "Bowling Ball",
+    "path": "bowling-ball.png",
+    "tags": [
+      "Bowling Ball"
+    ]
+  },
+  {
+    "name": "Box",
+    "path": "box.png",
+    "tags": [
+      "Box"
+    ]
+  },
+  {
+    "name": "Box archive",
+    "path": "box-archive.png",
+    "tags": [
+      "Box archive"
+    ]
+  },
+  {
+    "name": "Box Open",
+    "path": "box-open.png",
+    "tags": [
+      "Box Open"
+    ]
+  },
+  {
+    "name": "Tissue Box",
+    "path": "tissue-box.png",
+    "tags": [
+      "Tissue Box"
+    ]
+  },
+  {
+    "name": "Boxes Packing",
+    "path": "boxes-packing.png",
+    "tags": [
+      "Boxes Packing"
+    ]
+  },
+  {
+    "name": "Boxes stacked",
+    "path": "boxes-stacked.png",
+    "tags": [
+      "Boxes stacked"
+    ]
+  },
+  {
+    "name": "Braille",
+    "path": "braille.png",
+    "tags": [
+      "Braille"
+    ]
+  },
+  {
+    "name": "Brain",
+    "path": "brain.png",
+    "tags": [
+      "Brain"
+    ]
+  },
+  {
+    "name": "Brazilian Real Sign",
+    "path": "brazilian-real-sign.png",
+    "tags": [
+      "Brazilian Real Sign"
+    ]
+  },
+  {
+    "name": "Bread Slice",
+    "path": "bread-slice.png",
+    "tags": [
+      "Bread Slice"
+    ]
+  },
+  {
+    "name": "Bridge",
+    "path": "bridge.png",
+    "tags": [
+      "Bridge"
+    ]
+  },
+  {
+    "name": "Bridge Circle-check",
+    "path": "bridge-circle-check.png",
+    "tags": [
+      "Bridge Circle-check"
+    ]
+  },
+  {
+    "name": "Bridge Circle-exclamation",
+    "path": "bridge-circle-exclamation.png",
+    "tags": [
+      "Bridge Circle-exclamation"
+    ]
+  },
+  {
+    "name": "Bridge Circle-xmark",
+    "path": "bridge-circle-xmark.png",
+    "tags": [
+      "Bridge Circle-xmark"
+    ]
+  },
+  {
+    "name": "Bridge Lock",
+    "path": "bridge-lock.png",
+    "tags": [
+      "Bridge Lock"
+    ]
+  },
+  {
+    "name": "Bridge Water",
+    "path": "bridge-water.png",
+    "tags": [
+      "Bridge Water"
+    ]
+  },
+  {
+    "name": "Briefcase",
+    "path": "briefcase.png",
+    "tags": [
+      "Briefcase"
+    ]
+  },
+  {
+    "name": "Medical Briefcase",
+    "path": "medical-briefcase.png",
+    "tags": [
+      "Medical Briefcase"
+    ]
+  },
+  {
+    "name": "Broom",
+    "path": "broom.png",
+    "tags": [
+      "Broom"
+    ]
+  },
+  {
+    "name": "Broom and Ball",
+    "path": "broom-and-ball.png",
+    "tags": [
+      "Broom and Ball"
+    ]
+  },
+  {
+    "name": "Brush",
+    "path": "brush.png",
+    "tags": [
+      "Brush"
+    ]
+  },
+  {
+    "name": "Bucket",
+    "path": "bucket.png",
+    "tags": [
+      "Bucket"
+    ]
+  },
+  {
+    "name": "Bug",
+    "path": "bug.png",
+    "tags": [
+      "Bug"
+    ]
+  },
+  {
+    "name": "Bug Slash",
+    "path": "bug-slash.png",
+    "tags": [
+      "Bug Slash"
+    ]
+  },
+  {
+    "name": "Bugs",
+    "path": "bugs.png",
+    "tags": [
+      "Bugs"
+    ]
+  },
+  {
+    "name": "Building",
+    "path": "building.png",
+    "tags": [
+      "Building"
+    ]
+  },
+  {
+    "name": "Building Circle-arrow-right",
+    "path": "building-circle-arrow-right.png",
+    "tags": [
+      "Building Circle-arrow-right"
+    ]
+  },
+  {
+    "name": "Building Circle-check",
+    "path": "building-circle-check.png",
+    "tags": [
+      "Building Circle-check"
+    ]
+  },
+  {
+    "name": "Building Circle-exclamation",
+    "path": "building-circle-exclamation.png",
+    "tags": [
+      "Building Circle-exclamation"
+    ]
+  },
+  {
+    "name": "Building Circle-xmark",
+    "path": "building-circle-xmark.png",
+    "tags": [
+      "Building Circle-xmark"
+    ]
+  },
+  {
+    "name": "Building with Columns",
+    "path": "building-with-columns.png",
+    "tags": [
+      "Building with Columns"
+    ]
+  },
+  {
+    "name": "Building Flag",
+    "path": "building-flag.png",
+    "tags": [
+      "Building Flag"
+    ]
+  },
+  {
+    "name": "Building Lock",
+    "path": "building-lock.png",
+    "tags": [
+      "Building Lock"
+    ]
+  },
+  {
+    "name": "Building Ngo",
+    "path": "building-ngo.png",
+    "tags": [
+      "Building Ngo"
+    ]
+  },
+  {
+    "name": "Building Shield",
+    "path": "building-shield.png",
+    "tags": [
+      "Building Shield"
+    ]
+  },
+  {
+    "name": "Building Un",
+    "path": "building-un.png",
+    "tags": [
+      "Building Un"
+    ]
+  },
+  {
+    "name": "Building User",
+    "path": "building-user.png",
+    "tags": [
+      "Building User"
+    ]
+  },
+  {
+    "name": "Building Wheat",
+    "path": "building-wheat.png",
+    "tags": [
+      "Building Wheat"
+    ]
+  },
+  {
+    "name": "bullhorn",
+    "path": "bullhorn.png",
+    "tags": [
+      "bullhorn"
+    ]
+  },
+  {
+    "name": "Bullseye",
+    "path": "bullseye.png",
+    "tags": [
+      "Bullseye"
+    ]
+  },
+  {
+    "name": "Burger",
+    "path": "burger.png",
+    "tags": [
+      "Burger"
+    ]
+  },
+  {
+    "name": "Burst",
+    "path": "burst.png",
+    "tags": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Bus",
+    "path": "bus.png",
+    "tags": [
+      "Bus"
+    ]
+  },
+  {
+    "name": "Bus simple",
+    "path": "bus-simple.png",
+    "tags": [
+      "Bus simple"
+    ]
+  },
+  {
+    "name": "Briefcase clock",
+    "path": "briefcase-clock.png",
+    "tags": [
+      "Briefcase clock"
+    ]
+  },
+  {
+    "name": "C",
+    "path": "c.png",
+    "tags": [
+      "C"
+    ]
+  },
+  {
+    "name": "Cable Car",
+    "path": "cable-car.png",
+    "tags": [
+      "Cable Car"
+    ]
+  },
+  {
+    "name": "Cake candles",
+    "path": "cake-candles.png",
+    "tags": [
+      "Cake candles"
+    ]
+  },
+  {
+    "name": "Calculator",
+    "path": "calculator.png",
+    "tags": [
+      "Calculator"
+    ]
+  },
+  {
+    "name": "Calendar",
+    "path": "calendar.png",
+    "tags": [
+      "Calendar"
+    ]
+  },
+  {
+    "name": "Calendar Check",
+    "path": "calendar-check.png",
+    "tags": [
+      "Calendar Check"
+    ]
+  },
+  {
+    "name": "Calendar with Day Focus",
+    "path": "calendar-with-day-focus.png",
+    "tags": [
+      "Calendar with Day Focus"
+    ]
+  },
+  {
+    "name": "Calendar Days",
+    "path": "calendar-days.png",
+    "tags": [
+      "Calendar Days"
+    ]
+  },
+  {
+    "name": "Calendar Minus",
+    "path": "calendar-minus.png",
+    "tags": [
+      "Calendar Minus"
+    ]
+  },
+  {
+    "name": "Calendar Plus",
+    "path": "calendar-plus.png",
+    "tags": [
+      "Calendar Plus"
+    ]
+  },
+  {
+    "name": "Calendar with Week Focus",
+    "path": "calendar-with-week-focus.png",
+    "tags": [
+      "Calendar with Week Focus"
+    ]
+  },
+  {
+    "name": "Calendar X Mark",
+    "path": "calendar-x-mark.png",
+    "tags": [
+      "Calendar X Mark"
+    ]
+  },
+  {
+    "name": "camera",
+    "path": "camera.png",
+    "tags": [
+      "camera"
+    ]
+  },
+  {
+    "name": "Retro Camera",
+    "path": "retro-camera.png",
+    "tags": [
+      "Retro Camera"
+    ]
+  },
+  {
+    "name": "Camera Rotate",
+    "path": "camera-rotate.png",
+    "tags": [
+      "Camera Rotate"
+    ]
+  },
+  {
+    "name": "Campground",
+    "path": "campground.png",
+    "tags": [
+      "Campground"
+    ]
+  },
+  {
+    "name": "Candy Cane",
+    "path": "candy-cane.png",
+    "tags": [
+      "Candy Cane"
+    ]
+  },
+  {
+    "name": "Cannabis",
+    "path": "cannabis.png",
+    "tags": [
+      "Cannabis"
+    ]
+  },
+  {
+    "name": "Capsules",
+    "path": "capsules.png",
+    "tags": [
+      "Capsules"
+    ]
+  },
+  {
+    "name": "Car",
+    "path": "car.png",
+    "tags": [
+      "Car"
+    ]
+  },
+  {
+    "name": "Car Battery",
+    "path": "car-battery.png",
+    "tags": [
+      "Car Battery"
+    ]
+  },
+  {
+    "name": "Car Crash",
+    "path": "car-crash.png",
+    "tags": [
+      "Car Crash"
+    ]
+  },
+  {
+    "name": "Car On",
+    "path": "car-on.png",
+    "tags": [
+      "Car On"
+    ]
+  },
+  {
+    "name": "Car rear",
+    "path": "car-rear.png",
+    "tags": [
+      "Car rear"
+    ]
+  },
+  {
+    "name": "Car Side",
+    "path": "car-side.png",
+    "tags": [
+      "Car Side"
+    ]
+  },
+  {
+    "name": "Car Tunnel",
+    "path": "car-tunnel.png",
+    "tags": [
+      "Car Tunnel"
+    ]
+  },
+  {
+    "name": "Caravan",
+    "path": "caravan.png",
+    "tags": [
+      "Caravan"
+    ]
+  },
+  {
+    "name": "Caret Down",
+    "path": "caret-down.png",
+    "tags": [
+      "Caret Down"
+    ]
+  },
+  {
+    "name": "Caret Left",
+    "path": "caret-left.png",
+    "tags": [
+      "Caret Left"
+    ]
+  },
+  {
+    "name": "Caret Right",
+    "path": "caret-right.png",
+    "tags": [
+      "Caret Right"
+    ]
+  },
+  {
+    "name": "Caret Up",
+    "path": "caret-up.png",
+    "tags": [
+      "Caret Up"
+    ]
+  },
+  {
+    "name": "Carrot",
+    "path": "carrot.png",
+    "tags": [
+      "Carrot"
+    ]
+  },
+  {
+    "name": "Shopping Cart Arrow Down",
+    "path": "shopping-cart-arrow-down.png",
+    "tags": [
+      "Shopping Cart Arrow Down"
+    ]
+  },
+  {
+    "name": "Cart flatbed",
+    "path": "cart-flatbed.png",
+    "tags": [
+      "Cart flatbed"
+    ]
+  },
+  {
+    "name": "Cart flatbed suitcase",
+    "path": "cart-flatbed-suitcase.png",
+    "tags": [
+      "Cart flatbed suitcase"
+    ]
+  },
+  {
+    "name": "Add to Shopping Cart",
+    "path": "add-to-shopping-cart.png",
+    "tags": [
+      "Add to Shopping Cart"
+    ]
+  },
+  {
+    "name": "Cart shopping",
+    "path": "cart-shopping.png",
+    "tags": [
+      "Cart shopping"
+    ]
+  },
+  {
+    "name": "Cash Register",
+    "path": "cash-register.png",
+    "tags": [
+      "Cash Register"
+    ]
+  },
+  {
+    "name": "Cat",
+    "path": "cat.png",
+    "tags": [
+      "Cat"
+    ]
+  },
+  {
+    "name": "Cedi Sign",
+    "path": "cedi-sign.png",
+    "tags": [
+      "Cedi Sign"
+    ]
+  },
+  {
+    "name": "Cent Sign",
+    "path": "cent-sign.png",
+    "tags": [
+      "Cent Sign"
+    ]
+  },
+  {
+    "name": "certificate",
+    "path": "certificate.png",
+    "tags": [
+      "certificate"
+    ]
+  },
+  {
+    "name": "Chair",
+    "path": "chair.png",
+    "tags": [
+      "Chair"
+    ]
+  },
+  {
+    "name": "Chalkboard",
+    "path": "chalkboard.png",
+    "tags": [
+      "Chalkboard"
+    ]
+  },
+  {
+    "name": "Chalkboard user",
+    "path": "chalkboard-user.png",
+    "tags": [
+      "Chalkboard user"
+    ]
+  },
+  {
+    "name": "Champagne glasses",
+    "path": "champagne-glasses.png",
+    "tags": [
+      "Champagne glasses"
+    ]
+  },
+  {
+    "name": "Charging Station",
+    "path": "charging-station.png",
+    "tags": [
+      "Charging Station"
+    ]
+  },
+  {
+    "name": "Area Chart",
+    "path": "area-chart.png",
+    "tags": [
+      "Area Chart"
+    ]
+  },
+  {
+    "name": "Bar Chart",
+    "path": "bar-chart.png",
+    "tags": [
+      "Bar Chart"
+    ]
+  },
+  {
+    "name": "Chart Column",
+    "path": "chart-column.png",
+    "tags": [
+      "Chart Column"
+    ]
+  },
+  {
+    "name": "Chart Gantt",
+    "path": "chart-gantt.png",
+    "tags": [
+      "Chart Gantt"
+    ]
+  },
+  {
+    "name": "Line Chart",
+    "path": "line-chart.png",
+    "tags": [
+      "Line Chart"
+    ]
+  },
+  {
+    "name": "Pie Chart",
+    "path": "pie-chart.png",
+    "tags": [
+      "Pie Chart"
+    ]
+  },
+  {
+    "name": "Chart Simple",
+    "path": "chart-simple.png",
+    "tags": [
+      "Chart Simple"
+    ]
+  },
+  {
+    "name": "Check",
+    "path": "check.png",
+    "tags": [
+      "Check"
+    ]
+  },
+  {
+    "name": "Double Check",
+    "path": "double-check.png",
+    "tags": [
+      "Double Check"
+    ]
+  },
+  {
+    "name": "Check to Slot",
+    "path": "check-to-slot.png",
+    "tags": [
+      "Check to Slot"
+    ]
+  },
+  {
+    "name": "Cheese",
+    "path": "cheese.png",
+    "tags": [
+      "Cheese"
+    ]
+  },
+  {
+    "name": "Chess",
+    "path": "chess.png",
+    "tags": [
+      "Chess"
+    ]
+  },
+  {
+    "name": "Chess Bishop",
+    "path": "chess-bishop.png",
+    "tags": [
+      "Chess Bishop"
+    ]
+  },
+  {
+    "name": "Chess Board",
+    "path": "chess-board.png",
+    "tags": [
+      "Chess Board"
+    ]
+  },
+  {
+    "name": "Chess King",
+    "path": "chess-king.png",
+    "tags": [
+      "Chess King"
+    ]
+  },
+  {
+    "name": "Chess Knight",
+    "path": "chess-knight.png",
+    "tags": [
+      "Chess Knight"
+    ]
+  },
+  {
+    "name": "Chess Pawn",
+    "path": "chess-pawn.png",
+    "tags": [
+      "Chess Pawn"
+    ]
+  },
+  {
+    "name": "Chess Queen",
+    "path": "chess-queen.png",
+    "tags": [
+      "Chess Queen"
+    ]
+  },
+  {
+    "name": "Chess Rook",
+    "path": "chess-rook.png",
+    "tags": [
+      "Chess Rook"
+    ]
+  },
+  {
+    "name": "chevron-down",
+    "path": "chevron-down.png",
+    "tags": [
+      "chevron-down"
+    ]
+  },
+  {
+    "name": "chevron-left",
+    "path": "chevron-left.png",
+    "tags": [
+      "chevron-left"
+    ]
+  },
+  {
+    "name": "chevron-right",
+    "path": "chevron-right.png",
+    "tags": [
+      "chevron-right"
+    ]
+  },
+  {
+    "name": "chevron-up",
+    "path": "chevron-up.png",
+    "tags": [
+      "chevron-up"
+    ]
+  },
+  {
+    "name": "Child",
+    "path": "child.png",
+    "tags": [
+      "Child"
+    ]
+  },
+  {
+    "name": "Child Dress",
+    "path": "child-dress.png",
+    "tags": [
+      "Child Dress"
+    ]
+  },
+  {
+    "name": "Child Reaching",
+    "path": "child-reaching.png",
+    "tags": [
+      "Child Reaching"
+    ]
+  },
+  {
+    "name": "Child Rifle",
+    "path": "child-rifle.png",
+    "tags": [
+      "Child Rifle"
+    ]
+  },
+  {
+    "name": "Children",
+    "path": "children.png",
+    "tags": [
+      "Children"
+    ]
+  },
+  {
+    "name": "Church",
+    "path": "church.png",
+    "tags": [
+      "Church"
+    ]
+  },
+  {
+    "name": "Circle",
+    "path": "circle.png",
+    "tags": [
+      "Circle"
+    ]
+  },
+  {
+    "name": "Circle arrow down",
+    "path": "circle-arrow-down.png",
+    "tags": [
+      "Circle arrow down"
+    ]
+  },
+  {
+    "name": "Circle arrow left",
+    "path": "circle-arrow-left.png",
+    "tags": [
+      "Circle arrow left"
+    ]
+  },
+  {
+    "name": "Circle arrow right",
+    "path": "circle-arrow-right.png",
+    "tags": [
+      "Circle arrow right"
+    ]
+  },
+  {
+    "name": "Circle arrow up",
+    "path": "circle-arrow-up.png",
+    "tags": [
+      "Circle arrow up"
+    ]
+  },
+  {
+    "name": "Circle check",
+    "path": "circle-check.png",
+    "tags": [
+      "Circle check"
+    ]
+  },
+  {
+    "name": "Circle chevron down",
+    "path": "circle-chevron-down.png",
+    "tags": [
+      "Circle chevron down"
+    ]
+  },
+  {
+    "name": "Circle chevron left",
+    "path": "circle-chevron-left.png",
+    "tags": [
+      "Circle chevron left"
+    ]
+  },
+  {
+    "name": "Circle chevron right",
+    "path": "circle-chevron-right.png",
+    "tags": [
+      "Circle chevron right"
+    ]
+  },
+  {
+    "name": "Circle chevron up",
+    "path": "circle-chevron-up.png",
+    "tags": [
+      "Circle chevron up"
+    ]
+  },
+  {
+    "name": "Circle dollar to slot",
+    "path": "circle-dollar-to-slot.png",
+    "tags": [
+      "Circle dollar to slot"
+    ]
+  },
+  {
+    "name": "Circle dot",
+    "path": "circle-dot.png",
+    "tags": [
+      "Circle dot"
+    ]
+  },
+  {
+    "name": "Circle down",
+    "path": "circle-down.png",
+    "tags": [
+      "Circle down"
+    ]
+  },
+  {
+    "name": "Circle exclamation",
+    "path": "circle-exclamation.png",
+    "tags": [
+      "Circle exclamation"
+    ]
+  },
+  {
+    "name": "Circle h",
+    "path": "circle-h.png",
+    "tags": [
+      "Circle h"
+    ]
+  },
+  {
+    "name": "Circle half stroke",
+    "path": "circle-half-stroke.png",
+    "tags": [
+      "Circle half stroke"
+    ]
+  },
+  {
+    "name": "Circle info",
+    "path": "circle-info.png",
+    "tags": [
+      "Circle info"
+    ]
+  },
+  {
+    "name": "Circle left",
+    "path": "circle-left.png",
+    "tags": [
+      "Circle left"
+    ]
+  },
+  {
+    "name": "Circle minus",
+    "path": "circle-minus.png",
+    "tags": [
+      "Circle minus"
+    ]
+  },
+  {
+    "name": "Circle Nodes",
+    "path": "circle-nodes.png",
+    "tags": [
+      "Circle Nodes"
+    ]
+  },
+  {
+    "name": "Circle Notched",
+    "path": "circle-notched.png",
+    "tags": [
+      "Circle Notched"
+    ]
+  },
+  {
+    "name": "Circle pause",
+    "path": "circle-pause.png",
+    "tags": [
+      "Circle pause"
+    ]
+  },
+  {
+    "name": "Circle play",
+    "path": "circle-play.png",
+    "tags": [
+      "Circle play"
+    ]
+  },
+  {
+    "name": "Circle plus",
+    "path": "circle-plus.png",
+    "tags": [
+      "Circle plus"
+    ]
+  },
+  {
+    "name": "Circle question",
+    "path": "circle-question.png",
+    "tags": [
+      "Circle question"
+    ]
+  },
+  {
+    "name": "Circle radiation",
+    "path": "circle-radiation.png",
+    "tags": [
+      "Circle radiation"
+    ]
+  },
+  {
+    "name": "Circle right",
+    "path": "circle-right.png",
+    "tags": [
+      "Circle right"
+    ]
+  },
+  {
+    "name": "Circle stop",
+    "path": "circle-stop.png",
+    "tags": [
+      "Circle stop"
+    ]
+  },
+  {
+    "name": "Circle up",
+    "path": "circle-up.png",
+    "tags": [
+      "Circle up"
+    ]
+  },
+  {
+    "name": "Circle user",
+    "path": "circle-user.png",
+    "tags": [
+      "Circle user"
+    ]
+  },
+  {
+    "name": "Circle X Mark",
+    "path": "circle-x-mark.png",
+    "tags": [
+      "Circle X Mark"
+    ]
+  },
+  {
+    "name": "City",
+    "path": "city.png",
+    "tags": [
+      "City"
+    ]
+  },
+  {
+    "name": "Clapperboard",
+    "path": "clapperboard.png",
+    "tags": [
+      "Clapperboard"
+    ]
+  },
+  {
+    "name": "Clipboard",
+    "path": "clipboard.png",
+    "tags": [
+      "Clipboard"
+    ]
+  },
+  {
+    "name": "Clipboard with Check",
+    "path": "clipboard-with-check.png",
+    "tags": [
+      "Clipboard with Check"
+    ]
+  },
+  {
+    "name": "Clipboard List",
+    "path": "clipboard-list.png",
+    "tags": [
+      "Clipboard List"
+    ]
+  },
+  {
+    "name": "Clipboard Question",
+    "path": "clipboard-question.png",
+    "tags": [
+      "Clipboard Question"
+    ]
+  },
+  {
+    "name": "Clipboard with User",
+    "path": "clipboard-with-user.png",
+    "tags": [
+      "Clipboard with User"
+    ]
+  },
+  {
+    "name": "Clock",
+    "path": "clock.png",
+    "tags": [
+      "Clock"
+    ]
+  },
+  {
+    "name": "Clock Rotate Left",
+    "path": "clock-rotate-left.png",
+    "tags": [
+      "Clock Rotate Left"
+    ]
+  },
+  {
+    "name": "Clone",
+    "path": "clone.png",
+    "tags": [
+      "Clone"
+    ]
+  },
+  {
+    "name": "Closed Captioning",
+    "path": "closed-captioning.png",
+    "tags": [
+      "Closed Captioning"
+    ]
+  },
+  {
+    "name": "Cloud",
+    "path": "cloud.png",
+    "tags": [
+      "Cloud"
+    ]
+  },
+  {
+    "name": "Cloud arrow down",
+    "path": "cloud-arrow-down.png",
+    "tags": [
+      "Cloud arrow down"
+    ]
+  },
+  {
+    "name": "Cloud arrow up",
+    "path": "cloud-arrow-up.png",
+    "tags": [
+      "Cloud arrow up"
+    ]
+  },
+  {
+    "name": "Cloud bolt",
+    "path": "cloud-bolt.png",
+    "tags": [
+      "Cloud bolt"
+    ]
+  },
+  {
+    "name": "Cloud with (a chance of) Meatball",
+    "path": "cloud-with-a-chance-of-meatball.png",
+    "tags": [
+      "Cloud with (a chance of) Meatball"
+    ]
+  },
+  {
+    "name": "Cloud with Moon",
+    "path": "cloud-with-moon.png",
+    "tags": [
+      "Cloud with Moon"
+    ]
+  },
+  {
+    "name": "Cloud with Moon and Rain",
+    "path": "cloud-with-moon-and-rain.png",
+    "tags": [
+      "Cloud with Moon and Rain"
+    ]
+  },
+  {
+    "name": "Cloud with Rain",
+    "path": "cloud-with-rain.png",
+    "tags": [
+      "Cloud with Rain"
+    ]
+  },
+  {
+    "name": "Cloud with Heavy Showers",
+    "path": "cloud-with-heavy-showers.png",
+    "tags": [
+      "Cloud with Heavy Showers"
+    ]
+  },
+  {
+    "name": "Cloud Showers-water",
+    "path": "cloud-showers-water.png",
+    "tags": [
+      "Cloud Showers-water"
+    ]
+  },
+  {
+    "name": "Cloud with Sun",
+    "path": "cloud-with-sun.png",
+    "tags": [
+      "Cloud with Sun"
+    ]
+  },
+  {
+    "name": "Cloud with Sun and Rain",
+    "path": "cloud-with-sun-and-rain.png",
+    "tags": [
+      "Cloud with Sun and Rain"
+    ]
+  },
+  {
+    "name": "Clover",
+    "path": "clover.png",
+    "tags": [
+      "Clover"
+    ]
+  },
+  {
+    "name": "Code",
+    "path": "code.png",
+    "tags": [
+      "Code"
+    ]
+  },
+  {
+    "name": "Code Branch",
+    "path": "code-branch.png",
+    "tags": [
+      "Code Branch"
+    ]
+  },
+  {
+    "name": "Code Commit",
+    "path": "code-commit.png",
+    "tags": [
+      "Code Commit"
+    ]
+  },
+  {
+    "name": "Code Compare",
+    "path": "code-compare.png",
+    "tags": [
+      "Code Compare"
+    ]
+  },
+  {
+    "name": "Code Fork",
+    "path": "code-fork.png",
+    "tags": [
+      "Code Fork"
+    ]
+  },
+  {
+    "name": "Code Merge",
+    "path": "code-merge.png",
+    "tags": [
+      "Code Merge"
+    ]
+  },
+  {
+    "name": "Code Pull Request",
+    "path": "code-pull-request.png",
+    "tags": [
+      "Code Pull Request"
+    ]
+  },
+  {
+    "name": "Coins",
+    "path": "coins.png",
+    "tags": [
+      "Coins"
+    ]
+  },
+  {
+    "name": "Colon Sign",
+    "path": "colon-sign.png",
+    "tags": [
+      "Colon Sign"
+    ]
+  },
+  {
+    "name": "comment",
+    "path": "comment.png",
+    "tags": [
+      "comment"
+    ]
+  },
+  {
+    "name": "Comment Dollar",
+    "path": "comment-dollar.png",
+    "tags": [
+      "Comment Dollar"
+    ]
+  },
+  {
+    "name": "Comment Dots",
+    "path": "comment-dots.png",
+    "tags": [
+      "Comment Dots"
+    ]
+  },
+  {
+    "name": "Alternate Medical Chat",
+    "path": "alternate-medical-chat.png",
+    "tags": [
+      "Alternate Medical Chat"
+    ]
+  },
+  {
+    "name": "Comment Slash",
+    "path": "comment-slash.png",
+    "tags": [
+      "Comment Slash"
+    ]
+  },
+  {
+    "name": "Comment sms",
+    "path": "comment-sms.png",
+    "tags": [
+      "Comment sms"
+    ]
+  },
+  {
+    "name": "comments",
+    "path": "comments.png",
+    "tags": [
+      "comments"
+    ]
+  },
+  {
+    "name": "Comments Dollar",
+    "path": "comments-dollar.png",
+    "tags": [
+      "Comments Dollar"
+    ]
+  },
+  {
+    "name": "Compact Disc",
+    "path": "compact-disc.png",
+    "tags": [
+      "Compact Disc"
+    ]
+  },
+  {
+    "name": "Compass",
+    "path": "compass.png",
+    "tags": [
+      "Compass"
+    ]
+  },
+  {
+    "name": "Compass drafting",
+    "path": "compass-drafting.png",
+    "tags": [
+      "Compass drafting"
+    ]
+  },
+  {
+    "name": "Compress",
+    "path": "compress.png",
+    "tags": [
+      "Compress"
+    ]
+  },
+  {
+    "name": "Computer",
+    "path": "computer.png",
+    "tags": [
+      "Computer"
+    ]
+  },
+  {
+    "name": "Computer mouse",
+    "path": "computer-mouse.png",
+    "tags": [
+      "Computer mouse"
+    ]
+  },
+  {
+    "name": "Cookie",
+    "path": "cookie.png",
+    "tags": [
+      "Cookie"
+    ]
+  },
+  {
+    "name": "Cookie Bite",
+    "path": "cookie-bite.png",
+    "tags": [
+      "Cookie Bite"
+    ]
+  },
+  {
+    "name": "Copy",
+    "path": "copy.png",
+    "tags": [
+      "Copy"
+    ]
+  },
+  {
+    "name": "Copyright",
+    "path": "copyright.png",
+    "tags": [
+      "Copyright"
+    ]
+  },
+  {
+    "name": "Couch",
+    "path": "couch.png",
+    "tags": [
+      "Couch"
+    ]
+  },
+  {
+    "name": "Cow",
+    "path": "cow.png",
+    "tags": [
+      "Cow"
+    ]
+  },
+  {
+    "name": "Credit Card",
+    "path": "credit-card.png",
+    "tags": [
+      "Credit Card"
+    ]
+  },
+  {
+    "name": "crop",
+    "path": "crop.png",
+    "tags": [
+      "crop"
+    ]
+  },
+  {
+    "name": "Crop simple",
+    "path": "crop-simple.png",
+    "tags": [
+      "Crop simple"
+    ]
+  },
+  {
+    "name": "Cross",
+    "path": "cross.png",
+    "tags": [
+      "Cross"
+    ]
+  },
+  {
+    "name": "Crosshairs",
+    "path": "crosshairs.png",
+    "tags": [
+      "Crosshairs"
+    ]
+  },
+  {
+    "name": "Crow",
+    "path": "crow.png",
+    "tags": [
+      "Crow"
+    ]
+  },
+  {
+    "name": "Crown",
+    "path": "crown.png",
+    "tags": [
+      "Crown"
+    ]
+  },
+  {
+    "name": "Crutch",
+    "path": "crutch.png",
+    "tags": [
+      "Crutch"
+    ]
+  },
+  {
+    "name": "Cruzeiro Sign",
+    "path": "cruzeiro-sign.png",
+    "tags": [
+      "Cruzeiro Sign"
+    ]
+  },
+  {
+    "name": "Cube",
+    "path": "cube.png",
+    "tags": [
+      "Cube"
+    ]
+  },
+  {
+    "name": "Cubes",
+    "path": "cubes.png",
+    "tags": [
+      "Cubes"
+    ]
+  },
+  {
+    "name": "Cubes Stacked",
+    "path": "cubes-stacked.png",
+    "tags": [
+      "Cubes Stacked"
+    ]
+  },
+  {
+    "name": "D",
+    "path": "d.png",
+    "tags": [
+      "D"
+    ]
+  },
+  {
+    "name": "Database",
+    "path": "database.png",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "name": "Delete left",
+    "path": "delete-left.png",
+    "tags": [
+      "Delete left"
+    ]
+  },
+  {
+    "name": "Democrat",
+    "path": "democrat.png",
+    "tags": [
+      "Democrat"
+    ]
+  },
+  {
+    "name": "Desktop",
+    "path": "desktop.png",
+    "tags": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Dharmachakra",
+    "path": "dharmachakra.png",
+    "tags": [
+      "Dharmachakra"
+    ]
+  },
+  {
+    "name": "Diagram Next",
+    "path": "diagram-next.png",
+    "tags": [
+      "Diagram Next"
+    ]
+  },
+  {
+    "name": "Diagram Predecessor",
+    "path": "diagram-predecessor.png",
+    "tags": [
+      "Diagram Predecessor"
+    ]
+  },
+  {
+    "name": "Project Diagram",
+    "path": "project-diagram.png",
+    "tags": [
+      "Project Diagram"
+    ]
+  },
+  {
+    "name": "Diagram Successor",
+    "path": "diagram-successor.png",
+    "tags": [
+      "Diagram Successor"
+    ]
+  },
+  {
+    "name": "Diamond",
+    "path": "diamond.png",
+    "tags": [
+      "Diamond"
+    ]
+  },
+  {
+    "name": "Diamond turn right",
+    "path": "diamond-turn-right.png",
+    "tags": [
+      "Diamond turn right"
+    ]
+  },
+  {
+    "name": "Dice",
+    "path": "dice.png",
+    "tags": [
+      "Dice"
+    ]
+  },
+  {
+    "name": "Dice D20",
+    "path": "dice-d20.png",
+    "tags": [
+      "Dice D20"
+    ]
+  },
+  {
+    "name": "Dice D6",
+    "path": "dice-d6.png",
+    "tags": [
+      "Dice D6"
+    ]
+  },
+  {
+    "name": "Dice Five",
+    "path": "dice-five.png",
+    "tags": [
+      "Dice Five"
+    ]
+  },
+  {
+    "name": "Dice Four",
+    "path": "dice-four.png",
+    "tags": [
+      "Dice Four"
+    ]
+  },
+  {
+    "name": "Dice One",
+    "path": "dice-one.png",
+    "tags": [
+      "Dice One"
+    ]
+  },
+  {
+    "name": "Dice Six",
+    "path": "dice-six.png",
+    "tags": [
+      "Dice Six"
+    ]
+  },
+  {
+    "name": "Dice Three",
+    "path": "dice-three.png",
+    "tags": [
+      "Dice Three"
+    ]
+  },
+  {
+    "name": "Dice Two",
+    "path": "dice-two.png",
+    "tags": [
+      "Dice Two"
+    ]
+  },
+  {
+    "name": "Disease",
+    "path": "disease.png",
+    "tags": [
+      "Disease"
+    ]
+  },
+  {
+    "name": "Display",
+    "path": "display.png",
+    "tags": [
+      "Display"
+    ]
+  },
+  {
+    "name": "Divide",
+    "path": "divide.png",
+    "tags": [
+      "Divide"
+    ]
+  },
+  {
+    "name": "DNA",
+    "path": "dna.png",
+    "tags": [
+      "DNA"
+    ]
+  },
+  {
+    "name": "Dog",
+    "path": "dog.png",
+    "tags": [
+      "Dog"
+    ]
+  },
+  {
+    "name": "Dollar Sign",
+    "path": "dollar-sign.png",
+    "tags": [
+      "Dollar Sign"
+    ]
+  },
+  {
+    "name": "Dolly",
+    "path": "dolly.png",
+    "tags": [
+      "Dolly"
+    ]
+  },
+  {
+    "name": "Dong Sign",
+    "path": "dong-sign.png",
+    "tags": [
+      "Dong Sign"
+    ]
+  },
+  {
+    "name": "Door Closed",
+    "path": "door-closed.png",
+    "tags": [
+      "Door Closed"
+    ]
+  },
+  {
+    "name": "Door Open",
+    "path": "door-open.png",
+    "tags": [
+      "Door Open"
+    ]
+  },
+  {
+    "name": "Dove",
+    "path": "dove.png",
+    "tags": [
+      "Dove"
+    ]
+  },
+  {
+    "name": "Down left and up right to center",
+    "path": "down-left-and-up-right-to-center.png",
+    "tags": [
+      "Down left and up right to center"
+    ]
+  },
+  {
+    "name": "Down long",
+    "path": "down-long.png",
+    "tags": [
+      "Down long"
+    ]
+  },
+  {
+    "name": "Download",
+    "path": "download.png",
+    "tags": [
+      "Download"
+    ]
+  },
+  {
+    "name": "Dragon",
+    "path": "dragon.png",
+    "tags": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Draw Polygon",
+    "path": "draw-polygon.png",
+    "tags": [
+      "Draw Polygon"
+    ]
+  },
+  {
+    "name": "Droplet",
+    "path": "droplet.png",
+    "tags": [
+      "Droplet"
+    ]
+  },
+  {
+    "name": "Droplet slash",
+    "path": "droplet-slash.png",
+    "tags": [
+      "Droplet slash"
+    ]
+  },
+  {
+    "name": "Drum",
+    "path": "drum.png",
+    "tags": [
+      "Drum"
+    ]
+  },
+  {
+    "name": "Drum Steelpan",
+    "path": "drum-steelpan.png",
+    "tags": [
+      "Drum Steelpan"
+    ]
+  },
+  {
+    "name": "Drumstick with Bite Taken Out",
+    "path": "drumstick-with-bite-taken-out.png",
+    "tags": [
+      "Drumstick with Bite Taken Out"
+    ]
+  },
+  {
+    "name": "Dumbbell",
+    "path": "dumbbell.png",
+    "tags": [
+      "Dumbbell"
+    ]
+  },
+  {
+    "name": "Dumpster",
+    "path": "dumpster.png",
+    "tags": [
+      "Dumpster"
+    ]
+  },
+  {
+    "name": "Dumpster Fire",
+    "path": "dumpster-fire.png",
+    "tags": [
+      "Dumpster Fire"
+    ]
+  },
+  {
+    "name": "Dungeon",
+    "path": "dungeon.png",
+    "tags": [
+      "Dungeon"
+    ]
+  },
+  {
+    "name": "E",
+    "path": "e.png",
+    "tags": [
+      "E"
+    ]
+  },
+  {
+    "name": "Ear deaf",
+    "path": "ear-deaf.png",
+    "tags": [
+      "Ear deaf"
+    ]
+  },
+  {
+    "name": "Ear listen",
+    "path": "ear-listen.png",
+    "tags": [
+      "Ear listen"
+    ]
+  },
+  {
+    "name": "Earth Africa",
+    "path": "earth-africa.png",
+    "tags": [
+      "Earth Africa"
+    ]
+  },
+  {
+    "name": "Earth americas",
+    "path": "earth-americas.png",
+    "tags": [
+      "Earth americas"
+    ]
+  },
+  {
+    "name": "Earth Asia",
+    "path": "earth-asia.png",
+    "tags": [
+      "Earth Asia"
+    ]
+  },
+  {
+    "name": "Earth Europe",
+    "path": "earth-europe.png",
+    "tags": [
+      "Earth Europe"
+    ]
+  },
+  {
+    "name": "Earth Oceania",
+    "path": "earth-oceania.png",
+    "tags": [
+      "Earth Oceania"
+    ]
+  },
+  {
+    "name": "Egg",
+    "path": "egg.png",
+    "tags": [
+      "Egg"
+    ]
+  },
+  {
+    "name": "eject",
+    "path": "eject.png",
+    "tags": [
+      "eject"
+    ]
+  },
+  {
+    "name": "Elevator",
+    "path": "elevator.png",
+    "tags": [
+      "Elevator"
+    ]
+  },
+  {
+    "name": "Ellipsis",
+    "path": "ellipsis.png",
+    "tags": [
+      "Ellipsis"
+    ]
+  },
+  {
+    "name": "Ellipsis vertical",
+    "path": "ellipsis-vertical.png",
+    "tags": [
+      "Ellipsis vertical"
+    ]
+  },
+  {
+    "name": "Envelope",
+    "path": "envelope.png",
+    "tags": [
+      "Envelope"
+    ]
+  },
+  {
+    "name": "Envelope Circle-check",
+    "path": "envelope-circle-check.png",
+    "tags": [
+      "Envelope Circle-check"
+    ]
+  },
+  {
+    "name": "Envelope Open",
+    "path": "envelope-open.png",
+    "tags": [
+      "Envelope Open"
+    ]
+  },
+  {
+    "name": "Envelope Open-text",
+    "path": "envelope-open-text.png",
+    "tags": [
+      "Envelope Open-text"
+    ]
+  },
+  {
+    "name": "Envelopes bulk",
+    "path": "envelopes-bulk.png",
+    "tags": [
+      "Envelopes bulk"
+    ]
+  },
+  {
+    "name": "Equals",
+    "path": "equals.png",
+    "tags": [
+      "Equals"
+    ]
+  },
+  {
+    "name": "eraser",
+    "path": "eraser.png",
+    "tags": [
+      "eraser"
+    ]
+  },
+  {
+    "name": "Ethernet",
+    "path": "ethernet.png",
+    "tags": [
+      "Ethernet"
+    ]
+  },
+  {
+    "name": "Euro Sign",
+    "path": "euro-sign.png",
+    "tags": [
+      "Euro Sign"
+    ]
+  },
+  {
+    "name": "exclamation",
+    "path": "exclamation.png",
+    "tags": [
+      "exclamation"
+    ]
+  },
+  {
+    "name": "Expand",
+    "path": "expand.png",
+    "tags": [
+      "Expand"
+    ]
+  },
+  {
+    "name": "Explosion",
+    "path": "explosion.png",
+    "tags": [
+      "Explosion"
+    ]
+  },
+  {
+    "name": "Eye",
+    "path": "eye.png",
+    "tags": [
+      "Eye"
+    ]
+  },
+  {
+    "name": "Eye Dropper",
+    "path": "eye-dropper.png",
+    "tags": [
+      "Eye Dropper"
+    ]
+  },
+  {
+    "name": "Eye low vision",
+    "path": "eye-low-vision.png",
+    "tags": [
+      "Eye low vision"
+    ]
+  },
+  {
+    "name": "Eye Slash",
+    "path": "eye-slash.png",
+    "tags": [
+      "Eye Slash"
+    ]
+  },
+  {
+    "name": "F",
+    "path": "f.png",
+    "tags": [
+      "F"
+    ]
+  },
+  {
+    "name": "Face angry",
+    "path": "face-angry.png",
+    "tags": [
+      "Face angry"
+    ]
+  },
+  {
+    "name": "Face dizzy",
+    "path": "face-dizzy.png",
+    "tags": [
+      "Face dizzy"
+    ]
+  },
+  {
+    "name": "Face flushed",
+    "path": "face-flushed.png",
+    "tags": [
+      "Face flushed"
+    ]
+  },
+  {
+    "name": "Face frown",
+    "path": "face-frown.png",
+    "tags": [
+      "Face frown"
+    ]
+  },
+  {
+    "name": "Face frown open",
+    "path": "face-frown-open.png",
+    "tags": [
+      "Face frown open"
+    ]
+  },
+  {
+    "name": "Face grimace",
+    "path": "face-grimace.png",
+    "tags": [
+      "Face grimace"
+    ]
+  },
+  {
+    "name": "Face grin",
+    "path": "face-grin.png",
+    "tags": [
+      "Face grin"
+    ]
+  },
+  {
+    "name": "Face grin beam",
+    "path": "face-grin-beam.png",
+    "tags": [
+      "Face grin beam"
+    ]
+  },
+  {
+    "name": "Face grin beam sweat",
+    "path": "face-grin-beam-sweat.png",
+    "tags": [
+      "Face grin beam sweat"
+    ]
+  },
+  {
+    "name": "Face grin hearts",
+    "path": "face-grin-hearts.png",
+    "tags": [
+      "Face grin hearts"
+    ]
+  },
+  {
+    "name": "Face grin squint",
+    "path": "face-grin-squint.png",
+    "tags": [
+      "Face grin squint"
+    ]
+  },
+  {
+    "name": "Face grin squint tears",
+    "path": "face-grin-squint-tears.png",
+    "tags": [
+      "Face grin squint tears"
+    ]
+  },
+  {
+    "name": "Face grin stars",
+    "path": "face-grin-stars.png",
+    "tags": [
+      "Face grin stars"
+    ]
+  },
+  {
+    "name": "Face grin tears",
+    "path": "face-grin-tears.png",
+    "tags": [
+      "Face grin tears"
+    ]
+  },
+  {
+    "name": "Face grin tongue",
+    "path": "face-grin-tongue.png",
+    "tags": [
+      "Face grin tongue"
+    ]
+  },
+  {
+    "name": "Face grin tongue squint",
+    "path": "face-grin-tongue-squint.png",
+    "tags": [
+      "Face grin tongue squint"
+    ]
+  },
+  {
+    "name": "Face grin tongue wink",
+    "path": "face-grin-tongue-wink.png",
+    "tags": [
+      "Face grin tongue wink"
+    ]
+  },
+  {
+    "name": "Face grin wide",
+    "path": "face-grin-wide.png",
+    "tags": [
+      "Face grin wide"
+    ]
+  },
+  {
+    "name": "Face grin wink",
+    "path": "face-grin-wink.png",
+    "tags": [
+      "Face grin wink"
+    ]
+  },
+  {
+    "name": "Face kiss",
+    "path": "face-kiss.png",
+    "tags": [
+      "Face kiss"
+    ]
+  },
+  {
+    "name": "Face Kiss Beam",
+    "path": "face-kiss-beam.png",
+    "tags": [
+      "Face Kiss Beam"
+    ]
+  },
+  {
+    "name": "Face Kiss Wink Heart",
+    "path": "face-kiss-wink-heart.png",
+    "tags": [
+      "Face Kiss Wink Heart"
+    ]
+  },
+  {
+    "name": "Face Laugh",
+    "path": "face-laugh.png",
+    "tags": [
+      "Face Laugh"
+    ]
+  },
+  {
+    "name": "Face Laugh Beam",
+    "path": "face-laugh-beam.png",
+    "tags": [
+      "Face Laugh Beam"
+    ]
+  },
+  {
+    "name": "Face Laugh Squint",
+    "path": "face-laugh-squint.png",
+    "tags": [
+      "Face Laugh Squint"
+    ]
+  },
+  {
+    "name": "Face Laugh Wink",
+    "path": "face-laugh-wink.png",
+    "tags": [
+      "Face Laugh Wink"
+    ]
+  },
+  {
+    "name": "Face meh",
+    "path": "face-meh.png",
+    "tags": [
+      "Face meh"
+    ]
+  },
+  {
+    "name": "Face Meh Blank",
+    "path": "face-meh-blank.png",
+    "tags": [
+      "Face Meh Blank"
+    ]
+  },
+  {
+    "name": "Face Rolling Eyes",
+    "path": "face-rolling-eyes.png",
+    "tags": [
+      "Face Rolling Eyes"
+    ]
+  },
+  {
+    "name": "Face Sad Cry",
+    "path": "face-sad-cry.png",
+    "tags": [
+      "Face Sad Cry"
+    ]
+  },
+  {
+    "name": "Face Sad Tear",
+    "path": "face-sad-tear.png",
+    "tags": [
+      "Face Sad Tear"
+    ]
+  },
+  {
+    "name": "Face Smile",
+    "path": "face-smile.png",
+    "tags": [
+      "Face Smile"
+    ]
+  },
+  {
+    "name": "Face Smile Beam",
+    "path": "face-smile-beam.png",
+    "tags": [
+      "Face Smile Beam"
+    ]
+  },
+  {
+    "name": "Face Smile Wink",
+    "path": "face-smile-wink.png",
+    "tags": [
+      "Face Smile Wink"
+    ]
+  },
+  {
+    "name": "Face Surprise",
+    "path": "face-surprise.png",
+    "tags": [
+      "Face Surprise"
+    ]
+  },
+  {
+    "name": "Face Tired",
+    "path": "face-tired.png",
+    "tags": [
+      "Face Tired"
+    ]
+  },
+  {
+    "name": "Fan",
+    "path": "fan.png",
+    "tags": [
+      "Fan"
+    ]
+  },
+  {
+    "name": "Faucet",
+    "path": "faucet.png",
+    "tags": [
+      "Faucet"
+    ]
+  },
+  {
+    "name": "Faucet Drip",
+    "path": "faucet-drip.png",
+    "tags": [
+      "Faucet Drip"
+    ]
+  },
+  {
+    "name": "Fax",
+    "path": "fax.png",
+    "tags": [
+      "Fax"
+    ]
+  },
+  {
+    "name": "Feather",
+    "path": "feather.png",
+    "tags": [
+      "Feather"
+    ]
+  },
+  {
+    "name": "Feather pointed",
+    "path": "feather-pointed.png",
+    "tags": [
+      "Feather pointed"
+    ]
+  },
+  {
+    "name": "Ferry",
+    "path": "ferry.png",
+    "tags": [
+      "Ferry"
+    ]
+  },
+  {
+    "name": "File",
+    "path": "file.png",
+    "tags": [
+      "File"
+    ]
+  },
+  {
+    "name": "File arrow down",
+    "path": "file-arrow-down.png",
+    "tags": [
+      "File arrow down"
+    ]
+  },
+  {
+    "name": "File arrow up",
+    "path": "file-arrow-up.png",
+    "tags": [
+      "File arrow up"
+    ]
+  },
+  {
+    "name": "Audio File",
+    "path": "audio-file.png",
+    "tags": [
+      "Audio File"
+    ]
+  },
+  {
+    "name": "File Circle-Check",
+    "path": "file-circle-check.png",
+    "tags": [
+      "File Circle-Check"
+    ]
+  },
+  {
+    "name": "File Circle-exclamation",
+    "path": "file-circle-exclamation.png",
+    "tags": [
+      "File Circle-exclamation"
+    ]
+  },
+  {
+    "name": "File Circle-minus",
+    "path": "file-circle-minus.png",
+    "tags": [
+      "File Circle-minus"
+    ]
+  },
+  {
+    "name": "File Circle-plus",
+    "path": "file-circle-plus.png",
+    "tags": [
+      "File Circle-plus"
+    ]
+  },
+  {
+    "name": "File Circle-question",
+    "path": "file-circle-question.png",
+    "tags": [
+      "File Circle-question"
+    ]
+  },
+  {
+    "name": "File Circle-xmark",
+    "path": "file-circle-xmark.png",
+    "tags": [
+      "File Circle-xmark"
+    ]
+  },
+  {
+    "name": "Code File",
+    "path": "code-file.png",
+    "tags": [
+      "Code File"
+    ]
+  },
+  {
+    "name": "File Contract",
+    "path": "file-contract.png",
+    "tags": [
+      "File Contract"
+    ]
+  },
+  {
+    "name": "File CSV",
+    "path": "file-csv.png",
+    "tags": [
+      "File CSV"
+    ]
+  },
+  {
+    "name": "Excel File",
+    "path": "excel-file.png",
+    "tags": [
+      "Excel File"
+    ]
+  },
+  {
+    "name": "File Export",
+    "path": "file-export.png",
+    "tags": [
+      "File Export"
+    ]
+  },
+  {
+    "name": "Image File",
+    "path": "image-file.png",
+    "tags": [
+      "Image File"
+    ]
+  },
+  {
+    "name": "File Import",
+    "path": "file-import.png",
+    "tags": [
+      "File Import"
+    ]
+  },
+  {
+    "name": "File Invoice",
+    "path": "file-invoice.png",
+    "tags": [
+      "File Invoice"
+    ]
+  },
+  {
+    "name": "File Invoice with US Dollar",
+    "path": "file-invoice-with-us-dollar.png",
+    "tags": [
+      "File Invoice with US Dollar"
+    ]
+  },
+  {
+    "name": "File lines",
+    "path": "file-lines.png",
+    "tags": [
+      "File lines"
+    ]
+  },
+  {
+    "name": "Medical File",
+    "path": "medical-file.png",
+    "tags": [
+      "Medical File"
+    ]
+  },
+  {
+    "name": "PDF File",
+    "path": "pdf-file.png",
+    "tags": [
+      "PDF File"
+    ]
+  },
+  {
+    "name": "File pen",
+    "path": "file-pen.png",
+    "tags": [
+      "File pen"
+    ]
+  },
+  {
+    "name": "Powerpoint File",
+    "path": "powerpoint-file.png",
+    "tags": [
+      "Powerpoint File"
+    ]
+  },
+  {
+    "name": "File Prescription",
+    "path": "file-prescription.png",
+    "tags": [
+      "File Prescription"
+    ]
+  },
+  {
+    "name": "File Shield",
+    "path": "file-shield.png",
+    "tags": [
+      "File Shield"
+    ]
+  },
+  {
+    "name": "File Signature",
+    "path": "file-signature.png",
+    "tags": [
+      "File Signature"
+    ]
+  },
+  {
+    "name": "Video File",
+    "path": "video-file.png",
+    "tags": [
+      "Video File"
+    ]
+  },
+  {
+    "name": "File waveform",
+    "path": "file-waveform.png",
+    "tags": [
+      "File waveform"
+    ]
+  },
+  {
+    "name": "Word File",
+    "path": "word-file.png",
+    "tags": [
+      "Word File"
+    ]
+  },
+  {
+    "name": "File zipper",
+    "path": "file-zipper.png",
+    "tags": [
+      "File zipper"
+    ]
+  },
+  {
+    "name": "Fill",
+    "path": "fill.png",
+    "tags": [
+      "Fill"
+    ]
+  },
+  {
+    "name": "Fill Drip",
+    "path": "fill-drip.png",
+    "tags": [
+      "Fill Drip"
+    ]
+  },
+  {
+    "name": "Film",
+    "path": "film.png",
+    "tags": [
+      "Film"
+    ]
+  },
+  {
+    "name": "Filter",
+    "path": "filter.png",
+    "tags": [
+      "Filter"
+    ]
+  },
+  {
+    "name": "Filter Circle Dollar",
+    "path": "filter-circle-dollar.png",
+    "tags": [
+      "Filter Circle Dollar"
+    ]
+  },
+  {
+    "name": "Filter Circle X Mark",
+    "path": "filter-circle-x-mark.png",
+    "tags": [
+      "Filter Circle X Mark"
+    ]
+  },
+  {
+    "name": "Fingerprint",
+    "path": "fingerprint.png",
+    "tags": [
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "fire",
+    "path": "fire.png",
+    "tags": [
+      "fire"
+    ]
+  },
+  {
+    "name": "Fire Burner",
+    "path": "fire-burner.png",
+    "tags": [
+      "Fire Burner"
+    ]
+  },
+  {
+    "name": "fire-extinguisher",
+    "path": "fire-extinguisher.png",
+    "tags": [
+      "fire-extinguisher"
+    ]
+  },
+  {
+    "name": "Fire flame curved",
+    "path": "fire-flame-curved.png",
+    "tags": [
+      "Fire flame curved"
+    ]
+  },
+  {
+    "name": "Fire flame simple",
+    "path": "fire-flame-simple.png",
+    "tags": [
+      "Fire flame simple"
+    ]
+  },
+  {
+    "name": "Fish",
+    "path": "fish.png",
+    "tags": [
+      "Fish"
+    ]
+  },
+  {
+    "name": "Fish Fins",
+    "path": "fish-fins.png",
+    "tags": [
+      "Fish Fins"
+    ]
+  },
+  {
+    "name": "flag",
+    "path": "flag.png",
+    "tags": [
+      "flag"
+    ]
+  },
+  {
+    "name": "flag-checkered",
+    "path": "flag-checkered.png",
+    "tags": [
+      "flag-checkered"
+    ]
+  },
+  {
+    "name": "United States of America Flag",
+    "path": "united-states-of-america-flag.png",
+    "tags": [
+      "United States of America Flag"
+    ]
+  },
+  {
+    "name": "Flask",
+    "path": "flask.png",
+    "tags": [
+      "Flask"
+    ]
+  },
+  {
+    "name": "Flask and Vial",
+    "path": "flask-and-vial.png",
+    "tags": [
+      "Flask and Vial"
+    ]
+  },
+  {
+    "name": "Floppy Disk",
+    "path": "floppy-disk.png",
+    "tags": [
+      "Floppy Disk"
+    ]
+  },
+  {
+    "name": "Florin Sign",
+    "path": "florin-sign.png",
+    "tags": [
+      "Florin Sign"
+    ]
+  },
+  {
+    "name": "Folder",
+    "path": "folder.png",
+    "tags": [
+      "Folder"
+    ]
+  },
+  {
+    "name": "Folder Closed",
+    "path": "folder-closed.png",
+    "tags": [
+      "Folder Closed"
+    ]
+  },
+  {
+    "name": "Folder Minus",
+    "path": "folder-minus.png",
+    "tags": [
+      "Folder Minus"
+    ]
+  },
+  {
+    "name": "Folder Open",
+    "path": "folder-open.png",
+    "tags": [
+      "Folder Open"
+    ]
+  },
+  {
+    "name": "Folder Plus",
+    "path": "folder-plus.png",
+    "tags": [
+      "Folder Plus"
+    ]
+  },
+  {
+    "name": "Folder Tree",
+    "path": "folder-tree.png",
+    "tags": [
+      "Folder Tree"
+    ]
+  },
+  {
+    "name": "font",
+    "path": "font.png",
+    "tags": [
+      "font"
+    ]
+  },
+  {
+    "name": "Font Awesome",
+    "path": "font-awesome.png",
+    "tags": [
+      "Font Awesome"
+    ]
+  },
+  {
+    "name": "Football Ball",
+    "path": "football-ball.png",
+    "tags": [
+      "Football Ball"
+    ]
+  },
+  {
+    "name": "forward",
+    "path": "forward.png",
+    "tags": [
+      "forward"
+    ]
+  },
+  {
+    "name": "Forward fast",
+    "path": "forward-fast.png",
+    "tags": [
+      "Forward fast"
+    ]
+  },
+  {
+    "name": "Forward step",
+    "path": "forward-step.png",
+    "tags": [
+      "Forward step"
+    ]
+  },
+  {
+    "name": "Franc Sign",
+    "path": "franc-sign.png",
+    "tags": [
+      "Franc Sign"
+    ]
+  },
+  {
+    "name": "Frog",
+    "path": "frog.png",
+    "tags": [
+      "Frog"
+    ]
+  },
+  {
+    "name": "Futbol ball",
+    "path": "futbol-ball.png",
+    "tags": [
+      "Futbol ball"
+    ]
+  },
+  {
+    "name": "G",
+    "path": "g.png",
+    "tags": [
+      "G"
+    ]
+  },
+  {
+    "name": "Gamepad",
+    "path": "gamepad.png",
+    "tags": [
+      "Gamepad"
+    ]
+  },
+  {
+    "name": "Gas Pump",
+    "path": "gas-pump.png",
+    "tags": [
+      "Gas Pump"
+    ]
+  },
+  {
+    "name": "Gauge med",
+    "path": "gauge-med.png",
+    "tags": [
+      "Gauge med"
+    ]
+  },
+  {
+    "name": "Gauge",
+    "path": "gauge.png",
+    "tags": [
+      "Gauge"
+    ]
+  },
+  {
+    "name": "Gauge simple med",
+    "path": "gauge-simple-med.png",
+    "tags": [
+      "Gauge simple med"
+    ]
+  },
+  {
+    "name": "Gauge simple",
+    "path": "gauge-simple.png",
+    "tags": [
+      "Gauge simple"
+    ]
+  },
+  {
+    "name": "Gavel",
+    "path": "gavel.png",
+    "tags": [
+      "Gavel"
+    ]
+  },
+  {
+    "name": "Gear",
+    "path": "gear.png",
+    "tags": [
+      "Gear"
+    ]
+  },
+  {
+    "name": "Gears",
+    "path": "gears.png",
+    "tags": [
+      "Gears"
+    ]
+  },
+  {
+    "name": "Gem",
+    "path": "gem.png",
+    "tags": [
+      "Gem"
+    ]
+  },
+  {
+    "name": "Genderless",
+    "path": "genderless.png",
+    "tags": [
+      "Genderless"
+    ]
+  },
+  {
+    "name": "Ghost",
+    "path": "ghost.png",
+    "tags": [
+      "Ghost"
+    ]
+  },
+  {
+    "name": "gift",
+    "path": "gift.png",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "name": "Gifts",
+    "path": "gifts.png",
+    "tags": [
+      "Gifts"
+    ]
+  },
+  {
+    "name": "Glass Water",
+    "path": "glass-water.png",
+    "tags": [
+      "Glass Water"
+    ]
+  },
+  {
+    "name": "Glass Water-droplet",
+    "path": "glass-water-droplet.png",
+    "tags": [
+      "Glass Water-droplet"
+    ]
+  },
+  {
+    "name": "Glasses",
+    "path": "glasses.png",
+    "tags": [
+      "Glasses"
+    ]
+  },
+  {
+    "name": "Globe",
+    "path": "globe.png",
+    "tags": [
+      "Globe"
+    ]
+  },
+  {
+    "name": "Golf ball tee",
+    "path": "golf-ball-tee.png",
+    "tags": [
+      "Golf ball tee"
+    ]
+  },
+  {
+    "name": "Gopuram",
+    "path": "gopuram.png",
+    "tags": [
+      "Gopuram"
+    ]
+  },
+  {
+    "name": "Graduation Cap",
+    "path": "graduation-cap.png",
+    "tags": [
+      "Graduation Cap"
+    ]
+  },
+  {
+    "name": "Greater Than",
+    "path": "greater-than.png",
+    "tags": [
+      "Greater Than"
+    ]
+  },
+  {
+    "name": "Greater Than Equal To",
+    "path": "greater-than-equal-to.png",
+    "tags": [
+      "Greater Than Equal To"
+    ]
+  },
+  {
+    "name": "Grip",
+    "path": "grip.png",
+    "tags": [
+      "Grip"
+    ]
+  },
+  {
+    "name": "Grip Lines",
+    "path": "grip-lines.png",
+    "tags": [
+      "Grip Lines"
+    ]
+  },
+  {
+    "name": "Grip Lines Vertical",
+    "path": "grip-lines-vertical.png",
+    "tags": [
+      "Grip Lines Vertical"
+    ]
+  },
+  {
+    "name": "Grip Vertical",
+    "path": "grip-vertical.png",
+    "tags": [
+      "Grip Vertical"
+    ]
+  },
+  {
+    "name": "Group Arrows-rotate",
+    "path": "group-arrows-rotate.png",
+    "tags": [
+      "Group Arrows-rotate"
+    ]
+  },
+  {
+    "name": "Guarani Sign",
+    "path": "guarani-sign.png",
+    "tags": [
+      "Guarani Sign"
+    ]
+  },
+  {
+    "name": "Guitar",
+    "path": "guitar.png",
+    "tags": [
+      "Guitar"
+    ]
+  },
+  {
+    "name": "Gun",
+    "path": "gun.png",
+    "tags": [
+      "Gun"
+    ]
+  },
+  {
+    "name": "H",
+    "path": "h.png",
+    "tags": [
+      "H"
+    ]
+  },
+  {
+    "name": "Hammer",
+    "path": "hammer.png",
+    "tags": [
+      "Hammer"
+    ]
+  },
+  {
+    "name": "Hamsa",
+    "path": "hamsa.png",
+    "tags": [
+      "Hamsa"
+    ]
+  },
+  {
+    "name": "Paper (Hand)",
+    "path": "paper-hand.png",
+    "tags": [
+      "Paper (Hand)"
+    ]
+  },
+  {
+    "name": "Rock (Hand)",
+    "path": "rock-hand.png",
+    "tags": [
+      "Rock (Hand)"
+    ]
+  },
+  {
+    "name": "Hand dots",
+    "path": "hand-dots.png",
+    "tags": [
+      "Hand dots"
+    ]
+  },
+  {
+    "name": "Raised Fist",
+    "path": "raised-fist.png",
+    "tags": [
+      "Raised Fist"
+    ]
+  },
+  {
+    "name": "Hand Holding",
+    "path": "hand-holding.png",
+    "tags": [
+      "Hand Holding"
+    ]
+  },
+  {
+    "name": "Hand holding dollar",
+    "path": "hand-holding-dollar.png",
+    "tags": [
+      "Hand holding dollar"
+    ]
+  },
+  {
+    "name": "Hand holding droplet",
+    "path": "hand-holding-droplet.png",
+    "tags": [
+      "Hand holding droplet"
+    ]
+  },
+  {
+    "name": "Hand Holding-hand",
+    "path": "hand-holding-hand.png",
+    "tags": [
+      "Hand Holding-hand"
+    ]
+  },
+  {
+    "name": "Hand Holding Heart",
+    "path": "hand-holding-heart.png",
+    "tags": [
+      "Hand Holding Heart"
+    ]
+  },
+  {
+    "name": "Hand Holding Medical Cross",
+    "path": "hand-holding-medical-cross.png",
+    "tags": [
+      "Hand Holding Medical Cross"
+    ]
+  },
+  {
+    "name": "Lizard (Hand)",
+    "path": "lizard-hand.png",
+    "tags": [
+      "Lizard (Hand)"
+    ]
+  },
+  {
+    "name": "Hand with Middle Finger Raised",
+    "path": "hand-with-middle-finger-raised.png",
+    "tags": [
+      "Hand with Middle Finger Raised"
+    ]
+  },
+  {
+    "name": "Peace (Hand)",
+    "path": "peace-hand.png",
+    "tags": [
+      "Peace (Hand)"
+    ]
+  },
+  {
+    "name": "Hand Pointing Down",
+    "path": "hand-pointing-down.png",
+    "tags": [
+      "Hand Pointing Down"
+    ]
+  },
+  {
+    "name": "Hand Pointing Left",
+    "path": "hand-pointing-left.png",
+    "tags": [
+      "Hand Pointing Left"
+    ]
+  },
+  {
+    "name": "Hand Pointing Right",
+    "path": "hand-pointing-right.png",
+    "tags": [
+      "Hand Pointing Right"
+    ]
+  },
+  {
+    "name": "Hand Pointing Up",
+    "path": "hand-pointing-up.png",
+    "tags": [
+      "Hand Pointing Up"
+    ]
+  },
+  {
+    "name": "Pointer (Hand)",
+    "path": "pointer-hand.png",
+    "tags": [
+      "Pointer (Hand)"
+    ]
+  },
+  {
+    "name": "Scissors (Hand)",
+    "path": "scissors-hand.png",
+    "tags": [
+      "Scissors (Hand)"
+    ]
+  },
+  {
+    "name": "Hand Sparkles",
+    "path": "hand-sparkles.png",
+    "tags": [
+      "Hand Sparkles"
+    ]
+  },
+  {
+    "name": "Spock (Hand)",
+    "path": "spock-hand.png",
+    "tags": [
+      "Spock (Hand)"
+    ]
+  },
+  {
+    "name": "Handcuffs",
+    "path": "handcuffs.png",
+    "tags": [
+      "Handcuffs"
+    ]
+  },
+  {
+    "name": "Hands",
+    "path": "hands.png",
+    "tags": [
+      "Hands"
+    ]
+  },
+  {
+    "name": "Hands american sign language interpreting",
+    "path": "hands-american-sign-language-interpreting.png",
+    "tags": [
+      "Hands american sign language interpreting"
+    ]
+  },
+  {
+    "name": "Hands Bound",
+    "path": "hands-bound.png",
+    "tags": [
+      "Hands Bound"
+    ]
+  },
+  {
+    "name": "Hands bubbles",
+    "path": "hands-bubbles.png",
+    "tags": [
+      "Hands bubbles"
+    ]
+  },
+  {
+    "name": "Hands Clapping",
+    "path": "hands-clapping.png",
+    "tags": [
+      "Hands Clapping"
+    ]
+  },
+  {
+    "name": "Hands holding",
+    "path": "hands-holding.png",
+    "tags": [
+      "Hands holding"
+    ]
+  },
+  {
+    "name": "Hands Holding-child",
+    "path": "hands-holding-child.png",
+    "tags": [
+      "Hands Holding-child"
+    ]
+  },
+  {
+    "name": "Hands Holding-circle",
+    "path": "hands-holding-circle.png",
+    "tags": [
+      "Hands Holding-circle"
+    ]
+  },
+  {
+    "name": "Hands praying",
+    "path": "hands-praying.png",
+    "tags": [
+      "Hands praying"
+    ]
+  },
+  {
+    "name": "Handshake",
+    "path": "handshake.png",
+    "tags": [
+      "Handshake"
+    ]
+  },
+  {
+    "name": "Handshake angle",
+    "path": "handshake-angle.png",
+    "tags": [
+      "Handshake angle"
+    ]
+  },
+  {
+    "name": "Handshake simple",
+    "path": "handshake-simple.png",
+    "tags": [
+      "Handshake simple"
+    ]
+  },
+  {
+    "name": "Handshake simple slash",
+    "path": "handshake-simple-slash.png",
+    "tags": [
+      "Handshake simple slash"
+    ]
+  },
+  {
+    "name": "Handshake Slash",
+    "path": "handshake-slash.png",
+    "tags": [
+      "Handshake Slash"
+    ]
+  },
+  {
+    "name": "Hanukiah",
+    "path": "hanukiah.png",
+    "tags": [
+      "Hanukiah"
+    ]
+  },
+  {
+    "name": "Hard drive",
+    "path": "hard-drive.png",
+    "tags": [
+      "Hard drive"
+    ]
+  },
+  {
+    "name": "Hashtag",
+    "path": "hashtag.png",
+    "tags": [
+      "Hashtag"
+    ]
+  },
+  {
+    "name": "Cowboy Hat",
+    "path": "cowboy-hat.png",
+    "tags": [
+      "Cowboy Hat"
+    ]
+  },
+  {
+    "name": "Cowboy Hat Side",
+    "path": "cowboy-hat-side.png",
+    "tags": [
+      "Cowboy Hat Side"
+    ]
+  },
+  {
+    "name": "Wizard's Hat",
+    "path": "wizards-hat.png",
+    "tags": [
+      "Wizard\\'s Hat"
+    ]
+  },
+  {
+    "name": "Head Side Cough",
+    "path": "head-side-cough.png",
+    "tags": [
+      "Head Side Cough"
+    ]
+  },
+  {
+    "name": "Head Side-cough-slash",
+    "path": "head-side-cough-slash.png",
+    "tags": [
+      "Head Side-cough-slash"
+    ]
+  },
+  {
+    "name": "Head Side Mask",
+    "path": "head-side-mask.png",
+    "tags": [
+      "Head Side Mask"
+    ]
+  },
+  {
+    "name": "Head Side Virus",
+    "path": "head-side-virus.png",
+    "tags": [
+      "Head Side Virus"
+    ]
+  },
+  {
+    "name": "heading",
+    "path": "heading.png",
+    "tags": [
+      "heading"
+    ]
+  },
+  {
+    "name": "headphones",
+    "path": "headphones.png",
+    "tags": [
+      "headphones"
+    ]
+  },
+  {
+    "name": "Headphones simple",
+    "path": "headphones-simple.png",
+    "tags": [
+      "Headphones simple"
+    ]
+  },
+  {
+    "name": "Headset",
+    "path": "headset.png",
+    "tags": [
+      "Headset"
+    ]
+  },
+  {
+    "name": "Heart",
+    "path": "heart.png",
+    "tags": [
+      "Heart"
+    ]
+  },
+  {
+    "name": "Heart Circle-bolt",
+    "path": "heart-circle-bolt.png",
+    "tags": [
+      "Heart Circle-bolt"
+    ]
+  },
+  {
+    "name": "Heart Circle-check",
+    "path": "heart-circle-check.png",
+    "tags": [
+      "Heart Circle-check"
+    ]
+  },
+  {
+    "name": "Heart Circle-exclamation",
+    "path": "heart-circle-exclamation.png",
+    "tags": [
+      "Heart Circle-exclamation"
+    ]
+  },
+  {
+    "name": "Heart Circle-minus",
+    "path": "heart-circle-minus.png",
+    "tags": [
+      "Heart Circle-minus"
+    ]
+  },
+  {
+    "name": "Heart Circle-plus",
+    "path": "heart-circle-plus.png",
+    "tags": [
+      "Heart Circle-plus"
+    ]
+  },
+  {
+    "name": "Heart Circle-xmark",
+    "path": "heart-circle-xmark.png",
+    "tags": [
+      "Heart Circle-xmark"
+    ]
+  },
+  {
+    "name": "Heart crack",
+    "path": "heart-crack.png",
+    "tags": [
+      "Heart crack"
+    ]
+  },
+  {
+    "name": "Heart pulse",
+    "path": "heart-pulse.png",
+    "tags": [
+      "Heart pulse"
+    ]
+  },
+  {
+    "name": "Helicopter",
+    "path": "helicopter.png",
+    "tags": [
+      "Helicopter"
+    ]
+  },
+  {
+    "name": "Helicopter Symbol",
+    "path": "helicopter-symbol.png",
+    "tags": [
+      "Helicopter Symbol"
+    ]
+  },
+  {
+    "name": "Helmet safety",
+    "path": "helmet-safety.png",
+    "tags": [
+      "Helmet safety"
+    ]
+  },
+  {
+    "name": "Helmet Un",
+    "path": "helmet-un.png",
+    "tags": [
+      "Helmet Un"
+    ]
+  },
+  {
+    "name": "Highlighter",
+    "path": "highlighter.png",
+    "tags": [
+      "Highlighter"
+    ]
+  },
+  {
+    "name": "Hill Avalanche",
+    "path": "hill-avalanche.png",
+    "tags": [
+      "Hill Avalanche"
+    ]
+  },
+  {
+    "name": "Hill Rockslide",
+    "path": "hill-rockslide.png",
+    "tags": [
+      "Hill Rockslide"
+    ]
+  },
+  {
+    "name": "Hippo",
+    "path": "hippo.png",
+    "tags": [
+      "Hippo"
+    ]
+  },
+  {
+    "name": "Hockey Puck",
+    "path": "hockey-puck.png",
+    "tags": [
+      "Hockey Puck"
+    ]
+  },
+  {
+    "name": "Holly Berry",
+    "path": "holly-berry.png",
+    "tags": [
+      "Holly Berry"
+    ]
+  },
+  {
+    "name": "Horse",
+    "path": "horse.png",
+    "tags": [
+      "Horse"
+    ]
+  },
+  {
+    "name": "Horse Head",
+    "path": "horse-head.png",
+    "tags": [
+      "Horse Head"
+    ]
+  },
+  {
+    "name": "hospital",
+    "path": "hospital.png",
+    "tags": [
+      "hospital"
+    ]
+  },
+  {
+    "name": "Hospital with User",
+    "path": "hospital-with-user.png",
+    "tags": [
+      "Hospital with User"
+    ]
+  },
+  {
+    "name": "Hot tub person",
+    "path": "hot-tub-person.png",
+    "tags": [
+      "Hot tub person"
+    ]
+  },
+  {
+    "name": "Hot Dog",
+    "path": "hot-dog.png",
+    "tags": [
+      "Hot Dog"
+    ]
+  },
+  {
+    "name": "Hotel",
+    "path": "hotel.png",
+    "tags": [
+      "Hotel"
+    ]
+  },
+  {
+    "name": "Hourglass",
+    "path": "hourglass.png",
+    "tags": [
+      "Hourglass"
+    ]
+  },
+  {
+    "name": "Hourglass End",
+    "path": "hourglass-end.png",
+    "tags": [
+      "Hourglass End"
+    ]
+  },
+  {
+    "name": "Hourglass Half",
+    "path": "hourglass-half.png",
+    "tags": [
+      "Hourglass Half"
+    ]
+  },
+  {
+    "name": "Hourglass Start",
+    "path": "hourglass-start.png",
+    "tags": [
+      "Hourglass Start"
+    ]
+  },
+  {
+    "name": "House",
+    "path": "house.png",
+    "tags": [
+      "House"
+    ]
+  },
+  {
+    "name": "House Chimney",
+    "path": "house-chimney.png",
+    "tags": [
+      "House Chimney"
+    ]
+  },
+  {
+    "name": "House crack",
+    "path": "house-crack.png",
+    "tags": [
+      "House crack"
+    ]
+  },
+  {
+    "name": "House medical",
+    "path": "house-medical.png",
+    "tags": [
+      "House medical"
+    ]
+  },
+  {
+    "name": "House User",
+    "path": "house-user.png",
+    "tags": [
+      "House User"
+    ]
+  },
+  {
+    "name": "House with Window + Chimney",
+    "path": "house-with-window-chimney.png",
+    "tags": [
+      "House with Window + Chimney"
+    ]
+  },
+  {
+    "name": "House Circle-check",
+    "path": "house-circle-check.png",
+    "tags": [
+      "House Circle-check"
+    ]
+  },
+  {
+    "name": "House Circle-exclamation",
+    "path": "house-circle-exclamation.png",
+    "tags": [
+      "House Circle-exclamation"
+    ]
+  },
+  {
+    "name": "House Circle-xmark",
+    "path": "house-circle-xmark.png",
+    "tags": [
+      "House Circle-xmark"
+    ]
+  },
+  {
+    "name": "House Simple Crack",
+    "path": "house-simple-crack.png",
+    "tags": [
+      "House Simple Crack"
+    ]
+  },
+  {
+    "name": "House Fire",
+    "path": "house-fire.png",
+    "tags": [
+      "House Fire"
+    ]
+  },
+  {
+    "name": "House Flag",
+    "path": "house-flag.png",
+    "tags": [
+      "House Flag"
+    ]
+  },
+  {
+    "name": "House Flood",
+    "path": "house-flood.png",
+    "tags": [
+      "House Flood"
+    ]
+  },
+  {
+    "name": "House Flood-circle-arrow-right",
+    "path": "house-flood-circle-arrow-right.png",
+    "tags": [
+      "House Flood-circle-arrow-right"
+    ]
+  },
+  {
+    "name": "House laptop",
+    "path": "house-laptop.png",
+    "tags": [
+      "House laptop"
+    ]
+  },
+  {
+    "name": "House Lock",
+    "path": "house-lock.png",
+    "tags": [
+      "House Lock"
+    ]
+  },
+  {
+    "name": "House Simple Medical",
+    "path": "house-simple-medical.png",
+    "tags": [
+      "House Simple Medical"
+    ]
+  },
+  {
+    "name": "House Medical-circle-check",
+    "path": "house-medical-circle-check.png",
+    "tags": [
+      "House Medical-circle-check"
+    ]
+  },
+  {
+    "name": "House Medical-circle-exclamation",
+    "path": "house-medical-circle-exclamation.png",
+    "tags": [
+      "House Medical-circle-exclamation"
+    ]
+  },
+  {
+    "name": "House Medical-circle-xmark",
+    "path": "house-medical-circle-xmark.png",
+    "tags": [
+      "House Medical-circle-xmark"
+    ]
+  },
+  {
+    "name": "House Medical-flag",
+    "path": "house-medical-flag.png",
+    "tags": [
+      "House Medical-flag"
+    ]
+  },
+  {
+    "name": "House Signal",
+    "path": "house-signal.png",
+    "tags": [
+      "House Signal"
+    ]
+  },
+  {
+    "name": "House Tsunami",
+    "path": "house-tsunami.png",
+    "tags": [
+      "House Tsunami"
+    ]
+  },
+  {
+    "name": "Home User",
+    "path": "home-user.png",
+    "tags": [
+      "Home User"
+    ]
+  },
+  {
+    "name": "Hryvnia sign",
+    "path": "hryvnia-sign.png",
+    "tags": [
+      "Hryvnia sign"
+    ]
+  },
+  {
+    "name": "Hurricane",
+    "path": "hurricane.png",
+    "tags": [
+      "Hurricane"
+    ]
+  },
+  {
+    "name": "I",
+    "path": "i.png",
+    "tags": [
+      "I"
+    ]
+  },
+  {
+    "name": "I Beam Cursor",
+    "path": "i-beam-cursor.png",
+    "tags": [
+      "I Beam Cursor"
+    ]
+  },
+  {
+    "name": "Ice Cream",
+    "path": "ice-cream.png",
+    "tags": [
+      "Ice Cream"
+    ]
+  },
+  {
+    "name": "Icicles",
+    "path": "icicles.png",
+    "tags": [
+      "Icicles"
+    ]
+  },
+  {
+    "name": "Icons",
+    "path": "icons.png",
+    "tags": [
+      "Icons"
+    ]
+  },
+  {
+    "name": "Identification Badge",
+    "path": "identification-badge.png",
+    "tags": [
+      "Identification Badge"
+    ]
+  },
+  {
+    "name": "Identification Card",
+    "path": "identification-card.png",
+    "tags": [
+      "Identification Card"
+    ]
+  },
+  {
+    "name": "Id card clip",
+    "path": "id-card-clip.png",
+    "tags": [
+      "Id card clip"
+    ]
+  },
+  {
+    "name": "Igloo",
+    "path": "igloo.png",
+    "tags": [
+      "Igloo"
+    ]
+  },
+  {
+    "name": "Image",
+    "path": "image.png",
+    "tags": [
+      "Image"
+    ]
+  },
+  {
+    "name": "Image portrait",
+    "path": "image-portrait.png",
+    "tags": [
+      "Image portrait"
+    ]
+  },
+  {
+    "name": "Images",
+    "path": "images.png",
+    "tags": [
+      "Images"
+    ]
+  },
+  {
+    "name": "inbox",
+    "path": "inbox.png",
+    "tags": [
+      "inbox"
+    ]
+  },
+  {
+    "name": "Indent",
+    "path": "indent.png",
+    "tags": [
+      "Indent"
+    ]
+  },
+  {
+    "name": "Indian Rupee-sign",
+    "path": "indian-rupee-sign.png",
+    "tags": [
+      "Indian Rupee-sign"
+    ]
+  },
+  {
+    "name": "Industry",
+    "path": "industry.png",
+    "tags": [
+      "Industry"
+    ]
+  },
+  {
+    "name": "Infinity",
+    "path": "infinity.png",
+    "tags": [
+      "Infinity"
+    ]
+  },
+  {
+    "name": "Info",
+    "path": "info.png",
+    "tags": [
+      "Info"
+    ]
+  },
+  {
+    "name": "italic",
+    "path": "italic.png",
+    "tags": [
+      "italic"
+    ]
+  },
+  {
+    "name": "J",
+    "path": "j.png",
+    "tags": [
+      "J"
+    ]
+  },
+  {
+    "name": "Jar",
+    "path": "jar.png",
+    "tags": [
+      "Jar"
+    ]
+  },
+  {
+    "name": "Jar Wheat",
+    "path": "jar-wheat.png",
+    "tags": [
+      "Jar Wheat"
+    ]
+  },
+  {
+    "name": "Jedi",
+    "path": "jedi.png",
+    "tags": [
+      "Jedi"
+    ]
+  },
+  {
+    "name": "Jet fighter",
+    "path": "jet-fighter.png",
+    "tags": [
+      "Jet fighter"
+    ]
+  },
+  {
+    "name": "Jet Fighter Up",
+    "path": "jet-fighter-up.png",
+    "tags": [
+      "Jet Fighter Up"
+    ]
+  },
+  {
+    "name": "Joint",
+    "path": "joint.png",
+    "tags": [
+      "Joint"
+    ]
+  },
+  {
+    "name": "Jug Detergent",
+    "path": "jug-detergent.png",
+    "tags": [
+      "Jug Detergent"
+    ]
+  },
+  {
+    "name": "K",
+    "path": "k.png",
+    "tags": [
+      "K"
+    ]
+  },
+  {
+    "name": "Kaaba",
+    "path": "kaaba.png",
+    "tags": [
+      "Kaaba"
+    ]
+  },
+  {
+    "name": "key",
+    "path": "key.png",
+    "tags": [
+      "key"
+    ]
+  },
+  {
+    "name": "Keyboard",
+    "path": "keyboard.png",
+    "tags": [
+      "Keyboard"
+    ]
+  },
+  {
+    "name": "Khanda",
+    "path": "khanda.png",
+    "tags": [
+      "Khanda"
+    ]
+  },
+  {
+    "name": "Kip Sign",
+    "path": "kip-sign.png",
+    "tags": [
+      "Kip Sign"
+    ]
+  },
+  {
+    "name": "Kit medical",
+    "path": "kit-medical.png",
+    "tags": [
+      "Kit medical"
+    ]
+  },
+  {
+    "name": "Kitchen Set",
+    "path": "kitchen-set.png",
+    "tags": [
+      "Kitchen Set"
+    ]
+  },
+  {
+    "name": "Kiwi Bird",
+    "path": "kiwi-bird.png",
+    "tags": [
+      "Kiwi Bird"
+    ]
+  },
+  {
+    "name": "L",
+    "path": "l.png",
+    "tags": [
+      "L"
+    ]
+  },
+  {
+    "name": "Land Mine-on",
+    "path": "land-mine-on.png",
+    "tags": [
+      "Land Mine-on"
+    ]
+  },
+  {
+    "name": "Landmark",
+    "path": "landmark.png",
+    "tags": [
+      "Landmark"
+    ]
+  },
+  {
+    "name": "Landmark dome",
+    "path": "landmark-dome.png",
+    "tags": [
+      "Landmark dome"
+    ]
+  },
+  {
+    "name": "Landmark Flag",
+    "path": "landmark-flag.png",
+    "tags": [
+      "Landmark Flag"
+    ]
+  },
+  {
+    "name": "Language",
+    "path": "language.png",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "name": "Laptop",
+    "path": "laptop.png",
+    "tags": [
+      "Laptop"
+    ]
+  },
+  {
+    "name": "Laptop Code",
+    "path": "laptop-code.png",
+    "tags": [
+      "Laptop Code"
+    ]
+  },
+  {
+    "name": "Laptop File",
+    "path": "laptop-file.png",
+    "tags": [
+      "Laptop File"
+    ]
+  },
+  {
+    "name": "Laptop Medical",
+    "path": "laptop-medical.png",
+    "tags": [
+      "Laptop Medical"
+    ]
+  },
+  {
+    "name": "Lari Sign",
+    "path": "lari-sign.png",
+    "tags": [
+      "Lari Sign"
+    ]
+  },
+  {
+    "name": "Layer Group",
+    "path": "layer-group.png",
+    "tags": [
+      "Layer Group"
+    ]
+  },
+  {
+    "name": "leaf",
+    "path": "leaf.png",
+    "tags": [
+      "leaf"
+    ]
+  },
+  {
+    "name": "Left long",
+    "path": "left-long.png",
+    "tags": [
+      "Left long"
+    ]
+  },
+  {
+    "name": "Left right",
+    "path": "left-right.png",
+    "tags": [
+      "Left right"
+    ]
+  },
+  {
+    "name": "Lemon",
+    "path": "lemon.png",
+    "tags": [
+      "Lemon"
+    ]
+  },
+  {
+    "name": "Less Than",
+    "path": "less-than.png",
+    "tags": [
+      "Less Than"
+    ]
+  },
+  {
+    "name": "Less Than Equal To",
+    "path": "less-than-equal-to.png",
+    "tags": [
+      "Less Than Equal To"
+    ]
+  },
+  {
+    "name": "Life Ring",
+    "path": "life-ring.png",
+    "tags": [
+      "Life Ring"
+    ]
+  },
+  {
+    "name": "Lightbulb",
+    "path": "lightbulb.png",
+    "tags": [
+      "Lightbulb"
+    ]
+  },
+  {
+    "name": "Lines Leaning",
+    "path": "lines-leaning.png",
+    "tags": [
+      "Lines Leaning"
+    ]
+  },
+  {
+    "name": "Link",
+    "path": "link.png",
+    "tags": [
+      "Link"
+    ]
+  },
+  {
+    "name": "Link Slash",
+    "path": "link-slash.png",
+    "tags": [
+      "Link Slash"
+    ]
+  },
+  {
+    "name": "Turkish Lira Sign",
+    "path": "turkish-lira-sign.png",
+    "tags": [
+      "Turkish Lira Sign"
+    ]
+  },
+  {
+    "name": "List",
+    "path": "list.png",
+    "tags": [
+      "List"
+    ]
+  },
+  {
+    "name": "List check",
+    "path": "list-check.png",
+    "tags": [
+      "List check"
+    ]
+  },
+  {
+    "name": "list-ol",
+    "path": "list-ol.png",
+    "tags": [
+      "list-ol"
+    ]
+  },
+  {
+    "name": "list-ul",
+    "path": "list-ul.png",
+    "tags": [
+      "list-ul"
+    ]
+  },
+  {
+    "name": "Litecoin Sign",
+    "path": "litecoin-sign.png",
+    "tags": [
+      "Litecoin Sign"
+    ]
+  },
+  {
+    "name": "location-arrow",
+    "path": "location-arrow.png",
+    "tags": [
+      "location-arrow"
+    ]
+  },
+  {
+    "name": "Location Crosshairs",
+    "path": "location-crosshairs.png",
+    "tags": [
+      "Location Crosshairs"
+    ]
+  },
+  {
+    "name": "Location dot",
+    "path": "location-dot.png",
+    "tags": [
+      "Location dot"
+    ]
+  },
+  {
+    "name": "Location",
+    "path": "location.png",
+    "tags": [
+      "Location"
+    ]
+  },
+  {
+    "name": "Location Pin-lock",
+    "path": "location-pin-lock.png",
+    "tags": [
+      "Location Pin-lock"
+    ]
+  },
+  {
+    "name": "lock",
+    "path": "lock.png",
+    "tags": [
+      "lock"
+    ]
+  },
+  {
+    "name": "Lock Open",
+    "path": "lock-open.png",
+    "tags": [
+      "Lock Open"
+    ]
+  },
+  {
+    "name": "Locust",
+    "path": "locust.png",
+    "tags": [
+      "Locust"
+    ]
+  },
+  {
+    "name": "Lungs",
+    "path": "lungs.png",
+    "tags": [
+      "Lungs"
+    ]
+  },
+  {
+    "name": "Lungs Virus",
+    "path": "lungs-virus.png",
+    "tags": [
+      "Lungs Virus"
+    ]
+  },
+  {
+    "name": "M",
+    "path": "m.png",
+    "tags": [
+      "M"
+    ]
+  },
+  {
+    "name": "magnet",
+    "path": "magnet.png",
+    "tags": [
+      "magnet"
+    ]
+  },
+  {
+    "name": "Magnifying glass",
+    "path": "magnifying-glass.png",
+    "tags": [
+      "Magnifying glass"
+    ]
+  },
+  {
+    "name": "Magnifying Glass-arrow-right",
+    "path": "magnifying-glass-arrow-right.png",
+    "tags": [
+      "Magnifying Glass-arrow-right"
+    ]
+  },
+  {
+    "name": "Magnifying Glass-chart",
+    "path": "magnifying-glass-chart.png",
+    "tags": [
+      "Magnifying Glass-chart"
+    ]
+  },
+  {
+    "name": "Magnifying glass dollar",
+    "path": "magnifying-glass-dollar.png",
+    "tags": [
+      "Magnifying glass dollar"
+    ]
+  },
+  {
+    "name": "Magnifying glass location",
+    "path": "magnifying-glass-location.png",
+    "tags": [
+      "Magnifying glass location"
+    ]
+  },
+  {
+    "name": "Magnifying glass minus",
+    "path": "magnifying-glass-minus.png",
+    "tags": [
+      "Magnifying glass minus"
+    ]
+  },
+  {
+    "name": "Magnifying glass plus",
+    "path": "magnifying-glass-plus.png",
+    "tags": [
+      "Magnifying glass plus"
+    ]
+  },
+  {
+    "name": "Manat Sign",
+    "path": "manat-sign.png",
+    "tags": [
+      "Manat Sign"
+    ]
+  },
+  {
+    "name": "Map",
+    "path": "map.png",
+    "tags": [
+      "Map"
+    ]
+  },
+  {
+    "name": "Map location",
+    "path": "map-location.png",
+    "tags": [
+      "Map location"
+    ]
+  },
+  {
+    "name": "Map location dot",
+    "path": "map-location-dot.png",
+    "tags": [
+      "Map location dot"
+    ]
+  },
+  {
+    "name": "Map Pin",
+    "path": "map-pin.png",
+    "tags": [
+      "Map Pin"
+    ]
+  },
+  {
+    "name": "Marker",
+    "path": "marker.png",
+    "tags": [
+      "Marker"
+    ]
+  },
+  {
+    "name": "Mars",
+    "path": "mars.png",
+    "tags": [
+      "Mars"
+    ]
+  },
+  {
+    "name": "Mars and Venus",
+    "path": "mars-and-venus.png",
+    "tags": [
+      "Mars and Venus"
+    ]
+  },
+  {
+    "name": "Mars and Venus Burst",
+    "path": "mars-and-venus-burst.png",
+    "tags": [
+      "Mars and Venus Burst"
+    ]
+  },
+  {
+    "name": "Mars Double",
+    "path": "mars-double.png",
+    "tags": [
+      "Mars Double"
+    ]
+  },
+  {
+    "name": "Mars Stroke",
+    "path": "mars-stroke.png",
+    "tags": [
+      "Mars Stroke"
+    ]
+  },
+  {
+    "name": "Mars stroke right",
+    "path": "mars-stroke-right.png",
+    "tags": [
+      "Mars stroke right"
+    ]
+  },
+  {
+    "name": "Mars stroke up",
+    "path": "mars-stroke-up.png",
+    "tags": [
+      "Mars stroke up"
+    ]
+  },
+  {
+    "name": "Martini glass",
+    "path": "martini-glass.png",
+    "tags": [
+      "Martini glass"
+    ]
+  },
+  {
+    "name": "Martini glass citrus",
+    "path": "martini-glass-citrus.png",
+    "tags": [
+      "Martini glass citrus"
+    ]
+  },
+  {
+    "name": "Martini glass empty",
+    "path": "martini-glass-empty.png",
+    "tags": [
+      "Martini glass empty"
+    ]
+  },
+  {
+    "name": "Mask",
+    "path": "mask.png",
+    "tags": [
+      "Mask"
+    ]
+  },
+  {
+    "name": "Face Mask",
+    "path": "face-mask.png",
+    "tags": [
+      "Face Mask"
+    ]
+  },
+  {
+    "name": "Mask Ventilator",
+    "path": "mask-ventilator.png",
+    "tags": [
+      "Mask Ventilator"
+    ]
+  },
+  {
+    "name": "Masks theater",
+    "path": "masks-theater.png",
+    "tags": [
+      "Masks theater"
+    ]
+  },
+  {
+    "name": "Mattress Pillow",
+    "path": "mattress-pillow.png",
+    "tags": [
+      "Mattress Pillow"
+    ]
+  },
+  {
+    "name": "Maximize",
+    "path": "maximize.png",
+    "tags": [
+      "Maximize"
+    ]
+  },
+  {
+    "name": "Medal",
+    "path": "medal.png",
+    "tags": [
+      "Medal"
+    ]
+  },
+  {
+    "name": "Memory",
+    "path": "memory.png",
+    "tags": [
+      "Memory"
+    ]
+  },
+  {
+    "name": "Menorah",
+    "path": "menorah.png",
+    "tags": [
+      "Menorah"
+    ]
+  },
+  {
+    "name": "Mercury",
+    "path": "mercury.png",
+    "tags": [
+      "Mercury"
+    ]
+  },
+  {
+    "name": "Message",
+    "path": "message.png",
+    "tags": [
+      "Message"
+    ]
+  },
+  {
+    "name": "Meteor",
+    "path": "meteor.png",
+    "tags": [
+      "Meteor"
+    ]
+  },
+  {
+    "name": "Microchip",
+    "path": "microchip.png",
+    "tags": [
+      "Microchip"
+    ]
+  },
+  {
+    "name": "microphone",
+    "path": "microphone.png",
+    "tags": [
+      "microphone"
+    ]
+  },
+  {
+    "name": "Microphone lines",
+    "path": "microphone-lines.png",
+    "tags": [
+      "Microphone lines"
+    ]
+  },
+  {
+    "name": "Microphone lines slash",
+    "path": "microphone-lines-slash.png",
+    "tags": [
+      "Microphone lines slash"
+    ]
+  },
+  {
+    "name": "Microphone Slash",
+    "path": "microphone-slash.png",
+    "tags": [
+      "Microphone Slash"
+    ]
+  },
+  {
+    "name": "Microscope",
+    "path": "microscope.png",
+    "tags": [
+      "Microscope"
+    ]
+  },
+  {
+    "name": "Mill Sign",
+    "path": "mill-sign.png",
+    "tags": [
+      "Mill Sign"
+    ]
+  },
+  {
+    "name": "Minimize",
+    "path": "minimize.png",
+    "tags": [
+      "Minimize"
+    ]
+  },
+  {
+    "name": "minus",
+    "path": "minus.png",
+    "tags": [
+      "minus"
+    ]
+  },
+  {
+    "name": "Mitten",
+    "path": "mitten.png",
+    "tags": [
+      "Mitten"
+    ]
+  },
+  {
+    "name": "Mobile",
+    "path": "mobile.png",
+    "tags": [
+      "Mobile"
+    ]
+  },
+  {
+    "name": "Mobile button",
+    "path": "mobile-button.png",
+    "tags": [
+      "Mobile button"
+    ]
+  },
+  {
+    "name": "Mobile Retro",
+    "path": "mobile-retro.png",
+    "tags": [
+      "Mobile Retro"
+    ]
+  },
+  {
+    "name": "Mobile screen",
+    "path": "mobile-screen.png",
+    "tags": [
+      "Mobile screen"
+    ]
+  },
+  {
+    "name": "Mobile screen button",
+    "path": "mobile-screen-button.png",
+    "tags": [
+      "Mobile screen button"
+    ]
+  },
+  {
+    "name": "Money Bill",
+    "path": "money-bill.png",
+    "tags": [
+      "Money Bill"
+    ]
+  },
+  {
+    "name": "Money bill 1",
+    "path": "money-bill-1.png",
+    "tags": [
+      "Money bill 1"
+    ]
+  },
+  {
+    "name": "Money bill 1 wave",
+    "path": "money-bill-1-wave.png",
+    "tags": [
+      "Money bill 1 wave"
+    ]
+  },
+  {
+    "name": "Money Bill-transfer",
+    "path": "money-bill-transfer.png",
+    "tags": [
+      "Money Bill-transfer"
+    ]
+  },
+  {
+    "name": "Money Bill-trend-up",
+    "path": "money-bill-trend-up.png",
+    "tags": [
+      "Money Bill-trend-up"
+    ]
+  },
+  {
+    "name": "Wavy Money Bill",
+    "path": "wavy-money-bill.png",
+    "tags": [
+      "Wavy Money Bill"
+    ]
+  },
+  {
+    "name": "Money Bill-wheat",
+    "path": "money-bill-wheat.png",
+    "tags": [
+      "Money Bill-wheat"
+    ]
+  },
+  {
+    "name": "Money Bills",
+    "path": "money-bills.png",
+    "tags": [
+      "Money Bills"
+    ]
+  },
+  {
+    "name": "Money Check",
+    "path": "money-check.png",
+    "tags": [
+      "Money Check"
+    ]
+  },
+  {
+    "name": "Money check dollar",
+    "path": "money-check-dollar.png",
+    "tags": [
+      "Money check dollar"
+    ]
+  },
+  {
+    "name": "Monument",
+    "path": "monument.png",
+    "tags": [
+      "Monument"
+    ]
+  },
+  {
+    "name": "Moon",
+    "path": "moon.png",
+    "tags": [
+      "Moon"
+    ]
+  },
+  {
+    "name": "Mortar Pestle",
+    "path": "mortar-pestle.png",
+    "tags": [
+      "Mortar Pestle"
+    ]
+  },
+  {
+    "name": "Mosque",
+    "path": "mosque.png",
+    "tags": [
+      "Mosque"
+    ]
+  },
+  {
+    "name": "Mosquito",
+    "path": "mosquito.png",
+    "tags": [
+      "Mosquito"
+    ]
+  },
+  {
+    "name": "Mosquito Net",
+    "path": "mosquito-net.png",
+    "tags": [
+      "Mosquito Net"
+    ]
+  },
+  {
+    "name": "Motorcycle",
+    "path": "motorcycle.png",
+    "tags": [
+      "Motorcycle"
+    ]
+  },
+  {
+    "name": "Mound",
+    "path": "mound.png",
+    "tags": [
+      "Mound"
+    ]
+  },
+  {
+    "name": "Mountain",
+    "path": "mountain.png",
+    "tags": [
+      "Mountain"
+    ]
+  },
+  {
+    "name": "Mountain City",
+    "path": "mountain-city.png",
+    "tags": [
+      "Mountain City"
+    ]
+  },
+  {
+    "name": "Mountain Sun",
+    "path": "mountain-sun.png",
+    "tags": [
+      "Mountain Sun"
+    ]
+  },
+  {
+    "name": "Mug Hot",
+    "path": "mug-hot.png",
+    "tags": [
+      "Mug Hot"
+    ]
+  },
+  {
+    "name": "Mug saucer",
+    "path": "mug-saucer.png",
+    "tags": [
+      "Mug saucer"
+    ]
+  },
+  {
+    "name": "Music",
+    "path": "music.png",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
+    "name": "N",
+    "path": "n.png",
+    "tags": [
+      "N"
+    ]
+  },
+  {
+    "name": "Naira Sign",
+    "path": "naira-sign.png",
+    "tags": [
+      "Naira Sign"
+    ]
+  },
+  {
+    "name": "Wired Network",
+    "path": "wired-network.png",
+    "tags": [
+      "Wired Network"
+    ]
+  },
+  {
+    "name": "Neuter",
+    "path": "neuter.png",
+    "tags": [
+      "Neuter"
+    ]
+  },
+  {
+    "name": "Newspaper",
+    "path": "newspaper.png",
+    "tags": [
+      "Newspaper"
+    ]
+  },
+  {
+    "name": "Not Equal",
+    "path": "not-equal.png",
+    "tags": [
+      "Not Equal"
+    ]
+  },
+  {
+    "name": "Note sticky",
+    "path": "note-sticky.png",
+    "tags": [
+      "Note sticky"
+    ]
+  },
+  {
+    "name": "Medical Notes",
+    "path": "medical-notes.png",
+    "tags": [
+      "Medical Notes"
+    ]
+  },
+  {
+    "name": "O",
+    "path": "o.png",
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "name": "Object Group",
+    "path": "object-group.png",
+    "tags": [
+      "Object Group"
+    ]
+  },
+  {
+    "name": "Object Ungroup",
+    "path": "object-ungroup.png",
+    "tags": [
+      "Object Ungroup"
+    ]
+  },
+  {
+    "name": "Oil Can",
+    "path": "oil-can.png",
+    "tags": [
+      "Oil Can"
+    ]
+  },
+  {
+    "name": "Oil Well",
+    "path": "oil-well.png",
+    "tags": [
+      "Oil Well"
+    ]
+  },
+  {
+    "name": "Om",
+    "path": "om.png",
+    "tags": [
+      "Om"
+    ]
+  },
+  {
+    "name": "Otter",
+    "path": "otter.png",
+    "tags": [
+      "Otter"
+    ]
+  },
+  {
+    "name": "Outdent",
+    "path": "outdent.png",
+    "tags": [
+      "Outdent"
+    ]
+  },
+  {
+    "name": "P",
+    "path": "p.png",
+    "tags": [
+      "P"
+    ]
+  },
+  {
+    "name": "Pager",
+    "path": "pager.png",
+    "tags": [
+      "Pager"
+    ]
+  },
+  {
+    "name": "Paint Roller",
+    "path": "paint-roller.png",
+    "tags": [
+      "Paint Roller"
+    ]
+  },
+  {
+    "name": "Paint Brush",
+    "path": "paint-brush.png",
+    "tags": [
+      "Paint Brush"
+    ]
+  },
+  {
+    "name": "Palette",
+    "path": "palette.png",
+    "tags": [
+      "Palette"
+    ]
+  },
+  {
+    "name": "Pallet",
+    "path": "pallet.png",
+    "tags": [
+      "Pallet"
+    ]
+  },
+  {
+    "name": "Panorama",
+    "path": "panorama.png",
+    "tags": [
+      "Panorama"
+    ]
+  },
+  {
+    "name": "Paper Plane",
+    "path": "paper-plane.png",
+    "tags": [
+      "Paper Plane"
+    ]
+  },
+  {
+    "name": "Paperclip",
+    "path": "paperclip.png",
+    "tags": [
+      "Paperclip"
+    ]
+  },
+  {
+    "name": "Parachute Box",
+    "path": "parachute-box.png",
+    "tags": [
+      "Parachute Box"
+    ]
+  },
+  {
+    "name": "paragraph",
+    "path": "paragraph.png",
+    "tags": [
+      "paragraph"
+    ]
+  },
+  {
+    "name": "Passport",
+    "path": "passport.png",
+    "tags": [
+      "Passport"
+    ]
+  },
+  {
+    "name": "Paste",
+    "path": "paste.png",
+    "tags": [
+      "Paste"
+    ]
+  },
+  {
+    "name": "pause",
+    "path": "pause.png",
+    "tags": [
+      "pause"
+    ]
+  },
+  {
+    "name": "Paw",
+    "path": "paw.png",
+    "tags": [
+      "Paw"
+    ]
+  },
+  {
+    "name": "Peace",
+    "path": "peace.png",
+    "tags": [
+      "Peace"
+    ]
+  },
+  {
+    "name": "Pen",
+    "path": "pen.png",
+    "tags": [
+      "Pen"
+    ]
+  },
+  {
+    "name": "Pen clip",
+    "path": "pen-clip.png",
+    "tags": [
+      "Pen clip"
+    ]
+  },
+  {
+    "name": "Pen Fancy",
+    "path": "pen-fancy.png",
+    "tags": [
+      "Pen Fancy"
+    ]
+  },
+  {
+    "name": "Pen Nib",
+    "path": "pen-nib.png",
+    "tags": [
+      "Pen Nib"
+    ]
+  },
+  {
+    "name": "Pen ruler",
+    "path": "pen-ruler.png",
+    "tags": [
+      "Pen ruler"
+    ]
+  },
+  {
+    "name": "Pen to square",
+    "path": "pen-to-square.png",
+    "tags": [
+      "Pen to square"
+    ]
+  },
+  {
+    "name": "pencil",
+    "path": "pencil.png",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "name": "People arrows left right",
+    "path": "people-arrows-left-right.png",
+    "tags": [
+      "People arrows left right"
+    ]
+  },
+  {
+    "name": "People carry box",
+    "path": "people-carry-box.png",
+    "tags": [
+      "People carry box"
+    ]
+  },
+  {
+    "name": "People Group",
+    "path": "people-group.png",
+    "tags": [
+      "People Group"
+    ]
+  },
+  {
+    "name": "People Line",
+    "path": "people-line.png",
+    "tags": [
+      "People Line"
+    ]
+  },
+  {
+    "name": "People Pulling",
+    "path": "people-pulling.png",
+    "tags": [
+      "People Pulling"
+    ]
+  },
+  {
+    "name": "People Robbery",
+    "path": "people-robbery.png",
+    "tags": [
+      "People Robbery"
+    ]
+  },
+  {
+    "name": "People Roof",
+    "path": "people-roof.png",
+    "tags": [
+      "People Roof"
+    ]
+  },
+  {
+    "name": "Hot Pepper",
+    "path": "hot-pepper.png",
+    "tags": [
+      "Hot Pepper"
+    ]
+  },
+  {
+    "name": "Percent",
+    "path": "percent.png",
+    "tags": [
+      "Percent"
+    ]
+  },
+  {
+    "name": "Person",
+    "path": "person.png",
+    "tags": [
+      "Person"
+    ]
+  },
+  {
+    "name": "Person Arrow-down-to-line",
+    "path": "person-arrow-down-to-line.png",
+    "tags": [
+      "Person Arrow-down-to-line"
+    ]
+  },
+  {
+    "name": "Person Arrow-up-from-line",
+    "path": "person-arrow-up-from-line.png",
+    "tags": [
+      "Person Arrow-up-from-line"
+    ]
+  },
+  {
+    "name": "Person biking",
+    "path": "person-biking.png",
+    "tags": [
+      "Person biking"
+    ]
+  },
+  {
+    "name": "Person Entering Booth",
+    "path": "person-entering-booth.png",
+    "tags": [
+      "Person Entering Booth"
+    ]
+  },
+  {
+    "name": "Person Breastfeeding",
+    "path": "person-breastfeeding.png",
+    "tags": [
+      "Person Breastfeeding"
+    ]
+  },
+  {
+    "name": "Person Burst",
+    "path": "person-burst.png",
+    "tags": [
+      "Person Burst"
+    ]
+  },
+  {
+    "name": "Person Cane",
+    "path": "person-cane.png",
+    "tags": [
+      "Person Cane"
+    ]
+  },
+  {
+    "name": "Person Chalkboard",
+    "path": "person-chalkboard.png",
+    "tags": [
+      "Person Chalkboard"
+    ]
+  },
+  {
+    "name": "Person Circle-check",
+    "path": "person-circle-check.png",
+    "tags": [
+      "Person Circle-check"
+    ]
+  },
+  {
+    "name": "Person Circle-exclamation",
+    "path": "person-circle-exclamation.png",
+    "tags": [
+      "Person Circle-exclamation"
+    ]
+  },
+  {
+    "name": "Person Circle-minus",
+    "path": "person-circle-minus.png",
+    "tags": [
+      "Person Circle-minus"
+    ]
+  },
+  {
+    "name": "Person Circle-plus",
+    "path": "person-circle-plus.png",
+    "tags": [
+      "Person Circle-plus"
+    ]
+  },
+  {
+    "name": "Person Circle-question",
+    "path": "person-circle-question.png",
+    "tags": [
+      "Person Circle-question"
+    ]
+  },
+  {
+    "name": "Person Circle-xmark",
+    "path": "person-circle-xmark.png",
+    "tags": [
+      "Person Circle-xmark"
+    ]
+  },
+  {
+    "name": "Person digging",
+    "path": "person-digging.png",
+    "tags": [
+      "Person digging"
+    ]
+  },
+  {
+    "name": "Person dots from line",
+    "path": "person-dots-from-line.png",
+    "tags": [
+      "Person dots from line"
+    ]
+  },
+  {
+    "name": "Person dress",
+    "path": "person-dress.png",
+    "tags": [
+      "Person dress"
+    ]
+  },
+  {
+    "name": "Person Dress BUrst",
+    "path": "person-dress-burst.png",
+    "tags": [
+      "Person Dress BUrst"
+    ]
+  },
+  {
+    "name": "Person Drowning",
+    "path": "person-drowning.png",
+    "tags": [
+      "Person Drowning"
+    ]
+  },
+  {
+    "name": "Person Falling",
+    "path": "person-falling.png",
+    "tags": [
+      "Person Falling"
+    ]
+  },
+  {
+    "name": "Person Falling Burst",
+    "path": "person-falling-burst.png",
+    "tags": [
+      "Person Falling Burst"
+    ]
+  },
+  {
+    "name": "Person Half-dress",
+    "path": "person-half-dress.png",
+    "tags": [
+      "Person Half-dress"
+    ]
+  },
+  {
+    "name": "Person Harassing",
+    "path": "person-harassing.png",
+    "tags": [
+      "Person Harassing"
+    ]
+  },
+  {
+    "name": "Person hiking",
+    "path": "person-hiking.png",
+    "tags": [
+      "Person hiking"
+    ]
+  },
+  {
+    "name": "Person Military-pointing",
+    "path": "person-military-pointing.png",
+    "tags": [
+      "Person Military-pointing"
+    ]
+  },
+  {
+    "name": "Person Military-rifle",
+    "path": "person-military-rifle.png",
+    "tags": [
+      "Person Military-rifle"
+    ]
+  },
+  {
+    "name": "Person Military-to-person",
+    "path": "person-military-to-person.png",
+    "tags": [
+      "Person Military-to-person"
+    ]
+  },
+  {
+    "name": "Person praying",
+    "path": "person-praying.png",
+    "tags": [
+      "Person praying"
+    ]
+  },
+  {
+    "name": "Person Pregnant",
+    "path": "person-pregnant.png",
+    "tags": [
+      "Person Pregnant"
+    ]
+  },
+  {
+    "name": "Person Rays",
+    "path": "person-rays.png",
+    "tags": [
+      "Person Rays"
+    ]
+  },
+  {
+    "name": "Person Rifle",
+    "path": "person-rifle.png",
+    "tags": [
+      "Person Rifle"
+    ]
+  },
+  {
+    "name": "Person running",
+    "path": "person-running.png",
+    "tags": [
+      "Person running"
+    ]
+  },
+  {
+    "name": "Person Shelter",
+    "path": "person-shelter.png",
+    "tags": [
+      "Person Shelter"
+    ]
+  },
+  {
+    "name": "Person skating",
+    "path": "person-skating.png",
+    "tags": [
+      "Person skating"
+    ]
+  },
+  {
+    "name": "Person skiing",
+    "path": "person-skiing.png",
+    "tags": [
+      "Person skiing"
+    ]
+  },
+  {
+    "name": "Person skiing nordic",
+    "path": "person-skiing-nordic.png",
+    "tags": [
+      "Person skiing nordic"
+    ]
+  },
+  {
+    "name": "Person snowboarding",
+    "path": "person-snowboarding.png",
+    "tags": [
+      "Person snowboarding"
+    ]
+  },
+  {
+    "name": "Person swimming",
+    "path": "person-swimming.png",
+    "tags": [
+      "Person swimming"
+    ]
+  },
+  {
+    "name": "Person Through-window",
+    "path": "person-through-window.png",
+    "tags": [
+      "Person Through-window"
+    ]
+  },
+  {
+    "name": "Person walking",
+    "path": "person-walking.png",
+    "tags": [
+      "Person walking"
+    ]
+  },
+  {
+    "name": "Person Walking-arrow-loop-left",
+    "path": "person-walking-arrow-loop-left.png",
+    "tags": [
+      "Person Walking-arrow-loop-left"
+    ]
+  },
+  {
+    "name": "Person Walking-arrow-right",
+    "path": "person-walking-arrow-right.png",
+    "tags": [
+      "Person Walking-arrow-right"
+    ]
+  },
+  {
+    "name": "Person Walking-dashed-line-arrow-right",
+    "path": "person-walking-dashed-line-arrow-right.png",
+    "tags": [
+      "Person Walking-dashed-line-arrow-right"
+    ]
+  },
+  {
+    "name": "Person Walking-luggage",
+    "path": "person-walking-luggage.png",
+    "tags": [
+      "Person Walking-luggage"
+    ]
+  },
+  {
+    "name": "Person walking with cane",
+    "path": "person-walking-with-cane.png",
+    "tags": [
+      "Person walking with cane"
+    ]
+  },
+  {
+    "name": "Peseta Sign",
+    "path": "peseta-sign.png",
+    "tags": [
+      "Peseta Sign"
+    ]
+  },
+  {
+    "name": "Peso Sign",
+    "path": "peso-sign.png",
+    "tags": [
+      "Peso Sign"
+    ]
+  },
+  {
+    "name": "Phone",
+    "path": "phone.png",
+    "tags": [
+      "Phone"
+    ]
+  },
+  {
+    "name": "Phone flip",
+    "path": "phone-flip.png",
+    "tags": [
+      "Phone flip"
+    ]
+  },
+  {
+    "name": "Phone Slash",
+    "path": "phone-slash.png",
+    "tags": [
+      "Phone Slash"
+    ]
+  },
+  {
+    "name": "Phone Volume",
+    "path": "phone-volume.png",
+    "tags": [
+      "Phone Volume"
+    ]
+  },
+  {
+    "name": "Photo film",
+    "path": "photo-film.png",
+    "tags": [
+      "Photo film"
+    ]
+  },
+  {
+    "name": "Piggy Bank",
+    "path": "piggy-bank.png",
+    "tags": [
+      "Piggy Bank"
+    ]
+  },
+  {
+    "name": "Pills",
+    "path": "pills.png",
+    "tags": [
+      "Pills"
+    ]
+  },
+  {
+    "name": "Pizza Slice",
+    "path": "pizza-slice.png",
+    "tags": [
+      "Pizza Slice"
+    ]
+  },
+  {
+    "name": "Place of Worship",
+    "path": "place-of-worship.png",
+    "tags": [
+      "Place of Worship"
+    ]
+  },
+  {
+    "name": "plane",
+    "path": "plane.png",
+    "tags": [
+      "plane"
+    ]
+  },
+  {
+    "name": "Plane Arrival",
+    "path": "plane-arrival.png",
+    "tags": [
+      "Plane Arrival"
+    ]
+  },
+  {
+    "name": "Plane Circle-check",
+    "path": "plane-circle-check.png",
+    "tags": [
+      "Plane Circle-check"
+    ]
+  },
+  {
+    "name": "Plane Circle-exclamation",
+    "path": "plane-circle-exclamation.png",
+    "tags": [
+      "Plane Circle-exclamation"
+    ]
+  },
+  {
+    "name": "Plane Circle-xmark",
+    "path": "plane-circle-xmark.png",
+    "tags": [
+      "Plane Circle-xmark"
+    ]
+  },
+  {
+    "name": "Plane Departure",
+    "path": "plane-departure.png",
+    "tags": [
+      "Plane Departure"
+    ]
+  },
+  {
+    "name": "Plane Lock",
+    "path": "plane-lock.png",
+    "tags": [
+      "Plane Lock"
+    ]
+  },
+  {
+    "name": "Plane Slash",
+    "path": "plane-slash.png",
+    "tags": [
+      "Plane Slash"
+    ]
+  },
+  {
+    "name": "Plane Up",
+    "path": "plane-up.png",
+    "tags": [
+      "Plane Up"
+    ]
+  },
+  {
+    "name": "Plant Wilt",
+    "path": "plant-wilt.png",
+    "tags": [
+      "Plant Wilt"
+    ]
+  },
+  {
+    "name": "Plate Wheat",
+    "path": "plate-wheat.png",
+    "tags": [
+      "Plate Wheat"
+    ]
+  },
+  {
+    "name": "play",
+    "path": "play.png",
+    "tags": [
+      "play"
+    ]
+  },
+  {
+    "name": "Plug",
+    "path": "plug.png",
+    "tags": [
+      "Plug"
+    ]
+  },
+  {
+    "name": "Plug Circle-bolt",
+    "path": "plug-circle-bolt.png",
+    "tags": [
+      "Plug Circle-bolt"
+    ]
+  },
+  {
+    "name": "Plug Circle-check",
+    "path": "plug-circle-check.png",
+    "tags": [
+      "Plug Circle-check"
+    ]
+  },
+  {
+    "name": "Plug Circle-exclamation",
+    "path": "plug-circle-exclamation.png",
+    "tags": [
+      "Plug Circle-exclamation"
+    ]
+  },
+  {
+    "name": "Plug Circle-minus",
+    "path": "plug-circle-minus.png",
+    "tags": [
+      "Plug Circle-minus"
+    ]
+  },
+  {
+    "name": "Plug Circle-plus",
+    "path": "plug-circle-plus.png",
+    "tags": [
+      "Plug Circle-plus"
+    ]
+  },
+  {
+    "name": "Plug Circle-xmark",
+    "path": "plug-circle-xmark.png",
+    "tags": [
+      "Plug Circle-xmark"
+    ]
+  },
+  {
+    "name": "plus",
+    "path": "plus.png",
+    "tags": [
+      "plus"
+    ]
+  },
+  {
+    "name": "Plus Minus",
+    "path": "plus-minus.png",
+    "tags": [
+      "Plus Minus"
+    ]
+  },
+  {
+    "name": "Podcast",
+    "path": "podcast.png",
+    "tags": [
+      "Podcast"
+    ]
+  },
+  {
+    "name": "Poo",
+    "path": "poo.png",
+    "tags": [
+      "Poo"
+    ]
+  },
+  {
+    "name": "Poo bolt",
+    "path": "poo-bolt.png",
+    "tags": [
+      "Poo bolt"
+    ]
+  },
+  {
+    "name": "Poop",
+    "path": "poop.png",
+    "tags": [
+      "Poop"
+    ]
+  },
+  {
+    "name": "Power Off",
+    "path": "power-off.png",
+    "tags": [
+      "Power Off"
+    ]
+  },
+  {
+    "name": "Prescription",
+    "path": "prescription.png",
+    "tags": [
+      "Prescription"
+    ]
+  },
+  {
+    "name": "Prescription Bottle",
+    "path": "prescription-bottle.png",
+    "tags": [
+      "Prescription Bottle"
+    ]
+  },
+  {
+    "name": "Prescription bottle medical",
+    "path": "prescription-bottle-medical.png",
+    "tags": [
+      "Prescription bottle medical"
+    ]
+  },
+  {
+    "name": "print",
+    "path": "print.png",
+    "tags": [
+      "print"
+    ]
+  },
+  {
+    "name": "Pump Medical",
+    "path": "pump-medical.png",
+    "tags": [
+      "Pump Medical"
+    ]
+  },
+  {
+    "name": "Pump Soap",
+    "path": "pump-soap.png",
+    "tags": [
+      "Pump Soap"
+    ]
+  },
+  {
+    "name": "Puzzle Piece",
+    "path": "puzzle-piece.png",
+    "tags": [
+      "Puzzle Piece"
+    ]
+  },
+  {
+    "name": "Q",
+    "path": "q.png",
+    "tags": [
+      "Q"
+    ]
+  },
+  {
+    "name": "qrcode",
+    "path": "qrcode.png",
+    "tags": [
+      "qrcode"
+    ]
+  },
+  {
+    "name": "Question",
+    "path": "question.png",
+    "tags": [
+      "Question"
+    ]
+  },
+  {
+    "name": "quote-left",
+    "path": "quote-left.png",
+    "tags": [
+      "quote-left"
+    ]
+  },
+  {
+    "name": "quote-right",
+    "path": "quote-right.png",
+    "tags": [
+      "quote-right"
+    ]
+  },
+  {
+    "name": "R",
+    "path": "r.png",
+    "tags": [
+      "R"
+    ]
+  },
+  {
+    "name": "Radiation",
+    "path": "radiation.png",
+    "tags": [
+      "Radiation"
+    ]
+  },
+  {
+    "name": "Radio",
+    "path": "radio.png",
+    "tags": [
+      "Radio"
+    ]
+  },
+  {
+    "name": "Rainbow",
+    "path": "rainbow.png",
+    "tags": [
+      "Rainbow"
+    ]
+  },
+  {
+    "name": "Ranking Star",
+    "path": "ranking-star.png",
+    "tags": [
+      "Ranking Star"
+    ]
+  },
+  {
+    "name": "Receipt",
+    "path": "receipt.png",
+    "tags": [
+      "Receipt"
+    ]
+  },
+  {
+    "name": "Record Vinyl",
+    "path": "record-vinyl.png",
+    "tags": [
+      "Record Vinyl"
+    ]
+  },
+  {
+    "name": "Rectangle ad",
+    "path": "rectangle-ad.png",
+    "tags": [
+      "Rectangle ad"
+    ]
+  },
+  {
+    "name": "Rectangle list",
+    "path": "rectangle-list.png",
+    "tags": [
+      "Rectangle list"
+    ]
+  },
+  {
+    "name": "Rectangle X Mark",
+    "path": "rectangle-x-mark.png",
+    "tags": [
+      "Rectangle X Mark"
+    ]
+  },
+  {
+    "name": "Recycle",
+    "path": "recycle.png",
+    "tags": [
+      "Recycle"
+    ]
+  },
+  {
+    "name": "Registered Trademark",
+    "path": "registered-trademark.png",
+    "tags": [
+      "Registered Trademark"
+    ]
+  },
+  {
+    "name": "Repeat",
+    "path": "repeat.png",
+    "tags": [
+      "Repeat"
+    ]
+  },
+  {
+    "name": "Reply",
+    "path": "reply.png",
+    "tags": [
+      "Reply"
+    ]
+  },
+  {
+    "name": "reply-all",
+    "path": "reply-all.png",
+    "tags": [
+      "reply-all"
+    ]
+  },
+  {
+    "name": "Republican",
+    "path": "republican.png",
+    "tags": [
+      "Republican"
+    ]
+  },
+  {
+    "name": "Restroom",
+    "path": "restroom.png",
+    "tags": [
+      "Restroom"
+    ]
+  },
+  {
+    "name": "Retweet",
+    "path": "retweet.png",
+    "tags": [
+      "Retweet"
+    ]
+  },
+  {
+    "name": "Ribbon",
+    "path": "ribbon.png",
+    "tags": [
+      "Ribbon"
+    ]
+  },
+  {
+    "name": "Right from bracket",
+    "path": "right-from-bracket.png",
+    "tags": [
+      "Right from bracket"
+    ]
+  },
+  {
+    "name": "Right left",
+    "path": "right-left.png",
+    "tags": [
+      "Right left"
+    ]
+  },
+  {
+    "name": "Right long",
+    "path": "right-long.png",
+    "tags": [
+      "Right long"
+    ]
+  },
+  {
+    "name": "Right to bracket",
+    "path": "right-to-bracket.png",
+    "tags": [
+      "Right to bracket"
+    ]
+  },
+  {
+    "name": "Ring",
+    "path": "ring.png",
+    "tags": [
+      "Ring"
+    ]
+  },
+  {
+    "name": "road",
+    "path": "road.png",
+    "tags": [
+      "road"
+    ]
+  },
+  {
+    "name": "Road Barrier",
+    "path": "road-barrier.png",
+    "tags": [
+      "Road Barrier"
+    ]
+  },
+  {
+    "name": "Road Bridge",
+    "path": "road-bridge.png",
+    "tags": [
+      "Road Bridge"
+    ]
+  },
+  {
+    "name": "Road Circle-check",
+    "path": "road-circle-check.png",
+    "tags": [
+      "Road Circle-check"
+    ]
+  },
+  {
+    "name": "Road Circle-exclamation",
+    "path": "road-circle-exclamation.png",
+    "tags": [
+      "Road Circle-exclamation"
+    ]
+  },
+  {
+    "name": "Road Circle-xmark",
+    "path": "road-circle-xmark.png",
+    "tags": [
+      "Road Circle-xmark"
+    ]
+  },
+  {
+    "name": "Road Lock",
+    "path": "road-lock.png",
+    "tags": [
+      "Road Lock"
+    ]
+  },
+  {
+    "name": "Road Spikes",
+    "path": "road-spikes.png",
+    "tags": [
+      "Road Spikes"
+    ]
+  },
+  {
+    "name": "Robot",
+    "path": "robot.png",
+    "tags": [
+      "Robot"
+    ]
+  },
+  {
+    "name": "rocket",
+    "path": "rocket.png",
+    "tags": [
+      "rocket"
+    ]
+  },
+  {
+    "name": "Rotate",
+    "path": "rotate.png",
+    "tags": [
+      "Rotate"
+    ]
+  },
+  {
+    "name": "Rotate Left",
+    "path": "rotate-left.png",
+    "tags": [
+      "Rotate Left"
+    ]
+  },
+  {
+    "name": "Rotate Right",
+    "path": "rotate-right.png",
+    "tags": [
+      "Rotate Right"
+    ]
+  },
+  {
+    "name": "Route",
+    "path": "route.png",
+    "tags": [
+      "Route"
+    ]
+  },
+  {
+    "name": "rss",
+    "path": "rss.png",
+    "tags": [
+      "rss"
+    ]
+  },
+  {
+    "name": "Ruble Sign",
+    "path": "ruble-sign.png",
+    "tags": [
+      "Ruble Sign"
+    ]
+  },
+  {
+    "name": "Rug",
+    "path": "rug.png",
+    "tags": [
+      "Rug"
+    ]
+  },
+  {
+    "name": "Ruler",
+    "path": "ruler.png",
+    "tags": [
+      "Ruler"
+    ]
+  },
+  {
+    "name": "Ruler Combined",
+    "path": "ruler-combined.png",
+    "tags": [
+      "Ruler Combined"
+    ]
+  },
+  {
+    "name": "Ruler Horizontal",
+    "path": "ruler-horizontal.png",
+    "tags": [
+      "Ruler Horizontal"
+    ]
+  },
+  {
+    "name": "Ruler Vertical",
+    "path": "ruler-vertical.png",
+    "tags": [
+      "Ruler Vertical"
+    ]
+  },
+  {
+    "name": "Indian Rupee Sign",
+    "path": "indian-rupee-sign.png",
+    "tags": [
+      "Indian Rupee Sign"
+    ]
+  },
+  {
+    "name": "Rupiah Sign",
+    "path": "rupiah-sign.png",
+    "tags": [
+      "Rupiah Sign"
+    ]
+  },
+  {
+    "name": "S",
+    "path": "s.png",
+    "tags": [
+      "S"
+    ]
+  },
+  {
+    "name": "Sack of Money",
+    "path": "sack-of-money.png",
+    "tags": [
+      "Sack of Money"
+    ]
+  },
+  {
+    "name": "Sack Xmark",
+    "path": "sack-xmark.png",
+    "tags": [
+      "Sack Xmark"
+    ]
+  },
+  {
+    "name": "Sailboat",
+    "path": "sailboat.png",
+    "tags": [
+      "Sailboat"
+    ]
+  },
+  {
+    "name": "Satellite",
+    "path": "satellite.png",
+    "tags": [
+      "Satellite"
+    ]
+  },
+  {
+    "name": "Satellite Dish",
+    "path": "satellite-dish.png",
+    "tags": [
+      "Satellite Dish"
+    ]
+  },
+  {
+    "name": "Scale balanced",
+    "path": "scale-balanced.png",
+    "tags": [
+      "Scale balanced"
+    ]
+  },
+  {
+    "name": "Scale unbalanced",
+    "path": "scale-unbalanced.png",
+    "tags": [
+      "Scale unbalanced"
+    ]
+  },
+  {
+    "name": "Scale unbalanced flip",
+    "path": "scale-unbalanced-flip.png",
+    "tags": [
+      "Scale unbalanced flip"
+    ]
+  },
+  {
+    "name": "School",
+    "path": "school.png",
+    "tags": [
+      "School"
+    ]
+  },
+  {
+    "name": "School Circle-check",
+    "path": "school-circle-check.png",
+    "tags": [
+      "School Circle-check"
+    ]
+  },
+  {
+    "name": "School Circle-exclamation",
+    "path": "school-circle-exclamation.png",
+    "tags": [
+      "School Circle-exclamation"
+    ]
+  },
+  {
+    "name": "School Circle-xmark",
+    "path": "school-circle-xmark.png",
+    "tags": [
+      "School Circle-xmark"
+    ]
+  },
+  {
+    "name": "School Flag",
+    "path": "school-flag.png",
+    "tags": [
+      "School Flag"
+    ]
+  },
+  {
+    "name": "School Lock",
+    "path": "school-lock.png",
+    "tags": [
+      "School Lock"
+    ]
+  },
+  {
+    "name": "Scissors",
+    "path": "scissors.png",
+    "tags": [
+      "Scissors"
+    ]
+  },
+  {
+    "name": "Screwdriver",
+    "path": "screwdriver.png",
+    "tags": [
+      "Screwdriver"
+    ]
+  },
+  {
+    "name": "Screwdriver wrench",
+    "path": "screwdriver-wrench.png",
+    "tags": [
+      "Screwdriver wrench"
+    ]
+  },
+  {
+    "name": "Scroll",
+    "path": "scroll.png",
+    "tags": [
+      "Scroll"
+    ]
+  },
+  {
+    "name": "Scroll torah",
+    "path": "scroll-torah.png",
+    "tags": [
+      "Scroll torah"
+    ]
+  },
+  {
+    "name": "Sd Card",
+    "path": "sd-card.png",
+    "tags": [
+      "Sd Card"
+    ]
+  },
+  {
+    "name": "Section",
+    "path": "section.png",
+    "tags": [
+      "Section"
+    ]
+  },
+  {
+    "name": "Seedling",
+    "path": "seedling.png",
+    "tags": [
+      "Seedling"
+    ]
+  },
+  {
+    "name": "Server",
+    "path": "server.png",
+    "tags": [
+      "Server"
+    ]
+  },
+  {
+    "name": "Shapes",
+    "path": "shapes.png",
+    "tags": [
+      "Shapes"
+    ]
+  },
+  {
+    "name": "Share",
+    "path": "share.png",
+    "tags": [
+      "Share"
+    ]
+  },
+  {
+    "name": "Share from square",
+    "path": "share-from-square.png",
+    "tags": [
+      "Share from square"
+    ]
+  },
+  {
+    "name": "Share nodes",
+    "path": "share-nodes.png",
+    "tags": [
+      "Share nodes"
+    ]
+  },
+  {
+    "name": "Sheet Plastic",
+    "path": "sheet-plastic.png",
+    "tags": [
+      "Sheet Plastic"
+    ]
+  },
+  {
+    "name": "Shekel Sign",
+    "path": "shekel-sign.png",
+    "tags": [
+      "Shekel Sign"
+    ]
+  },
+  {
+    "name": "shield",
+    "path": "shield.png",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "name": "Shield Cat",
+    "path": "shield-cat.png",
+    "tags": [
+      "Shield Cat"
+    ]
+  },
+  {
+    "name": "Shield Dog",
+    "path": "shield-dog.png",
+    "tags": [
+      "Shield Dog"
+    ]
+  },
+  {
+    "name": "Shield Halved",
+    "path": "shield-halved.png",
+    "tags": [
+      "Shield Halved"
+    ]
+  },
+  {
+    "name": "Shield Heart",
+    "path": "shield-heart.png",
+    "tags": [
+      "Shield Heart"
+    ]
+  },
+  {
+    "name": "Shield Virus",
+    "path": "shield-virus.png",
+    "tags": [
+      "Shield Virus"
+    ]
+  },
+  {
+    "name": "Ship",
+    "path": "ship.png",
+    "tags": [
+      "Ship"
+    ]
+  },
+  {
+    "name": "T-Shirt",
+    "path": "t-shirt.png",
+    "tags": [
+      "T-Shirt"
+    ]
+  },
+  {
+    "name": "Shoe Prints",
+    "path": "shoe-prints.png",
+    "tags": [
+      "Shoe Prints"
+    ]
+  },
+  {
+    "name": "Shop",
+    "path": "shop.png",
+    "tags": [
+      "Shop"
+    ]
+  },
+  {
+    "name": "Shop Lock",
+    "path": "shop-lock.png",
+    "tags": [
+      "Shop Lock"
+    ]
+  },
+  {
+    "name": "Shop slash",
+    "path": "shop-slash.png",
+    "tags": [
+      "Shop slash"
+    ]
+  },
+  {
+    "name": "Shower",
+    "path": "shower.png",
+    "tags": [
+      "Shower"
+    ]
+  },
+  {
+    "name": "Shrimp",
+    "path": "shrimp.png",
+    "tags": [
+      "Shrimp"
+    ]
+  },
+  {
+    "name": "Shuffle",
+    "path": "shuffle.png",
+    "tags": [
+      "Shuffle"
+    ]
+  },
+  {
+    "name": "Shuttle space",
+    "path": "shuttle-space.png",
+    "tags": [
+      "Shuttle space"
+    ]
+  },
+  {
+    "name": "Sign hanging",
+    "path": "sign-hanging.png",
+    "tags": [
+      "Sign hanging"
+    ]
+  },
+  {
+    "name": "signal",
+    "path": "signal.png",
+    "tags": [
+      "signal"
+    ]
+  },
+  {
+    "name": "Signature",
+    "path": "signature.png",
+    "tags": [
+      "Signature"
+    ]
+  },
+  {
+    "name": "Signs post",
+    "path": "signs-post.png",
+    "tags": [
+      "Signs post"
+    ]
+  },
+  {
+    "name": "SIM Card",
+    "path": "sim-card.png",
+    "tags": [
+      "SIM Card"
+    ]
+  },
+  {
+    "name": "Sink",
+    "path": "sink.png",
+    "tags": [
+      "Sink"
+    ]
+  },
+  {
+    "name": "Sitemap",
+    "path": "sitemap.png",
+    "tags": [
+      "Sitemap"
+    ]
+  },
+  {
+    "name": "Skull",
+    "path": "skull.png",
+    "tags": [
+      "Skull"
+    ]
+  },
+  {
+    "name": "Skull & Crossbones",
+    "path": "skull-crossbones.png",
+    "tags": [
+      "Skull & Crossbones"
+    ]
+  },
+  {
+    "name": "Slash",
+    "path": "slash.png",
+    "tags": [
+      "Slash"
+    ]
+  },
+  {
+    "name": "Sleigh",
+    "path": "sleigh.png",
+    "tags": [
+      "Sleigh"
+    ]
+  },
+  {
+    "name": "Sliders",
+    "path": "sliders.png",
+    "tags": [
+      "Sliders"
+    ]
+  },
+  {
+    "name": "Smog",
+    "path": "smog.png",
+    "tags": [
+      "Smog"
+    ]
+  },
+  {
+    "name": "Smoking",
+    "path": "smoking.png",
+    "tags": [
+      "Smoking"
+    ]
+  },
+  {
+    "name": "Snowflake",
+    "path": "snowflake.png",
+    "tags": [
+      "Snowflake"
+    ]
+  },
+  {
+    "name": "Snowman",
+    "path": "snowman.png",
+    "tags": [
+      "Snowman"
+    ]
+  },
+  {
+    "name": "Snowplow",
+    "path": "snowplow.png",
+    "tags": [
+      "Snowplow"
+    ]
+  },
+  {
+    "name": "Soap",
+    "path": "soap.png",
+    "tags": [
+      "Soap"
+    ]
+  },
+  {
+    "name": "Socks",
+    "path": "socks.png",
+    "tags": [
+      "Socks"
+    ]
+  },
+  {
+    "name": "Solar Panel",
+    "path": "solar-panel.png",
+    "tags": [
+      "Solar Panel"
+    ]
+  },
+  {
+    "name": "Sort",
+    "path": "sort.png",
+    "tags": [
+      "Sort"
+    ]
+  },
+  {
+    "name": "Sort Down (Descending)",
+    "path": "sort-down-descending.png",
+    "tags": [
+      "Sort Down (Descending)"
+    ]
+  },
+  {
+    "name": "Sort Up (Ascending)",
+    "path": "sort-up-ascending.png",
+    "tags": [
+      "Sort Up (Ascending)"
+    ]
+  },
+  {
+    "name": "Spa",
+    "path": "spa.png",
+    "tags": [
+      "Spa"
+    ]
+  },
+  {
+    "name": "Spaghetti monster flying",
+    "path": "spaghetti-monster-flying.png",
+    "tags": [
+      "Spaghetti monster flying"
+    ]
+  },
+  {
+    "name": "Spell Check",
+    "path": "spell-check.png",
+    "tags": [
+      "Spell Check"
+    ]
+  },
+  {
+    "name": "Spider",
+    "path": "spider.png",
+    "tags": [
+      "Spider"
+    ]
+  },
+  {
+    "name": "Spinner",
+    "path": "spinner.png",
+    "tags": [
+      "Spinner"
+    ]
+  },
+  {
+    "name": "Splotch",
+    "path": "splotch.png",
+    "tags": [
+      "Splotch"
+    ]
+  },
+  {
+    "name": "Spoon",
+    "path": "spoon.png",
+    "tags": [
+      "Spoon"
+    ]
+  },
+  {
+    "name": "Spray Can",
+    "path": "spray-can.png",
+    "tags": [
+      "Spray Can"
+    ]
+  },
+  {
+    "name": "Spray Can Sparkles",
+    "path": "spray-can-sparkles.png",
+    "tags": [
+      "Spray Can Sparkles"
+    ]
+  },
+  {
+    "name": "Square",
+    "path": "square.png",
+    "tags": [
+      "Square"
+    ]
+  },
+  {
+    "name": "Square arrow up right",
+    "path": "square-arrow-up-right.png",
+    "tags": [
+      "Square arrow up right"
+    ]
+  },
+  {
+    "name": "Square caret down",
+    "path": "square-caret-down.png",
+    "tags": [
+      "Square caret down"
+    ]
+  },
+  {
+    "name": "Square caret left",
+    "path": "square-caret-left.png",
+    "tags": [
+      "Square caret left"
+    ]
+  },
+  {
+    "name": "Square caret right",
+    "path": "square-caret-right.png",
+    "tags": [
+      "Square caret right"
+    ]
+  },
+  {
+    "name": "Square caret up",
+    "path": "square-caret-up.png",
+    "tags": [
+      "Square caret up"
+    ]
+  },
+  {
+    "name": "Square check",
+    "path": "square-check.png",
+    "tags": [
+      "Square check"
+    ]
+  },
+  {
+    "name": "Square envelope",
+    "path": "square-envelope.png",
+    "tags": [
+      "Square envelope"
+    ]
+  },
+  {
+    "name": "Square Full",
+    "path": "square-full.png",
+    "tags": [
+      "Square Full"
+    ]
+  },
+  {
+    "name": "Square h",
+    "path": "square-h.png",
+    "tags": [
+      "Square h"
+    ]
+  },
+  {
+    "name": "Square minus",
+    "path": "square-minus.png",
+    "tags": [
+      "Square minus"
+    ]
+  },
+  {
+    "name": "Square Nfi",
+    "path": "square-nfi.png",
+    "tags": [
+      "Square Nfi"
+    ]
+  },
+  {
+    "name": "Square parking",
+    "path": "square-parking.png",
+    "tags": [
+      "Square parking"
+    ]
+  },
+  {
+    "name": "Square pen",
+    "path": "square-pen.png",
+    "tags": [
+      "Square pen"
+    ]
+  },
+  {
+    "name": "Square Person-confined",
+    "path": "square-person-confined.png",
+    "tags": [
+      "Square Person-confined"
+    ]
+  },
+  {
+    "name": "Square phone",
+    "path": "square-phone.png",
+    "tags": [
+      "Square phone"
+    ]
+  },
+  {
+    "name": "Square phone flip",
+    "path": "square-phone-flip.png",
+    "tags": [
+      "Square phone flip"
+    ]
+  },
+  {
+    "name": "Square plus",
+    "path": "square-plus.png",
+    "tags": [
+      "Square plus"
+    ]
+  },
+  {
+    "name": "Square poll horizontal",
+    "path": "square-poll-horizontal.png",
+    "tags": [
+      "Square poll horizontal"
+    ]
+  },
+  {
+    "name": "Square poll vertical",
+    "path": "square-poll-vertical.png",
+    "tags": [
+      "Square poll vertical"
+    ]
+  },
+  {
+    "name": "Square root variable",
+    "path": "square-root-variable.png",
+    "tags": [
+      "Square root variable"
+    ]
+  },
+  {
+    "name": "Square rss",
+    "path": "square-rss.png",
+    "tags": [
+      "Square rss"
+    ]
+  },
+  {
+    "name": "Square share nodes",
+    "path": "square-share-nodes.png",
+    "tags": [
+      "Square share nodes"
+    ]
+  },
+  {
+    "name": "Square up right",
+    "path": "square-up-right.png",
+    "tags": [
+      "Square up right"
+    ]
+  },
+  {
+    "name": "Square Virus",
+    "path": "square-virus.png",
+    "tags": [
+      "Square Virus"
+    ]
+  },
+  {
+    "name": "Square X Mark",
+    "path": "square-x-mark.png",
+    "tags": [
+      "Square X Mark"
+    ]
+  },
+  {
+    "name": "Staff Aesculapius",
+    "path": "staff-aesculapius.png",
+    "tags": [
+      "Staff Aesculapius"
+    ]
+  },
+  {
+    "name": "Stairs",
+    "path": "stairs.png",
+    "tags": [
+      "Stairs"
+    ]
+  },
+  {
+    "name": "Stamp",
+    "path": "stamp.png",
+    "tags": [
+      "Stamp"
+    ]
+  },
+  {
+    "name": "Stapler",
+    "path": "stapler.png",
+    "tags": [
+      "Stapler"
+    ]
+  },
+  {
+    "name": "Star",
+    "path": "star.png",
+    "tags": [
+      "Star"
+    ]
+  },
+  {
+    "name": "Star and Crescent",
+    "path": "star-and-crescent.png",
+    "tags": [
+      "Star and Crescent"
+    ]
+  },
+  {
+    "name": "star-half",
+    "path": "star-half.png",
+    "tags": [
+      "star-half"
+    ]
+  },
+  {
+    "name": "Star half stroke",
+    "path": "star-half-stroke.png",
+    "tags": [
+      "Star half stroke"
+    ]
+  },
+  {
+    "name": "Star of David",
+    "path": "star-of-david.png",
+    "tags": [
+      "Star of David"
+    ]
+  },
+  {
+    "name": "Star of Life",
+    "path": "star-of-life.png",
+    "tags": [
+      "Star of Life"
+    ]
+  },
+  {
+    "name": "Sterling sign",
+    "path": "sterling-sign.png",
+    "tags": [
+      "Sterling sign"
+    ]
+  },
+  {
+    "name": "Stethoscope",
+    "path": "stethoscope.png",
+    "tags": [
+      "Stethoscope"
+    ]
+  },
+  {
+    "name": "stop",
+    "path": "stop.png",
+    "tags": [
+      "stop"
+    ]
+  },
+  {
+    "name": "Stopwatch",
+    "path": "stopwatch.png",
+    "tags": [
+      "Stopwatch"
+    ]
+  },
+  {
+    "name": "Stopwatch 20",
+    "path": "stopwatch-20.png",
+    "tags": [
+      "Stopwatch 20"
+    ]
+  },
+  {
+    "name": "Store",
+    "path": "store.png",
+    "tags": [
+      "Store"
+    ]
+  },
+  {
+    "name": "Store Slash",
+    "path": "store-slash.png",
+    "tags": [
+      "Store Slash"
+    ]
+  },
+  {
+    "name": "Street View",
+    "path": "street-view.png",
+    "tags": [
+      "Street View"
+    ]
+  },
+  {
+    "name": "Strikethrough",
+    "path": "strikethrough.png",
+    "tags": [
+      "Strikethrough"
+    ]
+  },
+  {
+    "name": "Stroopwafel",
+    "path": "stroopwafel.png",
+    "tags": [
+      "Stroopwafel"
+    ]
+  },
+  {
+    "name": "subscript",
+    "path": "subscript.png",
+    "tags": [
+      "subscript"
+    ]
+  },
+  {
+    "name": "Suitcase",
+    "path": "suitcase.png",
+    "tags": [
+      "Suitcase"
+    ]
+  },
+  {
+    "name": "Suitcase medical",
+    "path": "suitcase-medical.png",
+    "tags": [
+      "Suitcase medical"
+    ]
+  },
+  {
+    "name": "Suitcase Rolling",
+    "path": "suitcase-rolling.png",
+    "tags": [
+      "Suitcase Rolling"
+    ]
+  },
+  {
+    "name": "Sun",
+    "path": "sun.png",
+    "tags": [
+      "Sun"
+    ]
+  },
+  {
+    "name": "Sun Plant-wilt",
+    "path": "sun-plant-wilt.png",
+    "tags": [
+      "Sun Plant-wilt"
+    ]
+  },
+  {
+    "name": "superscript",
+    "path": "superscript.png",
+    "tags": [
+      "superscript"
+    ]
+  },
+  {
+    "name": "Swatchbook",
+    "path": "swatchbook.png",
+    "tags": [
+      "Swatchbook"
+    ]
+  },
+  {
+    "name": "Synagogue",
+    "path": "synagogue.png",
+    "tags": [
+      "Synagogue"
+    ]
+  },
+  {
+    "name": "Syringe",
+    "path": "syringe.png",
+    "tags": [
+      "Syringe"
+    ]
+  },
+  {
+    "name": "T",
+    "path": "t.png",
+    "tags": [
+      "T"
+    ]
+  },
+  {
+    "name": "table",
+    "path": "table.png",
+    "tags": [
+      "table"
+    ]
+  },
+  {
+    "name": "Table cells",
+    "path": "table-cells.png",
+    "tags": [
+      "Table cells"
+    ]
+  },
+  {
+    "name": "Table cells large",
+    "path": "table-cells-large.png",
+    "tags": [
+      "Table cells large"
+    ]
+  },
+  {
+    "name": "Table columns",
+    "path": "table-columns.png",
+    "tags": [
+      "Table columns"
+    ]
+  },
+  {
+    "name": "Table list",
+    "path": "table-list.png",
+    "tags": [
+      "Table list"
+    ]
+  },
+  {
+    "name": "Table tennis paddle ball",
+    "path": "table-tennis-paddle-ball.png",
+    "tags": [
+      "Table tennis paddle ball"
+    ]
+  },
+  {
+    "name": "Tablet",
+    "path": "tablet.png",
+    "tags": [
+      "Tablet"
+    ]
+  },
+  {
+    "name": "Tablet button",
+    "path": "tablet-button.png",
+    "tags": [
+      "Tablet button"
+    ]
+  },
+  {
+    "name": "Tablet screen button",
+    "path": "tablet-screen-button.png",
+    "tags": [
+      "Tablet screen button"
+    ]
+  },
+  {
+    "name": "Tablets",
+    "path": "tablets.png",
+    "tags": [
+      "Tablets"
+    ]
+  },
+  {
+    "name": "Tachograph digital",
+    "path": "tachograph-digital.png",
+    "tags": [
+      "Tachograph digital"
+    ]
+  },
+  {
+    "name": "tag",
+    "path": "tag.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tags",
+    "path": "tags.png",
+    "tags": [
+      "tags"
+    ]
+  },
+  {
+    "name": "Tape",
+    "path": "tape.png",
+    "tags": [
+      "Tape"
+    ]
+  },
+  {
+    "name": "Tarp",
+    "path": "tarp.png",
+    "tags": [
+      "Tarp"
+    ]
+  },
+  {
+    "name": "Tarp Droplet",
+    "path": "tarp-droplet.png",
+    "tags": [
+      "Tarp Droplet"
+    ]
+  },
+  {
+    "name": "Taxi",
+    "path": "taxi.png",
+    "tags": [
+      "Taxi"
+    ]
+  },
+  {
+    "name": "Teeth",
+    "path": "teeth.png",
+    "tags": [
+      "Teeth"
+    ]
+  },
+  {
+    "name": "Teeth Open",
+    "path": "teeth-open.png",
+    "tags": [
+      "Teeth Open"
+    ]
+  },
+  {
+    "name": "Temperature arrow down",
+    "path": "temperature-arrow-down.png",
+    "tags": [
+      "Temperature arrow down"
+    ]
+  },
+  {
+    "name": "Temperature arrow up",
+    "path": "temperature-arrow-up.png",
+    "tags": [
+      "Temperature arrow up"
+    ]
+  },
+  {
+    "name": "Temperature empty",
+    "path": "temperature-empty.png",
+    "tags": [
+      "Temperature empty"
+    ]
+  },
+  {
+    "name": "Temperature full",
+    "path": "temperature-full.png",
+    "tags": [
+      "Temperature full"
+    ]
+  },
+  {
+    "name": "Temperature half",
+    "path": "temperature-half.png",
+    "tags": [
+      "Temperature half"
+    ]
+  },
+  {
+    "name": "High Temperature",
+    "path": "high-temperature.png",
+    "tags": [
+      "High Temperature"
+    ]
+  },
+  {
+    "name": "Low Temperature",
+    "path": "low-temperature.png",
+    "tags": [
+      "Low Temperature"
+    ]
+  },
+  {
+    "name": "Temperature quarter",
+    "path": "temperature-quarter.png",
+    "tags": [
+      "Temperature quarter"
+    ]
+  },
+  {
+    "name": "Temperature three quarters",
+    "path": "temperature-three-quarters.png",
+    "tags": [
+      "Temperature three quarters"
+    ]
+  },
+  {
+    "name": "Tenge sign",
+    "path": "tenge-sign.png",
+    "tags": [
+      "Tenge sign"
+    ]
+  },
+  {
+    "name": "Tent",
+    "path": "tent.png",
+    "tags": [
+      "Tent"
+    ]
+  },
+  {
+    "name": "Tent Arrow-down-to-line",
+    "path": "tent-arrow-down-to-line.png",
+    "tags": [
+      "Tent Arrow-down-to-line"
+    ]
+  },
+  {
+    "name": "Tent Arrow-left-right",
+    "path": "tent-arrow-left-right.png",
+    "tags": [
+      "Tent Arrow-left-right"
+    ]
+  },
+  {
+    "name": "Tent Arrow-turn-left",
+    "path": "tent-arrow-turn-left.png",
+    "tags": [
+      "Tent Arrow-turn-left"
+    ]
+  },
+  {
+    "name": "Tent Arrows-down",
+    "path": "tent-arrows-down.png",
+    "tags": [
+      "Tent Arrows-down"
+    ]
+  },
+  {
+    "name": "Tents",
+    "path": "tents.png",
+    "tags": [
+      "Tents"
+    ]
+  },
+  {
+    "name": "Terminal",
+    "path": "terminal.png",
+    "tags": [
+      "Terminal"
+    ]
+  },
+  {
+    "name": "text-height",
+    "path": "text-height.png",
+    "tags": [
+      "text-height"
+    ]
+  },
+  {
+    "name": "Text slash",
+    "path": "text-slash.png",
+    "tags": [
+      "Text slash"
+    ]
+  },
+  {
+    "name": "Text Width",
+    "path": "text-width.png",
+    "tags": [
+      "Text Width"
+    ]
+  },
+  {
+    "name": "Thermometer",
+    "path": "thermometer.png",
+    "tags": [
+      "Thermometer"
+    ]
+  },
+  {
+    "name": "thumbs-down",
+    "path": "thumbs-down.png",
+    "tags": [
+      "thumbs-down"
+    ]
+  },
+  {
+    "name": "thumbs-up",
+    "path": "thumbs-up.png",
+    "tags": [
+      "thumbs-up"
+    ]
+  },
+  {
+    "name": "Thumbtack",
+    "path": "thumbtack.png",
+    "tags": [
+      "Thumbtack"
+    ]
+  },
+  {
+    "name": "Ticket",
+    "path": "ticket.png",
+    "tags": [
+      "Ticket"
+    ]
+  },
+  {
+    "name": "Ticket simple",
+    "path": "ticket-simple.png",
+    "tags": [
+      "Ticket simple"
+    ]
+  },
+  {
+    "name": "Timeline",
+    "path": "timeline.png",
+    "tags": [
+      "Timeline"
+    ]
+  },
+  {
+    "name": "Toggle Off",
+    "path": "toggle-off.png",
+    "tags": [
+      "Toggle Off"
+    ]
+  },
+  {
+    "name": "Toggle On",
+    "path": "toggle-on.png",
+    "tags": [
+      "Toggle On"
+    ]
+  },
+  {
+    "name": "Toilet",
+    "path": "toilet.png",
+    "tags": [
+      "Toilet"
+    ]
+  },
+  {
+    "name": "Toilet Paper",
+    "path": "toilet-paper.png",
+    "tags": [
+      "Toilet Paper"
+    ]
+  },
+  {
+    "name": "Toilet Paper Slash",
+    "path": "toilet-paper-slash.png",
+    "tags": [
+      "Toilet Paper Slash"
+    ]
+  },
+  {
+    "name": "Toilet Portable",
+    "path": "toilet-portable.png",
+    "tags": [
+      "Toilet Portable"
+    ]
+  },
+  {
+    "name": "Toilets Portable",
+    "path": "toilets-portable.png",
+    "tags": [
+      "Toilets Portable"
+    ]
+  },
+  {
+    "name": "Toolbox",
+    "path": "toolbox.png",
+    "tags": [
+      "Toolbox"
+    ]
+  },
+  {
+    "name": "Tooth",
+    "path": "tooth.png",
+    "tags": [
+      "Tooth"
+    ]
+  },
+  {
+    "name": "Torii Gate",
+    "path": "torii-gate.png",
+    "tags": [
+      "Torii Gate"
+    ]
+  },
+  {
+    "name": "Tornado",
+    "path": "tornado.png",
+    "tags": [
+      "Tornado"
+    ]
+  },
+  {
+    "name": "Tower broadcast",
+    "path": "tower-broadcast.png",
+    "tags": [
+      "Tower broadcast"
+    ]
+  },
+  {
+    "name": "Tower Cell",
+    "path": "tower-cell.png",
+    "tags": [
+      "Tower Cell"
+    ]
+  },
+  {
+    "name": "Tower Observation",
+    "path": "tower-observation.png",
+    "tags": [
+      "Tower Observation"
+    ]
+  },
+  {
+    "name": "Tractor",
+    "path": "tractor.png",
+    "tags": [
+      "Tractor"
+    ]
+  },
+  {
+    "name": "Trademark",
+    "path": "trademark.png",
+    "tags": [
+      "Trademark"
+    ]
+  },
+  {
+    "name": "Traffic Light",
+    "path": "traffic-light.png",
+    "tags": [
+      "Traffic Light"
+    ]
+  },
+  {
+    "name": "Trailer",
+    "path": "trailer.png",
+    "tags": [
+      "Trailer"
+    ]
+  },
+  {
+    "name": "Train",
+    "path": "train.png",
+    "tags": [
+      "Train"
+    ]
+  },
+  {
+    "name": "Train subway",
+    "path": "train-subway.png",
+    "tags": [
+      "Train subway"
+    ]
+  },
+  {
+    "name": "Train tram",
+    "path": "train-tram.png",
+    "tags": [
+      "Train tram"
+    ]
+  },
+  {
+    "name": "Transgender",
+    "path": "transgender.png",
+    "tags": [
+      "Transgender"
+    ]
+  },
+  {
+    "name": "Trash",
+    "path": "trash.png",
+    "tags": [
+      "Trash"
+    ]
+  },
+  {
+    "name": "Trash arrow up",
+    "path": "trash-arrow-up.png",
+    "tags": [
+      "Trash arrow up"
+    ]
+  },
+  {
+    "name": "Trash can",
+    "path": "trash-can.png",
+    "tags": [
+      "Trash can"
+    ]
+  },
+  {
+    "name": "Trash can arrow up",
+    "path": "trash-can-arrow-up.png",
+    "tags": [
+      "Trash can arrow up"
+    ]
+  },
+  {
+    "name": "Tree",
+    "path": "tree.png",
+    "tags": [
+      "Tree"
+    ]
+  },
+  {
+    "name": "Tree City",
+    "path": "tree-city.png",
+    "tags": [
+      "Tree City"
+    ]
+  },
+  {
+    "name": "Triangle exclamation",
+    "path": "triangle-exclamation.png",
+    "tags": [
+      "Triangle exclamation"
+    ]
+  },
+  {
+    "name": "trophy",
+    "path": "trophy.png",
+    "tags": [
+      "trophy"
+    ]
+  },
+  {
+    "name": "Trowel",
+    "path": "trowel.png",
+    "tags": [
+      "Trowel"
+    ]
+  },
+  {
+    "name": "Trowel Bricks",
+    "path": "trowel-bricks.png",
+    "tags": [
+      "Trowel Bricks"
+    ]
+  },
+  {
+    "name": "truck",
+    "path": "truck.png",
+    "tags": [
+      "truck"
+    ]
+  },
+  {
+    "name": "Truck Arrow-right",
+    "path": "truck-arrow-right.png",
+    "tags": [
+      "Truck Arrow-right"
+    ]
+  },
+  {
+    "name": "Truck Droplet",
+    "path": "truck-droplet.png",
+    "tags": [
+      "Truck Droplet"
+    ]
+  },
+  {
+    "name": "Truck fast",
+    "path": "truck-fast.png",
+    "tags": [
+      "Truck fast"
+    ]
+  },
+  {
+    "name": "Truck Field",
+    "path": "truck-field.png",
+    "tags": [
+      "Truck Field"
+    ]
+  },
+  {
+    "name": "Truck Field-un",
+    "path": "truck-field-un.png",
+    "tags": [
+      "Truck Field-un"
+    ]
+  },
+  {
+    "name": "Truck Front",
+    "path": "truck-front.png",
+    "tags": [
+      "Truck Front"
+    ]
+  },
+  {
+    "name": "Truck medical",
+    "path": "truck-medical.png",
+    "tags": [
+      "Truck medical"
+    ]
+  },
+  {
+    "name": "Truck Monster",
+    "path": "truck-monster.png",
+    "tags": [
+      "Truck Monster"
+    ]
+  },
+  {
+    "name": "Truck Moving",
+    "path": "truck-moving.png",
+    "tags": [
+      "Truck Moving"
+    ]
+  },
+  {
+    "name": "Truck Side",
+    "path": "truck-side.png",
+    "tags": [
+      "Truck Side"
+    ]
+  },
+  {
+    "name": "Truck Plane",
+    "path": "truck-plane.png",
+    "tags": [
+      "Truck Plane"
+    ]
+  },
+  {
+    "name": "Truck ramp box",
+    "path": "truck-ramp-box.png",
+    "tags": [
+      "Truck ramp box"
+    ]
+  },
+  {
+    "name": "TTY",
+    "path": "tty.png",
+    "tags": [
+      "TTY"
+    ]
+  },
+  {
+    "name": "Turkish Lira-sign",
+    "path": "turkish-lira-sign.png",
+    "tags": [
+      "Turkish Lira-sign"
+    ]
+  },
+  {
+    "name": "Turn down",
+    "path": "turn-down.png",
+    "tags": [
+      "Turn down"
+    ]
+  },
+  {
+    "name": "Turn up",
+    "path": "turn-up.png",
+    "tags": [
+      "Turn up"
+    ]
+  },
+  {
+    "name": "Television",
+    "path": "television.png",
+    "tags": [
+      "Television"
+    ]
+  },
+  {
+    "name": "U",
+    "path": "u.png",
+    "tags": [
+      "U"
+    ]
+  },
+  {
+    "name": "Umbrella",
+    "path": "umbrella.png",
+    "tags": [
+      "Umbrella"
+    ]
+  },
+  {
+    "name": "Umbrella Beach",
+    "path": "umbrella-beach.png",
+    "tags": [
+      "Umbrella Beach"
+    ]
+  },
+  {
+    "name": "Underline",
+    "path": "underline.png",
+    "tags": [
+      "Underline"
+    ]
+  },
+  {
+    "name": "Universal Access",
+    "path": "universal-access.png",
+    "tags": [
+      "Universal Access"
+    ]
+  },
+  {
+    "name": "unlock",
+    "path": "unlock.png",
+    "tags": [
+      "unlock"
+    ]
+  },
+  {
+    "name": "Unlock keyhole",
+    "path": "unlock-keyhole.png",
+    "tags": [
+      "Unlock keyhole"
+    ]
+  },
+  {
+    "name": "Up down",
+    "path": "up-down.png",
+    "tags": [
+      "Up down"
+    ]
+  },
+  {
+    "name": "Up down left right",
+    "path": "up-down-left-right.png",
+    "tags": [
+      "Up down left right"
+    ]
+  },
+  {
+    "name": "Up long",
+    "path": "up-long.png",
+    "tags": [
+      "Up long"
+    ]
+  },
+  {
+    "name": "Up right and down left from center",
+    "path": "up-right-and-down-left-from-center.png",
+    "tags": [
+      "Up right and down left from center"
+    ]
+  },
+  {
+    "name": "Up right from square",
+    "path": "up-right-from-square.png",
+    "tags": [
+      "Up right from square"
+    ]
+  },
+  {
+    "name": "Upload",
+    "path": "upload.png",
+    "tags": [
+      "Upload"
+    ]
+  },
+  {
+    "name": "User",
+    "path": "user.png",
+    "tags": [
+      "User"
+    ]
+  },
+  {
+    "name": "User Astronaut",
+    "path": "user-astronaut.png",
+    "tags": [
+      "User Astronaut"
+    ]
+  },
+  {
+    "name": "User Check",
+    "path": "user-check.png",
+    "tags": [
+      "User Check"
+    ]
+  },
+  {
+    "name": "User Clock",
+    "path": "user-clock.png",
+    "tags": [
+      "User Clock"
+    ]
+  },
+  {
+    "name": "User doctor",
+    "path": "user-doctor.png",
+    "tags": [
+      "User doctor"
+    ]
+  },
+  {
+    "name": "User gear",
+    "path": "user-gear.png",
+    "tags": [
+      "User gear"
+    ]
+  },
+  {
+    "name": "User Graduate",
+    "path": "user-graduate.png",
+    "tags": [
+      "User Graduate"
+    ]
+  },
+  {
+    "name": "User group",
+    "path": "user-group.png",
+    "tags": [
+      "User group"
+    ]
+  },
+  {
+    "name": "User Injured",
+    "path": "user-injured.png",
+    "tags": [
+      "User Injured"
+    ]
+  },
+  {
+    "name": "User large",
+    "path": "user-large.png",
+    "tags": [
+      "User large"
+    ]
+  },
+  {
+    "name": "User large slash",
+    "path": "user-large-slash.png",
+    "tags": [
+      "User large slash"
+    ]
+  },
+  {
+    "name": "User Lock",
+    "path": "user-lock.png",
+    "tags": [
+      "User Lock"
+    ]
+  },
+  {
+    "name": "User Minus",
+    "path": "user-minus.png",
+    "tags": [
+      "User Minus"
+    ]
+  },
+  {
+    "name": "User Ninja",
+    "path": "user-ninja.png",
+    "tags": [
+      "User Ninja"
+    ]
+  },
+  {
+    "name": "Nurse",
+    "path": "nurse.png",
+    "tags": [
+      "Nurse"
+    ]
+  },
+  {
+    "name": "User pen",
+    "path": "user-pen.png",
+    "tags": [
+      "User pen"
+    ]
+  },
+  {
+    "name": "User Plus",
+    "path": "user-plus.png",
+    "tags": [
+      "User Plus"
+    ]
+  },
+  {
+    "name": "User Secret",
+    "path": "user-secret.png",
+    "tags": [
+      "User Secret"
+    ]
+  },
+  {
+    "name": "User Shield",
+    "path": "user-shield.png",
+    "tags": [
+      "User Shield"
+    ]
+  },
+  {
+    "name": "User Slash",
+    "path": "user-slash.png",
+    "tags": [
+      "User Slash"
+    ]
+  },
+  {
+    "name": "User Tag",
+    "path": "user-tag.png",
+    "tags": [
+      "User Tag"
+    ]
+  },
+  {
+    "name": "User Tie",
+    "path": "user-tie.png",
+    "tags": [
+      "User Tie"
+    ]
+  },
+  {
+    "name": "User X Mark",
+    "path": "user-x-mark.png",
+    "tags": [
+      "User X Mark"
+    ]
+  },
+  {
+    "name": "Users",
+    "path": "users.png",
+    "tags": [
+      "Users"
+    ]
+  },
+  {
+    "name": "Users Between-lines",
+    "path": "users-between-lines.png",
+    "tags": [
+      "Users Between-lines"
+    ]
+  },
+  {
+    "name": "Users gear",
+    "path": "users-gear.png",
+    "tags": [
+      "Users gear"
+    ]
+  },
+  {
+    "name": "Users Line",
+    "path": "users-line.png",
+    "tags": [
+      "Users Line"
+    ]
+  },
+  {
+    "name": "Users Rays",
+    "path": "users-rays.png",
+    "tags": [
+      "Users Rays"
+    ]
+  },
+  {
+    "name": "Users Rectangle",
+    "path": "users-rectangle.png",
+    "tags": [
+      "Users Rectangle"
+    ]
+  },
+  {
+    "name": "Users Slash",
+    "path": "users-slash.png",
+    "tags": [
+      "Users Slash"
+    ]
+  },
+  {
+    "name": "Users Viewfinder",
+    "path": "users-viewfinder.png",
+    "tags": [
+      "Users Viewfinder"
+    ]
+  },
+  {
+    "name": "Utensils",
+    "path": "utensils.png",
+    "tags": [
+      "Utensils"
+    ]
+  },
+  {
+    "name": "V",
+    "path": "v.png",
+    "tags": [
+      "V"
+    ]
+  },
+  {
+    "name": "Van shuttle",
+    "path": "van-shuttle.png",
+    "tags": [
+      "Van shuttle"
+    ]
+  },
+  {
+    "name": "Vault",
+    "path": "vault.png",
+    "tags": [
+      "Vault"
+    ]
+  },
+  {
+    "name": "Vector Square",
+    "path": "vector-square.png",
+    "tags": [
+      "Vector Square"
+    ]
+  },
+  {
+    "name": "Venus",
+    "path": "venus.png",
+    "tags": [
+      "Venus"
+    ]
+  },
+  {
+    "name": "Venus Double",
+    "path": "venus-double.png",
+    "tags": [
+      "Venus Double"
+    ]
+  },
+  {
+    "name": "Venus Mars",
+    "path": "venus-mars.png",
+    "tags": [
+      "Venus Mars"
+    ]
+  },
+  {
+    "name": "vest",
+    "path": "vest.png",
+    "tags": [
+      "vest"
+    ]
+  },
+  {
+    "name": "vest-patches",
+    "path": "vest-patches.png",
+    "tags": [
+      "vest-patches"
+    ]
+  },
+  {
+    "name": "Vial",
+    "path": "vial.png",
+    "tags": [
+      "Vial"
+    ]
+  },
+  {
+    "name": "Vial Circle-check",
+    "path": "vial-circle-check.png",
+    "tags": [
+      "Vial Circle-check"
+    ]
+  },
+  {
+    "name": "Vial Virus",
+    "path": "vial-virus.png",
+    "tags": [
+      "Vial Virus"
+    ]
+  },
+  {
+    "name": "Vials",
+    "path": "vials.png",
+    "tags": [
+      "Vials"
+    ]
+  },
+  {
+    "name": "Video",
+    "path": "video.png",
+    "tags": [
+      "Video"
+    ]
+  },
+  {
+    "name": "Video Slash",
+    "path": "video-slash.png",
+    "tags": [
+      "Video Slash"
+    ]
+  },
+  {
+    "name": "Vihara",
+    "path": "vihara.png",
+    "tags": [
+      "Vihara"
+    ]
+  },
+  {
+    "name": "Virus",
+    "path": "virus.png",
+    "tags": [
+      "Virus"
+    ]
+  },
+  {
+    "name": "Virus Covid",
+    "path": "virus-covid.png",
+    "tags": [
+      "Virus Covid"
+    ]
+  },
+  {
+    "name": "Virus Covid-slash",
+    "path": "virus-covid-slash.png",
+    "tags": [
+      "Virus Covid-slash"
+    ]
+  },
+  {
+    "name": "Virus Slash",
+    "path": "virus-slash.png",
+    "tags": [
+      "Virus Slash"
+    ]
+  },
+  {
+    "name": "Viruses",
+    "path": "viruses.png",
+    "tags": [
+      "Viruses"
+    ]
+  },
+  {
+    "name": "Voicemail",
+    "path": "voicemail.png",
+    "tags": [
+      "Voicemail"
+    ]
+  },
+  {
+    "name": "Volcano",
+    "path": "volcano.png",
+    "tags": [
+      "Volcano"
+    ]
+  },
+  {
+    "name": "Volleyball Ball",
+    "path": "volleyball-ball.png",
+    "tags": [
+      "Volleyball Ball"
+    ]
+  },
+  {
+    "name": "Volume high",
+    "path": "volume-high.png",
+    "tags": [
+      "Volume high"
+    ]
+  },
+  {
+    "name": "Volume low",
+    "path": "volume-low.png",
+    "tags": [
+      "Volume low"
+    ]
+  },
+  {
+    "name": "Volume Off",
+    "path": "volume-off.png",
+    "tags": [
+      "Volume Off"
+    ]
+  },
+  {
+    "name": "Volume X Mark",
+    "path": "volume-x-mark.png",
+    "tags": [
+      "Volume X Mark"
+    ]
+  },
+  {
+    "name": "Cardboard VR",
+    "path": "cardboard-vr.png",
+    "tags": [
+      "Cardboard VR"
+    ]
+  },
+  {
+    "name": "W",
+    "path": "w.png",
+    "tags": [
+      "W"
+    ]
+  },
+  {
+    "name": "Walkie Talkie",
+    "path": "walkie-talkie.png",
+    "tags": [
+      "Walkie Talkie"
+    ]
+  },
+  {
+    "name": "Wallet",
+    "path": "wallet.png",
+    "tags": [
+      "Wallet"
+    ]
+  },
+  {
+    "name": "Wand magic",
+    "path": "wand-magic.png",
+    "tags": [
+      "Wand magic"
+    ]
+  },
+  {
+    "name": "Wand magic sparkles",
+    "path": "wand-magic-sparkles.png",
+    "tags": [
+      "Wand magic sparkles"
+    ]
+  },
+  {
+    "name": "Wand sparkles",
+    "path": "wand-sparkles.png",
+    "tags": [
+      "Wand sparkles"
+    ]
+  },
+  {
+    "name": "Warehouse",
+    "path": "warehouse.png",
+    "tags": [
+      "Warehouse"
+    ]
+  },
+  {
+    "name": "Water",
+    "path": "water.png",
+    "tags": [
+      "Water"
+    ]
+  },
+  {
+    "name": "Water ladder",
+    "path": "water-ladder.png",
+    "tags": [
+      "Water ladder"
+    ]
+  },
+  {
+    "name": "Square Wave",
+    "path": "square-wave.png",
+    "tags": [
+      "Square Wave"
+    ]
+  },
+  {
+    "name": "Hanging Weight",
+    "path": "hanging-weight.png",
+    "tags": [
+      "Hanging Weight"
+    ]
+  },
+  {
+    "name": "Weight scale",
+    "path": "weight-scale.png",
+    "tags": [
+      "Weight scale"
+    ]
+  },
+  {
+    "name": "Wheat awn",
+    "path": "wheat-awn.png",
+    "tags": [
+      "Wheat awn"
+    ]
+  },
+  {
+    "name": "Wheat Awn-circle-exclamation",
+    "path": "wheat-awn-circle-exclamation.png",
+    "tags": [
+      "Wheat Awn-circle-exclamation"
+    ]
+  },
+  {
+    "name": "Wheelchair",
+    "path": "wheelchair.png",
+    "tags": [
+      "Wheelchair"
+    ]
+  },
+  {
+    "name": "Wheelchair Move",
+    "path": "wheelchair-move.png",
+    "tags": [
+      "Wheelchair Move"
+    ]
+  },
+  {
+    "name": "Whiskey glass",
+    "path": "whiskey-glass.png",
+    "tags": [
+      "Whiskey glass"
+    ]
+  },
+  {
+    "name": "WiFi",
+    "path": "wifi.png",
+    "tags": [
+      "WiFi"
+    ]
+  },
+  {
+    "name": "Wind",
+    "path": "wind.png",
+    "tags": [
+      "Wind"
+    ]
+  },
+  {
+    "name": "Window Maximize",
+    "path": "window-maximize.png",
+    "tags": [
+      "Window Maximize"
+    ]
+  },
+  {
+    "name": "Window Minimize",
+    "path": "window-minimize.png",
+    "tags": [
+      "Window Minimize"
+    ]
+  },
+  {
+    "name": "Window Restore",
+    "path": "window-restore.png",
+    "tags": [
+      "Window Restore"
+    ]
+  },
+  {
+    "name": "Wine Bottle",
+    "path": "wine-bottle.png",
+    "tags": [
+      "Wine Bottle"
+    ]
+  },
+  {
+    "name": "Wine Glass",
+    "path": "wine-glass.png",
+    "tags": [
+      "Wine Glass"
+    ]
+  },
+  {
+    "name": "Wine glass empty",
+    "path": "wine-glass-empty.png",
+    "tags": [
+      "Wine glass empty"
+    ]
+  },
+  {
+    "name": "Won Sign",
+    "path": "won-sign.png",
+    "tags": [
+      "Won Sign"
+    ]
+  },
+  {
+    "name": "Worm",
+    "path": "worm.png",
+    "tags": [
+      "Worm"
+    ]
+  },
+  {
+    "name": "Wrench",
+    "path": "wrench.png",
+    "tags": [
+      "Wrench"
+    ]
+  },
+  {
+    "name": "X",
+    "path": "x.png",
+    "tags": [
+      "X"
+    ]
+  },
+  {
+    "name": "X-Ray",
+    "path": "x-ray.png",
+    "tags": [
+      "X-Ray"
+    ]
+  },
+  {
+    "name": "X Mark",
+    "path": "x-mark.png",
+    "tags": [
+      "X Mark"
+    ]
+  },
+  {
+    "name": "Xmarks Lines",
+    "path": "xmarks-lines.png",
+    "tags": [
+      "Xmarks Lines"
+    ]
+  },
+  {
+    "name": "Y",
+    "path": "y.png",
+    "tags": [
+      "Y"
+    ]
+  },
+  {
+    "name": "Yen Sign",
+    "path": "yen-sign.png",
+    "tags": [
+      "Yen Sign"
+    ]
+  },
+  {
+    "name": "Yin Yang",
+    "path": "yin-yang.png",
+    "tags": [
+      "Yin Yang"
+    ]
+  },
+  {
+    "name": "Z",
+    "path": "z.png",
+    "tags": [
+      "Z"
+    ]
+  }
+]

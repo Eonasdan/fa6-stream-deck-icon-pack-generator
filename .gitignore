@@ -1,3 +1,9 @@
+icons
+Release
+DistributionTool*
+
+.idea
+
 # Logs
 logs
 *.log
