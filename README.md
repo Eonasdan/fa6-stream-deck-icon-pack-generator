@@ -1,0 +1,1 @@
+# fa6-stream-deck-icon-pack-generator
