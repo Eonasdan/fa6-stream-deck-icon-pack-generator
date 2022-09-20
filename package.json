@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "solid": "npm run copy && node index.js",
-    "brands": "npm run copy && node index.js -s brands",
-    "copy": "node copy-common.js",
-    "release": "npm run release:solid && npm run release:brands",
-    "release:solid": "npm run solid && DistributionTool -b -i com.fortawsome.solid.free.sdIconPack -o Release",
-    "release:brands": "npm run brands && DistributionTool -b -i com.fortawsome.brands.free.sdIconPack -o Release"
+    "build:sollid": "node index.js",
+    "release:solid": "node index.js -r",
+    "build:brands": "node index.js -s brands",
+    "release:brands": "node index.js -r -s brands",
+    "build:regular": "node index.js -s regular",
+    "release:regular": "node index.js -r -s regular"
   },
   "keywords": [
     "font",
@@ -22,6 +22,7 @@
   "license": "MIT",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^6.2.0",
+    "@types/yargs": "^17.0.12",
     "canvas": "^2.9.3",
     "js-yaml": "^4.1.0",
     "yargs": "^17.5.1"
