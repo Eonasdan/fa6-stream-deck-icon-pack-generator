@@ -1,6 +1,8 @@
 icons
 Release
 DistributionTool*
+pro/*.ttf
+pro/*.yml
 
 .idea
 

@@ -1,0 +1,1584 @@
+[
+  {
+    "name": "Address Book",
+    "path": "address-book.png",
+    "tags": [
+      "address-book",
+      "address book",
+      "Business",
+      "Communication",
+      "Users + People"
+    ]
+  },
+  {
+    "name": "Address Card",
+    "path": "address-card.png",
+    "tags": [
+      "address-card",
+      "address card",
+      "Business",
+      "Communication",
+      "Users + People"
+    ]
+  },
+  {
+    "name": "bell",
+    "path": "bell.png",
+    "tags": [
+      "bell",
+      "bell",
+      "Alert",
+      "Education",
+      "Household",
+      "Maps",
+      "Shopping",
+      "Social",
+      "Time"
+    ]
+  },
+  {
+    "name": "Bell Slash",
+    "path": "bell-slash.png",
+    "tags": [
+      "bell-slash",
+      "bell slash",
+      "Alert",
+      "Education",
+      "Maps",
+      "Time"
+    ]
+  },
+  {
+    "name": "bookmark",
+    "path": "bookmark.png",
+    "tags": [
+      "bookmark",
+      "bookmark",
+      "Maps",
+      "Shapes",
+      "Shopping",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Building",
+    "path": "building.png",
+    "tags": [
+      "building",
+      "building",
+      "Buildings",
+      "Business",
+      "Humanitarian",
+      "Maps"
+    ]
+  },
+  {
+    "name": "Calendar",
+    "path": "calendar.png",
+    "tags": [
+      "calendar",
+      "calendar",
+      "Business",
+      "Shapes",
+      "Time"
+    ]
+  },
+  {
+    "name": "Calendar Check",
+    "path": "calendar-check.png",
+    "tags": [
+      "calendar-check",
+      "calendar check",
+      "Time"
+    ]
+  },
+  {
+    "name": "Calendar Days",
+    "path": "calendar-days.png",
+    "tags": [
+      "calendar-days",
+      "calendar days",
+      "Business",
+      "Time"
+    ]
+  },
+  {
+    "name": "Calendar Minus",
+    "path": "calendar-minus.png",
+    "tags": [
+      "calendar-minus",
+      "calendar minus",
+      "Time"
+    ]
+  },
+  {
+    "name": "Calendar Plus",
+    "path": "calendar-plus.png",
+    "tags": [
+      "calendar-plus",
+      "calendar plus",
+      "Time"
+    ]
+  },
+  {
+    "name": "Calendar X Mark",
+    "path": "calendar-x-mark.png",
+    "tags": [
+      "calendar-x-mark",
+      "calendar x mark"
+    ]
+  },
+  {
+    "name": "Bar Chart",
+    "path": "bar-chart.png",
+    "tags": [
+      "bar-chart",
+      "bar chart"
+    ]
+  },
+  {
+    "name": "Chess Bishop",
+    "path": "chess-bishop.png",
+    "tags": [
+      "chess-bishop",
+      "chess bishop",
+      "Gaming"
+    ]
+  },
+  {
+    "name": "Chess King",
+    "path": "chess-king.png",
+    "tags": [
+      "chess-king",
+      "chess king",
+      "Gaming"
+    ]
+  },
+  {
+    "name": "Chess Knight",
+    "path": "chess-knight.png",
+    "tags": [
+      "chess-knight",
+      "chess knight",
+      "Gaming"
+    ]
+  },
+  {
+    "name": "Chess Pawn",
+    "path": "chess-pawn.png",
+    "tags": [
+      "chess-pawn",
+      "chess pawn",
+      "Gaming"
+    ]
+  },
+  {
+    "name": "Chess Queen",
+    "path": "chess-queen.png",
+    "tags": [
+      "chess-queen",
+      "chess queen",
+      "Gaming"
+    ]
+  },
+  {
+    "name": "Chess Rook",
+    "path": "chess-rook.png",
+    "tags": [
+      "chess-rook",
+      "chess rook",
+      "Gaming"
+    ]
+  },
+  {
+    "name": "Circle",
+    "path": "circle.png",
+    "tags": [
+      "circle",
+      "circle",
+      "Film + Video",
+      "Shapes",
+      "Toggle"
+    ]
+  },
+  {
+    "name": "Circle check",
+    "path": "circle-check.png",
+    "tags": [
+      "circle-check",
+      "circle check",
+      "Editing",
+      "Text Formatting",
+      "Toggle"
+    ]
+  },
+  {
+    "name": "Circle dot",
+    "path": "circle-dot.png",
+    "tags": [
+      "circle-dot",
+      "circle dot",
+      "Toggle"
+    ]
+  },
+  {
+    "name": "Circle down",
+    "path": "circle-down.png",
+    "tags": [
+      "circle-down",
+      "circle down",
+      "Arrows"
+    ]
+  },
+  {
+    "name": "Circle left",
+    "path": "circle-left.png",
+    "tags": [
+      "circle-left",
+      "circle left",
+      "Arrows"
+    ]
+  },
+  {
+    "name": "Circle pause",
+    "path": "circle-pause.png",
+    "tags": [
+      "circle-pause",
+      "circle pause",
+      "Media Playback"
+    ]
+  },
+  {
+    "name": "Circle play",
+    "path": "circle-play.png",
+    "tags": [
+      "circle-play",
+      "circle play",
+      "Media Playback"
+    ]
+  },
+  {
+    "name": "Circle question",
+    "path": "circle-question.png",
+    "tags": [
+      "circle-question",
+      "circle question",
+      "Accessibility",
+      "Punctuation + Symbols"
+    ]
+  },
+  {
+    "name": "Circle right",
+    "path": "circle-right.png",
+    "tags": [
+      "circle-right",
+      "circle right",
+      "Arrows"
+    ]
+  },
+  {
+    "name": "Circle stop",
+    "path": "circle-stop.png",
+    "tags": [
+      "circle-stop",
+      "circle stop",
+      "Media Playback"
+    ]
+  },
+  {
+    "name": "Circle up",
+    "path": "circle-up.png",
+    "tags": [
+      "circle-up",
+      "circle up",
+      "Arrows"
+    ]
+  },
+  {
+    "name": "Circle user",
+    "path": "circle-user.png",
+    "tags": [
+      "circle-user",
+      "circle user",
+      "Social",
+      "Users + People"
+    ]
+  },
+  {
+    "name": "Circle X Mark",
+    "path": "circle-x-mark.png",
+    "tags": [
+      "circle-x-mark",
+      "circle x mark"
+    ]
+  },
+  {
+    "name": "Clipboard",
+    "path": "clipboard.png",
+    "tags": [
+      "clipboard",
+      "clipboard",
+      "Business"
+    ]
+  },
+  {
+    "name": "Clock",
+    "path": "clock.png",
+    "tags": [
+      "clock",
+      "clock",
+      "Time"
+    ]
+  },
+  {
+    "name": "Clone",
+    "path": "clone.png",
+    "tags": [
+      "clone",
+      "clone",
+      "Design",
+      "Files",
+      "Photos + Images"
+    ]
+  },
+  {
+    "name": "Closed Captioning",
+    "path": "closed-captioning.png",
+    "tags": [
+      "closed-captioning",
+      "closed captioning",
+      "Accessibility",
+      "Film + Video"
+    ]
+  },
+  {
+    "name": "comment",
+    "path": "comment.png",
+    "tags": [
+      "comment",
+      "comment",
+      "Communication",
+      "Shapes",
+      "Social"
+    ]
+  },
+  {
+    "name": "Comment Dots",
+    "path": "comment-dots.png",
+    "tags": [
+      "comment-dots",
+      "comment dots",
+      "Communication"
+    ]
+  },
+  {
+    "name": "comments",
+    "path": "comments.png",
+    "tags": [
+      "comments",
+      "comments",
+      "Communication"
+    ]
+  },
+  {
+    "name": "Compass",
+    "path": "compass.png",
+    "tags": [
+      "compass",
+      "compass",
+      "Business",
+      "Camping",
+      "Spinners"
+    ]
+  },
+  {
+    "name": "Copy",
+    "path": "copy.png",
+    "tags": [
+      "copy",
+      "copy",
+      "Business",
+      "Design",
+      "Files"
+    ]
+  },
+  {
+    "name": "Copyright",
+    "path": "copyright.png",
+    "tags": [
+      "copyright",
+      "copyright",
+      "Business"
+    ]
+  },
+  {
+    "name": "Credit Card",
+    "path": "credit-card.png",
+    "tags": [
+      "credit-card",
+      "credit card",
+      "Money",
+      "Shopping"
+    ]
+  },
+  {
+    "name": "Envelope",
+    "path": "envelope.png",
+    "tags": [
+      "envelope",
+      "envelope",
+      "Business",
+      "Communication",
+      "Humanitarian",
+      "Social",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Envelope Open",
+    "path": "envelope-open.png",
+    "tags": [
+      "envelope-open",
+      "envelope open",
+      "Business",
+      "Communication",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Eye",
+    "path": "eye.png",
+    "tags": [
+      "eye",
+      "eye",
+      "Accessibility",
+      "Design",
+      "Maps",
+      "Medical + Health",
+      "Photos + Images",
+      "Security"
+    ]
+  },
+  {
+    "name": "Eye Slash",
+    "path": "eye-slash.png",
+    "tags": [
+      "eye-slash",
+      "eye slash",
+      "Design",
+      "Editing",
+      "Maps",
+      "Photos + Images",
+      "Security"
+    ]
+  },
+  {
+    "name": "Face angry",
+    "path": "face-angry.png",
+    "tags": [
+      "face-angry",
+      "face angry",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face dizzy",
+    "path": "face-dizzy.png",
+    "tags": [
+      "face-dizzy",
+      "face dizzy",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face flushed",
+    "path": "face-flushed.png",
+    "tags": [
+      "face-flushed",
+      "face flushed",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face frown",
+    "path": "face-frown.png",
+    "tags": [
+      "face-frown",
+      "face frown",
+      "Communication",
+      "Emoji",
+      "Users + People"
+    ]
+  },
+  {
+    "name": "Face frown open",
+    "path": "face-frown-open.png",
+    "tags": [
+      "face-frown-open",
+      "face frown open",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grimace",
+    "path": "face-grimace.png",
+    "tags": [
+      "face-grimace",
+      "face grimace",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin",
+    "path": "face-grin.png",
+    "tags": [
+      "face-grin",
+      "face grin",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin beam",
+    "path": "face-grin-beam.png",
+    "tags": [
+      "face-grin-beam",
+      "face grin beam",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin beam sweat",
+    "path": "face-grin-beam-sweat.png",
+    "tags": [
+      "face-grin-beam-sweat",
+      "face grin beam sweat",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin hearts",
+    "path": "face-grin-hearts.png",
+    "tags": [
+      "face-grin-hearts",
+      "face grin hearts",
+      "Emoji",
+      "Holidays"
+    ]
+  },
+  {
+    "name": "Face grin squint",
+    "path": "face-grin-squint.png",
+    "tags": [
+      "face-grin-squint",
+      "face grin squint",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin squint tears",
+    "path": "face-grin-squint-tears.png",
+    "tags": [
+      "face-grin-squint-tears",
+      "face grin squint tears",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin stars",
+    "path": "face-grin-stars.png",
+    "tags": [
+      "face-grin-stars",
+      "face grin stars",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin tears",
+    "path": "face-grin-tears.png",
+    "tags": [
+      "face-grin-tears",
+      "face grin tears",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin tongue",
+    "path": "face-grin-tongue.png",
+    "tags": [
+      "face-grin-tongue",
+      "face grin tongue",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin tongue squint",
+    "path": "face-grin-tongue-squint.png",
+    "tags": [
+      "face-grin-tongue-squint",
+      "face grin tongue squint",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin tongue wink",
+    "path": "face-grin-tongue-wink.png",
+    "tags": [
+      "face-grin-tongue-wink",
+      "face grin tongue wink",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin wide",
+    "path": "face-grin-wide.png",
+    "tags": [
+      "face-grin-wide",
+      "face grin wide",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face grin wink",
+    "path": "face-grin-wink.png",
+    "tags": [
+      "face-grin-wink",
+      "face grin wink",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face kiss",
+    "path": "face-kiss.png",
+    "tags": [
+      "face-kiss",
+      "face kiss",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Kiss Beam",
+    "path": "face-kiss-beam.png",
+    "tags": [
+      "face-kiss-beam",
+      "face kiss beam",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Kiss Wink Heart",
+    "path": "face-kiss-wink-heart.png",
+    "tags": [
+      "face-kiss-wink-heart",
+      "face kiss wink heart",
+      "Emoji",
+      "Holidays"
+    ]
+  },
+  {
+    "name": "Face Laugh",
+    "path": "face-laugh.png",
+    "tags": [
+      "face-laugh",
+      "face laugh",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Laugh Beam",
+    "path": "face-laugh-beam.png",
+    "tags": [
+      "face-laugh-beam",
+      "face laugh beam",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Laugh Squint",
+    "path": "face-laugh-squint.png",
+    "tags": [
+      "face-laugh-squint",
+      "face laugh squint",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Laugh Wink",
+    "path": "face-laugh-wink.png",
+    "tags": [
+      "face-laugh-wink",
+      "face laugh wink",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face meh",
+    "path": "face-meh.png",
+    "tags": [
+      "face-meh",
+      "face meh",
+      "Communication",
+      "Emoji",
+      "Users + People"
+    ]
+  },
+  {
+    "name": "Face Meh Blank",
+    "path": "face-meh-blank.png",
+    "tags": [
+      "face-meh-blank",
+      "face meh blank",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Rolling Eyes",
+    "path": "face-rolling-eyes.png",
+    "tags": [
+      "face-rolling-eyes",
+      "face rolling eyes",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Sad Cry",
+    "path": "face-sad-cry.png",
+    "tags": [
+      "face-sad-cry",
+      "face sad cry",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Sad Tear",
+    "path": "face-sad-tear.png",
+    "tags": [
+      "face-sad-tear",
+      "face sad tear",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Smile",
+    "path": "face-smile.png",
+    "tags": [
+      "face-smile",
+      "face smile",
+      "Communication",
+      "Emoji",
+      "Users + People"
+    ]
+  },
+  {
+    "name": "Face Smile Beam",
+    "path": "face-smile-beam.png",
+    "tags": [
+      "face-smile-beam",
+      "face smile beam",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Smile Wink",
+    "path": "face-smile-wink.png",
+    "tags": [
+      "face-smile-wink",
+      "face smile wink",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Surprise",
+    "path": "face-surprise.png",
+    "tags": [
+      "face-surprise",
+      "face surprise",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "Face Tired",
+    "path": "face-tired.png",
+    "tags": [
+      "face-tired",
+      "face tired",
+      "Emoji"
+    ]
+  },
+  {
+    "name": "File",
+    "path": "file.png",
+    "tags": [
+      "file",
+      "file",
+      "Business",
+      "Coding",
+      "Files",
+      "Humanitarian",
+      "Shapes",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Audio File",
+    "path": "audio-file.png",
+    "tags": [
+      "audio-file",
+      "audio file"
+    ]
+  },
+  {
+    "name": "Code File",
+    "path": "code-file.png",
+    "tags": [
+      "code-file",
+      "code file"
+    ]
+  },
+  {
+    "name": "Excel File",
+    "path": "excel-file.png",
+    "tags": [
+      "excel-file",
+      "excel file"
+    ]
+  },
+  {
+    "name": "Image File",
+    "path": "image-file.png",
+    "tags": [
+      "image-file",
+      "image file"
+    ]
+  },
+  {
+    "name": "File lines",
+    "path": "file-lines.png",
+    "tags": [
+      "file-lines",
+      "file lines",
+      "Business",
+      "Coding",
+      "Files",
+      "Writing"
+    ]
+  },
+  {
+    "name": "PDF File",
+    "path": "pdf-file.png",
+    "tags": [
+      "pdf-file",
+      "pdf file"
+    ]
+  },
+  {
+    "name": "Powerpoint File",
+    "path": "powerpoint-file.png",
+    "tags": [
+      "powerpoint-file",
+      "powerpoint file"
+    ]
+  },
+  {
+    "name": "Video File",
+    "path": "video-file.png",
+    "tags": [
+      "video-file",
+      "video file"
+    ]
+  },
+  {
+    "name": "Word File",
+    "path": "word-file.png",
+    "tags": [
+      "word-file",
+      "word file"
+    ]
+  },
+  {
+    "name": "File zipper",
+    "path": "file-zipper.png",
+    "tags": [
+      "file-zipper",
+      "file zipper",
+      "Files"
+    ]
+  },
+  {
+    "name": "flag",
+    "path": "flag.png",
+    "tags": [
+      "flag",
+      "flag",
+      "Humanitarian",
+      "Maps"
+    ]
+  },
+  {
+    "name": "Floppy Disk",
+    "path": "floppy-disk.png",
+    "tags": [
+      "floppy-disk",
+      "floppy disk",
+      "Business",
+      "Design",
+      "Devices + Hardware",
+      "Files"
+    ]
+  },
+  {
+    "name": "Folder",
+    "path": "folder.png",
+    "tags": [
+      "folder",
+      "folder",
+      "Business",
+      "Coding",
+      "Files",
+      "Shapes",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Folder Closed",
+    "path": "folder-closed.png",
+    "tags": [
+      "folder-closed",
+      "folder closed",
+      "Files"
+    ]
+  },
+  {
+    "name": "Folder Open",
+    "path": "folder-open.png",
+    "tags": [
+      "folder-open",
+      "folder open",
+      "Business",
+      "Coding",
+      "Files",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Font Awesome",
+    "path": "font-awesome.png",
+    "tags": [
+      "font-awesome",
+      "font awesome",
+      "Coding",
+      "Design"
+    ]
+  },
+  {
+    "name": "Futbol ball",
+    "path": "futbol-ball.png",
+    "tags": [
+      "futbol-ball",
+      "futbol ball"
+    ]
+  },
+  {
+    "name": "Gem",
+    "path": "gem.png",
+    "tags": [
+      "gem",
+      "gem",
+      "Shopping"
+    ]
+  },
+  {
+    "name": "Paper (Hand)",
+    "path": "paper-hand.png",
+    "tags": [
+      "paper-hand",
+      "paper hand"
+    ]
+  },
+  {
+    "name": "Rock (Hand)",
+    "path": "rock-hand.png",
+    "tags": [
+      "rock-hand",
+      "rock hand"
+    ]
+  },
+  {
+    "name": "Lizard (Hand)",
+    "path": "lizard-hand.png",
+    "tags": [
+      "lizard-hand",
+      "lizard hand"
+    ]
+  },
+  {
+    "name": "Peace (Hand)",
+    "path": "peace-hand.png",
+    "tags": [
+      "peace-hand",
+      "peace hand"
+    ]
+  },
+  {
+    "name": "Hand Pointing Down",
+    "path": "hand-pointing-down.png",
+    "tags": [
+      "hand-pointing-down",
+      "hand pointing down"
+    ]
+  },
+  {
+    "name": "Hand Pointing Left",
+    "path": "hand-pointing-left.png",
+    "tags": [
+      "hand-pointing-left",
+      "hand pointing left"
+    ]
+  },
+  {
+    "name": "Hand Pointing Right",
+    "path": "hand-pointing-right.png",
+    "tags": [
+      "hand-pointing-right",
+      "hand pointing right"
+    ]
+  },
+  {
+    "name": "Hand Pointing Up",
+    "path": "hand-pointing-up.png",
+    "tags": [
+      "hand-pointing-up",
+      "hand pointing up"
+    ]
+  },
+  {
+    "name": "Pointer (Hand)",
+    "path": "pointer-hand.png",
+    "tags": [
+      "pointer-hand",
+      "pointer hand"
+    ]
+  },
+  {
+    "name": "Scissors (Hand)",
+    "path": "scissors-hand.png",
+    "tags": [
+      "scissors-hand",
+      "scissors hand"
+    ]
+  },
+  {
+    "name": "Spock (Hand)",
+    "path": "spock-hand.png",
+    "tags": [
+      "spock-hand",
+      "spock hand"
+    ]
+  },
+  {
+    "name": "Handshake",
+    "path": "handshake.png",
+    "tags": [
+      "handshake",
+      "handshake",
+      "Charity",
+      "Hands",
+      "Political",
+      "Shopping"
+    ]
+  },
+  {
+    "name": "Hard drive",
+    "path": "hard-drive.png",
+    "tags": [
+      "hard-drive",
+      "hard drive",
+      "Devices + Hardware"
+    ]
+  },
+  {
+    "name": "Heart",
+    "path": "heart.png",
+    "tags": [
+      "heart",
+      "heart",
+      "Charity",
+      "Gaming",
+      "Holidays",
+      "Maps",
+      "Medical + Health",
+      "Shapes",
+      "Shopping",
+      "Social",
+      "Sports + Fitness"
+    ]
+  },
+  {
+    "name": "hospital",
+    "path": "hospital.png",
+    "tags": [
+      "hospital",
+      "hospital",
+      "Buildings",
+      "Humanitarian",
+      "Maps",
+      "Medical + Health"
+    ]
+  },
+  {
+    "name": "Hourglass",
+    "path": "hourglass.png",
+    "tags": [
+      "hourglass",
+      "hourglass",
+      "Time"
+    ]
+  },
+  {
+    "name": "Hourglass Half",
+    "path": "hourglass-half.png",
+    "tags": [
+      "hourglass-half",
+      "hourglass half",
+      "Time"
+    ]
+  },
+  {
+    "name": "Identification Badge",
+    "path": "identification-badge.png",
+    "tags": [
+      "identification-badge",
+      "identification badge"
+    ]
+  },
+  {
+    "name": "Identification Card",
+    "path": "identification-card.png",
+    "tags": [
+      "identification-card",
+      "identification card"
+    ]
+  },
+  {
+    "name": "Image",
+    "path": "image.png",
+    "tags": [
+      "image",
+      "image",
+      "Maps",
+      "Photos + Images",
+      "Social"
+    ]
+  },
+  {
+    "name": "Images",
+    "path": "images.png",
+    "tags": [
+      "images",
+      "images",
+      "Maps",
+      "Photos + Images",
+      "Social"
+    ]
+  },
+  {
+    "name": "Keyboard",
+    "path": "keyboard.png",
+    "tags": [
+      "keyboard",
+      "keyboard",
+      "Coding",
+      "Devices + Hardware",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Lemon",
+    "path": "lemon.png",
+    "tags": [
+      "lemon",
+      "lemon",
+      "Food + Beverage",
+      "Fruits + Vegetables",
+      "Maps"
+    ]
+  },
+  {
+    "name": "Life Ring",
+    "path": "life-ring.png",
+    "tags": [
+      "life-ring",
+      "life ring",
+      "Humanitarian",
+      "Maps",
+      "Spinners"
+    ]
+  },
+  {
+    "name": "Lightbulb",
+    "path": "lightbulb.png",
+    "tags": [
+      "lightbulb",
+      "lightbulb",
+      "Energy",
+      "Household",
+      "Maps",
+      "Marketing"
+    ]
+  },
+  {
+    "name": "Map",
+    "path": "map.png",
+    "tags": [
+      "map",
+      "map",
+      "Camping",
+      "Maps",
+      "Travel + Hotel"
+    ]
+  },
+  {
+    "name": "Message",
+    "path": "message.png",
+    "tags": [
+      "message",
+      "message",
+      "Communication",
+      "Social"
+    ]
+  },
+  {
+    "name": "Money bill 1",
+    "path": "money-bill-1.png",
+    "tags": [
+      "money-bill-1",
+      "money bill 1",
+      "Maps",
+      "Money"
+    ]
+  },
+  {
+    "name": "Moon",
+    "path": "moon.png",
+    "tags": [
+      "moon",
+      "moon",
+      "Astronomy",
+      "Weather"
+    ]
+  },
+  {
+    "name": "Newspaper",
+    "path": "newspaper.png",
+    "tags": [
+      "newspaper",
+      "newspaper",
+      "Maps",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Note sticky",
+    "path": "note-sticky.png",
+    "tags": [
+      "note-sticky",
+      "note sticky",
+      "Business",
+      "Files",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Object Group",
+    "path": "object-group.png",
+    "tags": [
+      "object-group",
+      "object group",
+      "Design"
+    ]
+  },
+  {
+    "name": "Object Ungroup",
+    "path": "object-ungroup.png",
+    "tags": [
+      "object-ungroup",
+      "object ungroup",
+      "Design"
+    ]
+  },
+  {
+    "name": "Paper Plane",
+    "path": "paper-plane.png",
+    "tags": [
+      "paper-plane",
+      "paper plane",
+      "Communication",
+      "Transportation",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Paste",
+    "path": "paste.png",
+    "tags": [
+      "paste",
+      "paste",
+      "Business",
+      "Design",
+      "Files"
+    ]
+  },
+  {
+    "name": "Pen to square",
+    "path": "pen-to-square.png",
+    "tags": [
+      "pen-to-square",
+      "pen to square",
+      "Business",
+      "Design",
+      "Editing",
+      "Writing"
+    ]
+  },
+  {
+    "name": "Rectangle list",
+    "path": "rectangle-list.png",
+    "tags": [
+      "rectangle-list",
+      "rectangle list",
+      "Text Formatting"
+    ]
+  },
+  {
+    "name": "Rectangle X Mark",
+    "path": "rectangle-x-mark.png",
+    "tags": [
+      "rectangle-x-mark",
+      "rectangle x mark"
+    ]
+  },
+  {
+    "name": "Registered Trademark",
+    "path": "registered-trademark.png",
+    "tags": [
+      "registered-trademark",
+      "registered trademark"
+    ]
+  },
+  {
+    "name": "Share from square",
+    "path": "share-from-square.png",
+    "tags": [
+      "share-from-square",
+      "share from square",
+      "Arrows",
+      "Social"
+    ]
+  },
+  {
+    "name": "Snowflake",
+    "path": "snowflake.png",
+    "tags": [
+      "snowflake",
+      "snowflake",
+      "Disaster + Crisis",
+      "Household",
+      "Humanitarian",
+      "Spinners",
+      "Travel + Hotel",
+      "Weather"
+    ]
+  },
+  {
+    "name": "Square",
+    "path": "square.png",
+    "tags": [
+      "square",
+      "square",
+      "Shapes"
+    ]
+  },
+  {
+    "name": "Square caret down",
+    "path": "square-caret-down.png",
+    "tags": [
+      "square-caret-down",
+      "square caret down",
+      "Arrows"
+    ]
+  },
+  {
+    "name": "Square caret left",
+    "path": "square-caret-left.png",
+    "tags": [
+      "square-caret-left",
+      "square caret left",
+      "Arrows"
+    ]
+  },
+  {
+    "name": "Square caret right",
+    "path": "square-caret-right.png",
+    "tags": [
+      "square-caret-right",
+      "square caret right",
+      "Arrows"
+    ]
+  },
+  {
+    "name": "Square caret up",
+    "path": "square-caret-up.png",
+    "tags": [
+      "square-caret-up",
+      "square caret up",
+      "Arrows"
+    ]
+  },
+  {
+    "name": "Square check",
+    "path": "square-check.png",
+    "tags": [
+      "square-check",
+      "square check",
+      "Editing",
+      "Text Formatting"
+    ]
+  },
+  {
+    "name": "Square Full",
+    "path": "square-full.png",
+    "tags": [
+      "square-full",
+      "square full",
+      "Gaming"
+    ]
+  },
+  {
+    "name": "Square minus",
+    "path": "square-minus.png",
+    "tags": [
+      "square-minus",
+      "square minus",
+      "Mathematics"
+    ]
+  },
+  {
+    "name": "Square plus",
+    "path": "square-plus.png",
+    "tags": [
+      "square-plus",
+      "square plus",
+      "Maps",
+      "Medical + Health"
+    ]
+  },
+  {
+    "name": "Star",
+    "path": "star.png",
+    "tags": [
+      "star",
+      "star",
+      "Shapes",
+      "Shopping",
+      "Social",
+      "Toggle"
+    ]
+  },
+  {
+    "name": "star-half",
+    "path": "star-half.png",
+    "tags": [
+      "star-half",
+      "star half",
+      "Toggle"
+    ]
+  },
+  {
+    "name": "Star half stroke",
+    "path": "star-half-stroke.png",
+    "tags": [
+      "star-half-stroke",
+      "star half stroke",
+      "Toggle"
+    ]
+  },
+  {
+    "name": "Sun",
+    "path": "sun.png",
+    "tags": [
+      "sun",
+      "sun",
+      "Energy",
+      "Spinners",
+      "Weather"
+    ]
+  },
+  {
+    "name": "thumbs-down",
+    "path": "thumbs-down.png",
+    "tags": [
+      "thumbs-down",
+      "thumbs down",
+      "Hands",
+      "Shopping",
+      "Social"
+    ]
+  },
+  {
+    "name": "thumbs-up",
+    "path": "thumbs-up.png",
+    "tags": [
+      "thumbs-up",
+      "thumbs up",
+      "Hands",
+      "Shopping",
+      "Social"
+    ]
+  },
+  {
+    "name": "Trash can",
+    "path": "trash-can.png",
+    "tags": [
+      "trash-can",
+      "trash can",
+      "Editing",
+      "Humanitarian"
+    ]
+  },
+  {
+    "name": "User",
+    "path": "user.png",
+    "tags": [
+      "user",
+      "user",
+      "Social",
+      "Users + People"
+    ]
+  },
+  {
+    "name": "Window Maximize",
+    "path": "window-maximize.png",
+    "tags": [
+      "window-maximize",
+      "window maximize",
+      "Coding"
+    ]
+  },
+  {
+    "name": "Window Minimize",
+    "path": "window-minimize.png",
+    "tags": [
+      "window-minimize",
+      "window minimize",
+      "Coding"
+    ]
+  },
+  {
+    "name": "Window Restore",
+    "path": "window-restore.png",
+    "tags": [
+      "window-restore",
+      "window restore",
+      "Coding"
+    ]
+  }
+]

@@ -16,7 +16,7 @@ const argv = yargs()
     .option('style', {
         alias: 's',
         type: 'string',
-        choices: ['regular', 'solid', 'brands'],
+        choices: ['regular', 'solid', 'brands', 'light', 'sharp', 'thin'],
         describe: 'icon style',
         default: 'solid'
     })
@@ -89,6 +89,12 @@ class Worker {
             await FileHelpers.copyFileAndEnsurePathExistsAsync(file,
                 path.join(`com.fortawsome.${this.options.style}.${this.options.license ? 'pro' : 'free'}.sdIconPack/`, path.basename(file)));
         }
+
+        if (this.options.license) {
+            await FileHelpers.copyFileAndEnsurePathExistsAsync('./pro/license.txt',
+                path.join(`com.fortawsome.${this.options.style}.pro.sdIconPack/`, path.basename('license.txt')));
+        }
+
     }
 
     async buildAsync() {
@@ -103,6 +109,7 @@ class Worker {
         await spawn('DistributionTool', ['-b', '-i', `com.fortawsome.${style}.sdIconPack`, '-o', 'Release']);
     }
 }
+
 
 const worker = new Worker(argv);
 

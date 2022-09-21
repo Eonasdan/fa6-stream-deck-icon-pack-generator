@@ -4,12 +4,32 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:sollid": "node index.js",
+    "build:solid": "node index.js",
     "release:solid": "node index.js -r",
+
     "build:brands": "node index.js -s brands",
     "release:brands": "node index.js -r -s brands",
+
     "build:regular": "node index.js -s regular",
-    "release:regular": "node index.js -r -s regular"
+    "release:regular": "node index.js -r -s regular",
+
+    "build:brands-pro": "node index.js -s brands -l",
+    "release:brands-pro": "node index.js -r -l -s brands",
+
+    "build:light-pro": "node index.js -s light -l",
+    "release:light-pro": "node index.js -r -l -s light",
+
+    "build:regular-pro": "node index.js -s regular -l",
+    "release:regular-pro": "node index.js -r -l -s regular",
+
+    "build:sharp-solid-pro": "node index.js -s sharp -l",
+    "release:sharp-solid-pro": "node index.js -r -l -s sharp",
+
+    "build:solid-pro": "node index.js -s solid -l",
+    "release:solid-pro": "node index.js -r -l -s solid",
+
+    "build:thin-pro": "node index.js -s thin -l",
+    "release:thin-pro": "node index.js -r -l -s thin"
   },
   "keywords": [
     "font",

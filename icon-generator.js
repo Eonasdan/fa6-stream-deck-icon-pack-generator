@@ -4,9 +4,9 @@ const yaml = require('js-yaml');
 const {registerFont, createCanvas} = require('canvas');
 const {FileHelpers} = require("./file-helpers");
 
-registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf'), {family: 'Font Awesome 6 Regular'});
-registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf'), {family: 'Font Awesome 6 Solid'});
-registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf'), {family: 'Font Awesome 6 Brands'});
+// registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf'), {family: 'Font Awesome 6 Regular'});
+// registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf'), {family: 'Font Awesome 6 Solid'});
+// registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf'), {family: 'Font Awesome 6 Brands'});
 
 /**
  * Icon set generator options
@@ -43,6 +43,13 @@ registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-brands-4
  * @property {string[]} terms - Search Terms
  */
 
+/**
+ * Icon Metadata
+ * @typedef {Object} IconCategories
+ * @property {string[]} icons - Icons in this category.
+ * @property {string} label - Name of the category
+ */
+
 
 class IconWorker {
     /**
@@ -56,15 +63,80 @@ class IconWorker {
      */
     iconManifest = [];
 
+    /**
+     *
+     * @type {IconCategories[]}
+     */
+    iconCategories = [];
+
     constructor(options) {
         this.options = options;
+
+        let fontPath;
+        let fontFamily;
+        switch (this.options.style) {
+            case 'regular':
+                if (this.options.license) {
+                    fontFamily = 'Font Awesome 6 Pro Regular';
+                    fontPath = './pro/';
+                } else {
+                    fontFamily = 'Font Awesome 6 Free Regular';
+                    fontPath = '@fortawesome/fontawesome-free/webfonts/';
+                }
+                fontPath += 'fa-regular-400.ttf';
+                break;
+            case 'brands':
+                if (this.options.license) {
+                    fontPath = './pro/';
+                } else {
+                    fontPath = '@fortawesome/fontawesome-free/webfonts/';
+                }
+                fontPath += 'fa-brands-400.ttf';
+                fontFamily = 'Font Awesome 6 Brands Regular';
+                break;
+            case 'light':
+                fontPath = './pro/fa-light-300.ttf';
+                fontFamily = 'Font Awesome 6 Pro Light';
+                break;
+            case 'sharp':
+                fontPath = './pro/fa-sharp-solid-900.ttf';
+                fontFamily = 'Font Awesome 6 Sharp Solid';
+                break;
+            case 'thin':
+                fontPath = './pro/fa-thin-100.ttf';
+                fontFamily = 'Font Awesome 6 Pro Thin';
+                break;
+            case 'solid':
+            default:
+                if (this.options.license) {
+                    fontFamily = 'Font Awesome 6 Pro Solid';
+                    fontPath = './pro/fa-solid-900.ttf';
+                } else {
+                    fontFamily = 'Font Awesome 6 Free Solid';
+                    fontPath = '@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf';
+                }
+                break;
+        }
+
+        registerFont(require.resolve(fontPath),
+            {family: `${fontFamily} `}) //I have no idea why the space here is required
+
+        this.options.fontFamily = fontFamily;
     }
 
     async _loadIconMeta() {
+        let metaData;
+        let categories;
         if (!this.options.license) {
-            const metaData = await fs.readFile(require.resolve('@fortawesome/fontawesome-free/metadata/icons.yml'))
-            this.iconsMetadata = Object.values(yaml.load(metaData));
+            metaData = await fs.readFile(require.resolve('@fortawesome/fontawesome-free/metadata/icons.yml'));
+            categories = await fs.readFile(require.resolve('@fortawesome/fontawesome-free/metadata/categories.yml'));
+        } else {
+            metaData = await fs.readFile(require.resolve('./pro/icons.yml'));
+            categories = await fs.readFile(require.resolve('./pro/categories.yml'));
         }
+
+        this.iconCategories = Object.values(yaml.load(categories));
+        this.iconsMetadata = Object.values(yaml.load(metaData)).filter(x => x.styles.includes(this.options.style));
     }
 
     async generate() {
@@ -77,15 +149,24 @@ class IconWorker {
 
         await FileHelpers.removeDirectoryAsync(path.join(outputPath, 'icons'), false);
 
-        for (const metaData of this.iconsMetadata.filter(x => x.styles.includes(this.options.style))) {
+        this.createCanvas();
+
+        for (const metaData of this.iconsMetadata) {
             let unicodeIcon = String.fromCodePoint(parseInt(metaData.unicode, 16));
 
-            let iconFileName = `${this.slugify(metaData.label)}.png`;
+            const label = this.slugify(metaData.label);
+            let iconFileName = `${label}.png`;
 
-            let iconBuffer = this.drawIcon(unicodeIcon, 144, this.options.style, this.options.backgroundColor, this.options.iconColor);
+            let iconBuffer = this.drawIcon(unicodeIcon);
             await FileHelpers.writeFileAndEnsurePathExistsAsync(path.join(this.options.outputPath, 'icons', iconFileName), iconBuffer);
 
-            metaData.search.terms.push(metaData.label.replace(',', '').replace('\'', '\\\''));
+            metaData.search.terms.push(label, label.replace(/-/g, ' '));
+
+            const categories = this.iconCategories
+                .filter(x => x.icons.includes(metaData.label) || x.icons.includes(label))
+                .map(x => x.label);
+
+            metaData.search.terms.push(...categories);
 
             this.iconManifest.push({
                 name: metaData.label,
@@ -111,41 +192,35 @@ class IconWorker {
             .replace(/--+/g, '-');        // Replace multiple - with single -
     }
 
-    drawIcon(unicode, size, style, backgroundColor, iconColor, margin) {
-        const canvas = createCanvas(size, size);
+    _canvas;
+
+    createCanvas() {
+        const canvas = createCanvas(144, 144);
         const ctx = canvas.getContext('2d');
 
-        ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-        ctx.fillStyle = `#${backgroundColor}`;
-        ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-        ctx.fillStyle = `#${iconColor}`;
         ctx.globalAlpha = 1;
 
         ctx.textBaseline = 'middle';
         ctx.textAlign = 'center';
+        ctx.font = `72px '${this.options.fontFamily}'`;
 
-        let fontFamily;
-        switch (style) {
-            case 'regular':
-                fontFamily = 'Font Awesome 6 Free Regular';
-                break;
-            case 'brands':
-                fontFamily = 'Font Awesome 6 Brands Regular';
-                break;
-            case 'solid':
-            default:
-                fontFamily = 'Font Awesome 6 Free Solid';
-                break;
-        }
+        this._canvas = {canvas, ctx};
+    }
 
-        ctx.font = `180px '${fontFamily}'`;
+    resetCanvas() {
+        const {ctx, canvas } = this._canvas;
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-        const textMetrics = ctx.measureText(unicode);
-        const realFontSize = 72// Math.min(180, 180 * ((180 + 5) / textMetrics.width)); //todo
-        ctx.font = `${realFontSize}px '${fontFamily}'`;
+        ctx.fillStyle = `#${this.options.backgroundColor}`;
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
 
+        ctx.fillStyle = `#${this.options.iconColor}`;
+    }
+
+    drawIcon(unicode) {
+        const {ctx, canvas} = this._canvas;
+
+        this.resetCanvas();
         ctx.fillText(unicode, 72, 72);
 
         return canvas.toBuffer('image/png');

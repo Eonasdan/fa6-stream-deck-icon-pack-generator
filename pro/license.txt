@@ -1,0 +1,4 @@
+Pro icon sets are dependent on your Font Awesome Pro License.
+
+The source code to generate these icons packs are provided via MIT from @eonasdan.
+However, you are prohibited from distributing the generated icon packs beyond what the FA Pro license covers.
