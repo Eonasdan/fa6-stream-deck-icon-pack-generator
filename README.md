@@ -1,7 +1,10 @@
 # FA6 icon pack for Stream Deck
 This repo can generate [Elgato Stream Deck](https://www.elgato.com/en/stream-deck) icon packs for [Font Awesome](https://fontawesome.com/).
 
-Currently pending a Elgato store release.
+## Installing
+The [Solid](https://apps.elgato.com/icons/com.fortawsome.solid.free) and [Regular](https://apps.elgato.com/icons/com.fortawsome.regular.free) free icon sets are published to the Elgato store.
+
+If you run the release of any of the icon families, you will find the packed version under the Release folder. You can double click these packs to install them locally.
 
 ## Running
 
