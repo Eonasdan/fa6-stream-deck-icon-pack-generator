@@ -1,9 +1,9 @@
 {
     "Name": "Font Awesome Regular Icons",
-    "Version": "1.0",
+    "Version": "1.1",
     "Author": "FortAwesome, Jonathan Peterson",
     "URL": "https://github.com/Eonasdan/fa6-stream-deck-icon-pack-generator",
     "Icon": "icon.svg",
     "License": "license.txt",
-    "Description": "This icon pack includes the free Font Awesome Brands Icons. Icons are provided by CC By 4.0."
+    "Description": "This icon pack includes the free Font Awesome Regular Icons. Icons are provided by CC By 4.0."
 }
