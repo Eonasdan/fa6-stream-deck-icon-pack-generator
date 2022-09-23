@@ -4,10 +4,6 @@ const yaml = require('js-yaml');
 const {registerFont, createCanvas} = require('canvas');
 const {FileHelpers} = require("./file-helpers");
 
-// registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf'), {family: 'Font Awesome 6 Regular'});
-// registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf'), {family: 'Font Awesome 6 Solid'});
-// registerFont(require.resolve('@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf'), {family: 'Font Awesome 6 Brands'});
-
 /**
  * Icon set generator options
  * @typedef {Object} GeneratorArguments
